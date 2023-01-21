@@ -18,4 +18,4 @@ With 13 thousands ATMs, Bank Mandiri’s ATMs are present in every corner of Ind
 
 in Bali which is BCA’s turf. There are only 2 Bank Mandiri’s ATMs are in Bali.
 
-As you may notice, BCA has more ATMs than Bank Mandiri, which only has 13 thousand ATMs. However, BCA ATMs are not present in every corner of Indonesia. This information gives us insight into how BCA and Bank Mandiri select their ATM locations.
+As you may notice, BCA has more ATMs than Bank Mandiri, which the latter only has 13 thousand ATMs. However, BCA ATMs are not present in every corner of Indonesia. This information gives us insight into how BCA and Bank Mandiri select their ATM locations.
