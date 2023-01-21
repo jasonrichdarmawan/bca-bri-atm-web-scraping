@@ -1,0 +1,943 @@
+address,city,province,latitude,longitude
+"Jl. Pemuda No. 73, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.9753911,110.4175972
+"Jl. Pemuda No. 69, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Jl. Setiabudi G.62 E&F, Sumurboto, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50263",Kota Semarang,Jawa Tengah,-6.8623557,107.5962293
+"Jl. Setiabudi G.62 E&F, Sumurboto, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50263",Kota Semarang,Jawa Tengah,-6.8623557,107.5962293
+"Jl. Sultan Fatah No. 4B, Demak, Jawa Tengah, 59511",Kabupaten Demak,Jawa Tengah,-6.8911127,110.6408652
+"Jl. Sultan Fatah No. 4B, Demak, Jawa Tengah, 59511",Kabupaten Demak,Jawa Tengah,-6.8911127,110.6408652
+"Jl. Sultan Fatah No. 4B, Demak, Jawa Tengah, 59511",Kabupaten Demak,Jawa Tengah,-6.8911127,110.6408652
+"Jl. Raya Kaligawe Km. 4, No. 11 B, Muktiharjo Lor, Genuk, 50111",Kota Semarang,Jawa Tengah,-6.9554731,110.4614703
+"Jl. Kaligawe Km. 4, No. 11 B, Muktiharjo Lor, Genuk, Semarang, Jawa Tengah 50164",Kota Semarang,Jawa Tengah,-6.9554731,110.4614703
+"Jl. Arteri Soekarno Hatta No. 16 Cd, Pedurungan, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50196",Kota Semarang,Jawa Tengah,-6.9887196,110.4565127
+"Jl. Arteri Soekarno Hatta No. 16 Cd, Pedurungan, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50196",Kota Semarang,Jawa Tengah,-6.9887196,110.4565127
+"Jl. Majapahit No.217, Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192",Kota Semarang,Jawa Tengah,-7.005258599999999,110.4527654
+"Jl. Majapahit No.226A, Gemah, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50248",Kota Semarang,Jawa Tengah,-7.004593799999999,110.4531609
+"Jl. Pandanaran No.104, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",Kota Semarang,Jawa Tengah,-6.988127899999999,110.4196971
+"Jl. Pandanaran No.104, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",Kota Semarang,Jawa Tengah,-6.988127899999999,110.4196971
+"Jl. Empu Tantular No.29, Old Town, Bandarharjo, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174",Kota Semarang,Jawa Tengah,-6.967408400000001,110.4250869
+"Jl. Empu Tantular No.29, Old Town, Bandarharjo, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174",Kota Semarang,Jawa Tengah,-6.967408400000001,110.4250869
+"Jl. Empu Tantular No.29, Old Town, Bandarharjo, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174",Kota Semarang,Jawa Tengah,-6.967408400000001,110.4250869
+"Gg. Pinggir No.13 A, Kranggan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50139",Kota Semarang,Jawa Tengah,-6.9752582,110.4281059
+"Gg. Pinggir No.13 A, Kranggan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50139",Kota Semarang,Jawa Tengah,-6.9752582,110.4281059
+"Jl. M.T. Haryono, No. 419, Semarang, Karangturi, Semarang Timur, Jagalan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50124",Kota Semarang,Jawa Tengah,-6.9834638,110.4315308
+"Jl. M.T. Haryono, No. 419, Semarang, Karangturi, Semarang Timur, Jagalan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50124",Kota Semarang,Jawa Tengah,-6.9834638,110.4315308
+"Jl. Pemuda No. 73, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.9753911,110.4175972
+"Jl. Pemuda No. 69, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Jl. Pemuda No.69, Pandansari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50139",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Jl. Pemuda No. 69, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Jl. Semarang - Purwodadi No.97, Bandung, Bandungrejo, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",Kabupaten Demak,Jawa Tengah,-7.0234633,110.507417
+"Jl. Dr. Sutomo No.16, Randusari, Semarang Selatan, 50244",Kota Semarang,Jawa Tengah,-6.991611,110.407528
+"Jl. Dr. Sutomo No.16, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244",Kota Semarang,Jawa Tengah,-6.991611,110.407528
+"Jl. Wolter Monginsidi 97-98, Bangetayu Kulon, Genuk, 50116",Kota Semarang,Jawa Tengah,-6.977683499999999,110.4806866
+"Jl. Raya Demak-Kudus, Tanubayan, Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah 59511",Kabupaten Demak,Jawa Tengah,-6.8872867,110.6500307
+"Jl. Demak - Purwodadi No.184, Dempet, Kec. Dempet, Kabupaten Demak, Jawa Tengah 59573",Kabupaten Demak,Jawa Tengah,-6.952373499999999,110.6941273
+"Jl. Pulosari No. 17, Pulosari, Karang Tengah, Pulosarikrajan, Pulosari, Kec. Karangtengah, Kabupaten Demak, Jawa Tengah 59561",Kabupaten Demak,Jawa Tengah,-6.9186673,110.5998543
+"Jl. Semarang - Purwodadi, Karangawen, Pundenarum, Kec. Karangawen, Kabupaten Demak, Jawa Tengah 59566",Kabupaten Demak,Jawa Tengah,-7.0473557,110.5888421
+"Babatan, Karanganyar, Kec. Karanganyar, Kabupaten Demak, Jawa Tengah 59582",Kabupaten Demak,Jawa Tengah,-6.8710767,110.7688668
+"Jl. Raya Guntur, Guntur, Kabupaten Demak, Jawa Tengah 59565",Kabupaten Demak,Jawa Tengah,-6.9667634,110.6142163
+"Jl. Pucang Gading Raya 70, Pucanggading, Batursari, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",Kabupaten Demak,Jawa Tengah,-7.038904,110.4914686
+"Jl. Brigjen Sudiarto 324, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50246",Kota Semarang,Jawa Tengah,-7.008293,110.4634429
+"Jl. Brigjen Sudiarto 324, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50246",Kota Semarang,Jawa Tengah,-7.008293,110.4634429
+"Jl. Pahlawan No.3, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.9920374,110.4216004
+"Jl. Pahlawan No.3, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.9920374,110.4216004
+"Jl. Pahlawan No.3, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.9920374,110.4216004
+"Jl. Pahlawan No.3, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.9920374,110.4216004
+"Kawasan Industri Candi,Jl. Candi Raya Blok F1E No.1-2",Kota Semarang,Jawa Tengah,-6.9925318,110.3601862
+"Jl. Raya Blok F 1E, Kawasan Idustri Candi, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.150975,110.1402594
+"Genting, Jerukgulung, Kec. Dempet, Kabupaten Demak, Jawa Tengah 59573, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9742716,110.7271464
+"Genting, Jerukgulung, Kec. Dempet, Kabupaten Demak, Jawa Tengah 59573, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9742716,110.7271464
+"Jl. Utama Tengah No. 198, Weleri, Kabupaten Kendal, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-6.972052,110.070084
+"Jl. Kepodang No.32-34, Purwodinatan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50137",Kota Semarang,Jawa Tengah,-6.9693693,110.4272889
+"Jl. Kepodang No.32-34, Purwodinatan, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50137",Kota Semarang,Jawa Tengah,-6.9693693,110.4272889
+"Jl. Jatimulyo No.21 A - C, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268, Indonesia",Kota Semarang,Jawa Tengah,-7.0564035,110.4333536
+"Jl. Jatimulyo No.21 A - C, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268",Kota Semarang,Jawa Tengah,-7.0564035,110.4333536
+"Jl. Ketileng Raya No.42 Rt01/R08, Sendang Mulyo, Getasan, Sendangmulyo, Tembalang, Kota Semarang, Jawa Tengah 50272",Kota Semarang,Jawa Tengah,-7.0301032,110.4682019
+"Jl. Jatimulyo No.21 A - C, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268, Indonesia",Kota Semarang,Jawa Tengah,-7.0564035,110.4333536
+"Jl. Jatimulyo No.21 A - C, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268, Indonesia",Kota Semarang,Jawa Tengah,-7.0564035,110.4333536
+"Jl. Semarang - Yogyakarta No.18, Kupangdukun, Kupang, Kec. Ambarawa, Semarang, Jawa Tengah 50612, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.2546469,110.412413
+"Jl. Jend. Sudirman No.88, Ambarawa, Kabupaten Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.255898999999999,110.4069654
+"Jl. Prof. Dr. Hamka No.6, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50185, Indonesia",Kota Semarang,Jawa Tengah,-6.9881044,110.3589103
+"Jl. Ngaliyan, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50184",Kota Semarang,Jawa Tengah,-6.9898981,110.3585287
+"Jl. Prof. Dr. Hamka No. 9 Ruko C,D,E Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9979511,110.3454058
+"Jl. Kedungmundu No. 511 Blok C-D, Kabupaten Banjarnegara, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.023116099999999,110.458281
+"Jl. Kedungmundu No. 511 Blok C-D, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.023116099999999,110.458281
+"Jl. Puri Anjasmoro Raya No.18b, RT.3, Tawangmas, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50144, Indonesia",Kota Semarang,Jawa Tengah,-6.972046199999999,110.3902927
+"Jl. Anjasmoro Raya Blok C1 No. 19 Ab, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.975263,110.3905757
+"Jalan Jati Raya Blok B No 9 A-C, Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50264",Kabupaten Semarang,Jawa Tengah,-7.0666566,110.4184981
+"Jalan Jati Raya Blok B No 9 A-C, Srondol Wetan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50264",Kabupaten Semarang,Jawa Tengah,-7.0666566,110.4184981
+"Ruko Sultan Agung No. 55 K, Jl. S. Parman, Gajahmungkur, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0070304,110.4148043
+"Jl. Ahmad Yani No.53 - 54, Sidomulyo, Kec. Ungaran Tim., Semarang, Jawa Tengah 50241",Kota Semarang,Jawa Tengah,-7.1339424,110.4095711
+"Jl Ahmad Yani No 53 - 54 Ungaran, Kabupaten Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.1339424,110.4095711
+"Tim.,, Sidomulyo, Kec. Ungaran Tim., Semarang, Jawa Tengah 50514, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.134866199999999,110.4098237
+"Jl. Pamularsih Raya No.71a, Bongsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50148, Indonesia",Kota Semarang,Jawa Tengah,-6.98746,110.3918562
+"Jl. Pamularsih Raya No.71a, Bongsari, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50148, Indonesia",Kota Semarang,Jawa Tengah,-6.98746,110.3918562
+"Jl. Ahmad Yani No.191, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50242",Kota Semarang,Jawa Tengah,-6.9942546,110.4305378
+"Jl. Ahmad Yani No.191, Karangkidul, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50242",Kota Semarang,Jawa Tengah,-6.9942546,110.4305378
+"Jl. Sisingamangaraja No.16, Kaliwiru, Kec. Candisari, Kota Semarang, Jawa Tengah 50253",Kota Semarang,Jawa Tengah,-7.0164534,110.4279554
+"Jl. Sisingamangaraja No. 8 Semarang, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0164608,110.4276382
+"Jl. Raya Ketapang No.64, Malang, Ketapang, Kec. Kendal, Kabupaten Kendal, Jawa Tengah 51319, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9392707,110.213017
+"Jl. Arteri Soekarno Hatta No. 16 Kav. Cd, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-6.9887196,110.4565127
+"Jl. Raya Ketapang No.64, Malang, Ketapang, Kec. Kendal, Kabupaten Kendal, Jawa Tengah 51319, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9392707,110.213017
+"Jl. Raya Soekarno-Hatta No.273, Kendal, Pegulon, Kec. Kendal, Kabupaten Kendal, Jawa Tengah 51313, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9204408,110.200868
+"Jl. Pemuda - Boja, Simbang Badakan, Bebengan, Kec. Boja, Kabupaten Kendal, Jawa Tengah 51381, Indonesia",Kabupaten Kendal,Jawa Tengah,-7.1054707,110.2628338
+"Jl. Pahlawan No. 10 Gedung Pt Telkom (Persero),, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.994377,110.421647
+"Jl. Jend. Gatot Subroto No. 671 E-F, Ungaran, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.115121599999999,110.4131347
+"Jl. Jend. Gatot Subroto No. 671 E-F, Ungaran, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.115121599999999,110.4131347
+"Jl.Raya No.378 Kel Sarirejo Kaliwungu Kab Kendal, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9422283,110.2518509
+"Jl. Mgr. Sugiopranoto No. 36 Ab, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9831289,110.4058039
+"Jl. Mgr. Sugiyopranoto No. 36 A-B, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9831289,110.4058039
+"Jalan Diponegoro No.41, Salatiga, Sidorejo, Salatiga, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50711, Indonesia",Kota Salatiga,Jawa Tengah,-7.3216797,110.4999685
+"Jl. Diponegoro, Salatiga, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50711, Indonesia",Kota Salatiga,Jawa Tengah,-7.320923,110.4993741
+"Jalan Diponegoro No.41, Salatiga, Sidorejo, Salatiga, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50711, Indonesia",Kota Salatiga,Jawa Tengah,-7.3216797,110.4999685
+"Jalan Diponegoro No.41, Salatiga, Sidorejo, Salatiga, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50711, Indonesia",Kota Salatiga,Jawa Tengah,-7.3216797,110.4999685
+"Jalan Raya soekarno hatta depan pabrik gula, Cepiring, Cepiring Tengah, Cepiring, Kec. Cepiring, Kabupaten Kendal, Jawa Tengah 51352, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9264742,110.1558975
+"Jl. Abdulrahman Saleh No.395, Kalipancur, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50183, Indonesia",Kota Semarang,Jawa Tengah,-7.0101219,110.3783344
+"Jl. Bahari No. 8 Rt 04 Rw 01, Rowosari, Kabupaten Kendal, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-6.918276499999999,110.0538873
+"Jl. Raya Salatiga – Solo Km 8,5 kab Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.3982021,110.513604
+"Jl. Kemasan, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173",Kota Yogyakarta,Jawa Tengah,-7.8239418,110.4004547
+"Jl. Slamet Riyadi No.285, Sondakan, Kec. Laweyan, Kota Surakarta 57147",Kota Surakarta,Jawa Tengah,-7.5671513,110.8101858
+"Jl. Slamet Riyadi No.285, Sondakan, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57147",Kota Surakarta,Jawa Tengah,-7.5671513,110.8101858
+"Jl. Slamet Riyadi No.285, Sondakan, Kec. Laweyan, Kota Surakarta 57147",Kota Surakarta,Jawa Tengah,-7.5671513,110.8101858
+"Jl. Slamet Riyadi No.285, Sondakan, Kec. Laweyan, Kota Surakarta 57147",Kota Surakarta,Jawa Tengah,-7.5671513,110.8101858
+"Plaza Atrium Blokc C-D, Jl. Raya Sukowati No. 302-304, Sragen Tengah, Sragen, Magero, Sragen Tengah, Kec. Sragen, Kabupaten Sragen, Jawa Tengah 57211",Kabupaten Sragen,Jawa Tengah,-7.4265703,111.0234586
+"Plaza Atrium Blokc C-D, Jl. Raya Sukowati No. 302-304 Magero, Sragen Tengah, Kec. Sragen 57211",Kabupaten Sragen,Jawa Tengah,-7.4265703,111.0234586
+"Plaza Atrium Blokc C-D, Jl. Raya Sukowati No. 302-304 Magero, Sragen Tengah, Kec. Sragen 57211",Kabupaten Sragen,Jawa Tengah,-7.4265703,111.0234586
+"Jl. Hayam Wuruk No. 5 Bendan, Kec. Pekalongan Bar., Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.8885642,109.6691315
+"Jl. A. Yani No.221, Gumpang Lor, Pabelan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.560573199999999,110.7620491
+"Jl. Ahmad Yani No, 98 Kartosuro, Sukoharjo 57169, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.552406099999999,110.7418657
+"Jl. Sudirman No. 59 Mulyoharjo, Kec. Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8907186,109.3907719
+"Jl. Sudirman No. 59 Mulyoharjo, Kec. Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8907186,109.3907719
+"Jl. Sudirman No. 59, Mulyoharjo, Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8907186,109.3907719
+"Jl. Sudirman No. 59 Mulyoharjo, Kec. Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8907186,109.3907719
+"Jl. Jend. Sudirman No.132, Sukorejo, Giritirto, Kec. Wonogiri, Wonogiri 57611",Kabupaten Wonogiri,Jawa Tengah,-7.818582900000001,110.9226259
+"Jl. Jend. Sudirman No.132, Sukorejo, Giritirto, Kec. Wonogiri, Kabupaten Wonogiri, Jawa Tengah 57611",Kabupaten Wonogiri,Jawa Tengah,-7.818582900000001,110.9226259
+"Jl. Imam Bonjol No.34, Rw.6, Kergon, Kec. Pekalongan Barat. Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.886503299999999,109.6695572
+"Jl. Imam Bonjol No.34, Rw.6, Kergon, Kec. Pekalongan Barat. Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.886503299999999,109.6695572
+"Jl. Imam Bonjol No.34, Rw.6, Kergon, Kec. Pekalongan Barat. Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.886503299999999,109.6695572
+"Jl. Imam Bonjol No.34, Rw.6, Kergon, Kec. Pekalongan Barat. Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.886503299999999,109.6695572
+"Jl. Kates Blok A, Pulisen, Boyolali, Ngrancah, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57316",Kabupaten Boyolali,Jawa Tengah,-7.540613,110.5991436
+"Jl. Pandanaran No.26, Ngrancah, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.538115800000001,110.6086598
+"Jl. Kates Blok A, Pulisen, Boyolali, Ngrancah, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali 57316",Kabupaten Boyolali,Jawa Tengah,-7.5443533,110.5979452
+"Jl. Raya Banjaran No. 10 Adiwerna, Tegal 52194, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9257575,109.1354448
+"Jl. Raya Banjaran No. 10 Adiwerna, Tegal 52194, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9257575,109.1354448
+"Jl. Raya Banjaran No. 10 Adiwerna, Tegal 52194, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9257575,109.1354448
+"Jl. Slamet Riyadi No.329, Purwosari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57142",Kota Surakarta,Jawa Tengah,-7.5650922,110.8039531
+"Jl. Slamet Riyadi No.329, Purwosari, Kec. Laweyan, Kota Surakarta 57142",Kota Surakarta,Jawa Tengah,-7.5650922,110.8039531
+"Jl. Raya Delanggu Utara No.55A-B, Gatak, Delanggu, Gatak, Kec. Delanggu, Kabupaten Klaten, Jawa Tengah 57471",Kabupaten Klaten,Jawa Tengah,-7.6164208,110.7005863
+"Jl. Raya Delanggu Utara No.55A-B, Gatak, Delanggu, Gatak, Kec. Delanggu, Kabupaten Klaten, Jawa Tengah 57471",Kabupaten Klaten,Jawa Tengah,-7.6164208,110.7005863
+"Jl. Raya Delanggu Utara No.55A-B, Gatak, Kec. Delanggu, Kabupaten Klaten, Jawa Tengah 57471",Kabupaten Klaten,Jawa Tengah,-7.6164208,110.7005863
+"Jl. Yos Sudarso No.387, Joyotakan, Kec. Serengan, Kota Surakarta, Jawa Tengah 57552",Kota Surakarta,Jawa Tengah,-7.590245500000001,110.8173639
+"Jl. Bunga Matahari, Sawah Irigasi, Kabunan, Kec. Taman, Kabupaten Pemalang, Jawa Tengah 52361, Indonesia",Kabupaten Brebes,Jawa Tengah,-6.8774627,109.407716
+"Jl. Bunga Matahari, Sawah Irigasi, Kabunan, Kec. Taman, Kabupaten Pemalang, Jawa Tengah 52361, Indonesia",Kabupaten Brebes,Jawa Tengah,-6.8774627,109.407716
+"Jl. Bunga Matahari, Sawah Irigasi, Kabunan, Kec. Taman, Kabupaten Pemalang, Jawa Tengah 52361, Indonesia",Kabupaten Brebes,Jawa Tengah,-6.8774627,109.407716
+"Jl. Adi Sucipto, Jajar, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57144",Kota Surakarta,Jawa Tengah,-7.5499094,110.787643
+"Jl. Raya Palur No. 32, Jaten, Dagen, Jaten, Turisari, Dagen, Karanganyar, Kabupaten Karanganyar 57771",Kabupaten Karanganyar,Jawa Tengah,-7.5677265,110.8745695
+"Jl. Raya Palur No. 32, Jaten, Dagen, Jaten, Turisari, Dagen, Karanganyar, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5677265,110.8745695
+"Jl. Lawu No.386, Cangakan Timur, Cangakan, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5947142,110.9446794
+"Jl. Lawu No.386, Cangakan Timur, Cangakan, Kec. Karanganyar, Karanganyar 57716",Kabupaten Karanganyar,Jawa Tengah,-7.5947142,110.9446794
+"Jl. Lawu No.386, Cangakan Timur, Cangakan, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah 57716",Kabupaten Karanganyar,Jawa Tengah,-7.5947142,110.9446794
+"Jl. Gatot Subroto No.127, Jayengan, Kec. Serengan, Kota Surakarta, Jawa Tengah 57152",Kota Surakarta,Jawa Tengah,-7.5742417,110.8209028
+"Jl. Jenderal Sudirman No.29, Larangan Kulon, Gayam, Gawanan, Sukoharjo 57551",Kabupaten Sukoharjo,Jawa Tengah,-7.6800016,110.8414949
+"Jl. Jend. Sudirman No. 29 Sukoharjo Jawa Tengah, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.6800016,110.8414949
+"Jl. Sultan Sahrir, No. 204, Pasar Legi, Setabelan, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5636318,110.8247329
+"Depan Bank BRI, Jl. Pangeran Diponegoro No.149, Dukuhturi, Kec. Bumiayu, Kabupaten Brebes, Jawa Tengah 52273, Indonesia",Kabupaten Brebes,Jawa Tengah,-7.2470243,109.006605
+"Jl. Veteran No.154, Kratonan, Kec. Serengan, Kota Surakarta, Jawa Tengah 57155",Kota Surakarta,Jawa Tengah,-7.581452899999999,110.8189471
+"Jl. Veteran No.154, Kratonan, Kec. Serengan, Kota Surakarta 57155",Kota Surakarta,Jawa Tengah,-7.581452899999999,110.8189471
+"Jl. Jend. Urip Sumoharjo No.106, Purwodiningratan, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",Kota Surakarta,Jawa Tengah,-7.563482,110.8353965
+"Jl. Pemuda Selatan No. 121, Tonggalan, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.7128818,110.5936783
+"Jl. Pemuda Selatan No.121, Mlinjon, Tonggalan, Kec. Klaten Tengah, Klaten 57411",Kabupaten Klaten,Jawa Tengah,-7.7128818,110.5936783
+"Jl. Pemuda Sel. No.121, Mlinjon, Tonggalan, Kec. Klaten Tengah, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.7128818,110.5936783
+"No. 189 Banjarsari, Jl. Kapten Piere Tendean No.187, Nusukan, Solo, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.542576999999999,110.8201583
+"Komp. Hotel Marlin Jl. A. Yani No. 15, Mayangan, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.8916381,109.6215327
+"Jl. Raya Pasar Pedan Rt. 02/10 Kios No 7, Sobayan, Keden, Pedan, Polaharjo, Sobayan, Kec. Pedan, Kabupaten Klaten",Kabupaten Klaten,Jawa Tengah,-7.6916369,110.7044892
+"Jl. Raya Pasar Pedan Rt. 02/10 Kios No 7, Sobayan, Keden, Pedan, Polaharjo, Pedan, Klaten 57468",Kabupaten Klaten,Jawa Tengah,-7.6916369,110.7044892
+"Jl. Lawu No.85, Keprabon, Karangpandan, Kec. Karangpandan, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.615498000000001,111.0788877
+"Jl. Wonogiri Pacitan, Baturetno, Batu Lor, Baturetno, Wonogiri, Kabupaten Wonogiri 57673",Kabupaten Wonogiri,Jawa Tengah,-7.978248,110.9335156
+"Jl.Raya Tegal Harjo , Kb.Dalem Kidul, Kec.Prambanan, Kab.Klaten",Kabupaten Klaten,Jawa Tengah,-7.759820299999999,110.4992004
+"Jl. Brigjend. Slamet Riyadi No. 16 Kota Surakarta/Solo, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.571359699999999,110.8273279
+"Jl. Slamet Riyadi No.16 Kampung Baru, Pasar Kliwon",Kota Surakarta,Jawa Tengah,-7.571359699999999,110.8273279
+"Jl. Brigjend. Slamet Riyadi No. 16 , Solo, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.571359699999999,110.8273279
+"Jl. Slamet Riyadi No.16, Kp. Baru, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57122",Kota Surakarta,Jawa Tengah,-7.571359699999999,110.8273279
+"Jl. Slamet Riyadi No.16 Kampung Baru, Pasar Kliwon",Kota Surakarta,Jawa Tengah,-7.571359699999999,110.8273279
+"Jl.Raya Gemolong - Gabugan Dukuh Rejosari Desa Gabugan, Kec.Tanon",Kabupaten Sragen,Jawa Tengah,-7.3069912,110.8445145
+"Jl. Raya Jatinom Rt. 15 Rw. 7, Jatinom, Klaten, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.6334763,110.5998803
+"Jl. Noyotrunan Rt01 Rw006 Cawas,Klaten, Dusun Ii, Cawas, Kec. Cawas, Kabupaten Klaten, Jawa Tengah 57469",Kabupaten Klaten,Jawa Tengah,-7.7596021,110.7077766
+"Badran, Jatisrono, Kabupaten Wonogiri, Jawa Tengah 57691",Kabupaten Wonogiri,Jawa Tengah,-7.828994300000001,111.1294996
+"Jambangan, Celep, Mojogedang, Kabupaten Karanganyar, Jawa Tengah 57752",Kabupaten Karanganyar,Jawa Tengah,-7.5304928,111.0100387
+"Jl. Pattimura, Rt 02 Rw 01, Desa Ketaguhan, Tawangsari, Sawah, Kec. Sukoharjo, Sukoharjo 57561",Kabupaten Karanganyar,Jawa Tengah,-7.7285206,110.7897275
+"Jl. Dr. Radjiman No.5A, Gajahan, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57155",Kota Solo,Jawa Tengah,-7.5753702,110.8267448
+"Jl. Dr. Radjiman No.5A, Gajahan, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57155",Kota Solo,Jawa Tengah,-7.5753702,110.8267448
+"Jl. Rahayu No.9, Badran, Gondang, Sragen, Kabupaten Sragen 57255",Kabupaten Sragen,Jawa Tengah,-7.4026348,111.1173695
+"Jl. Jend Sudirman No.11, Budimulya, Slawi Wetan, Kec. Slawi, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.985914699999999,109.1404824
+"Jl. Jend Sudirman No.11, Budimulya, Slawi Wetan, Kec. Slawi, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.985914699999999,109.1404824
+"Ruko Komplek Saraswati, Jl. Ir. Soekarno No. 9-10, Madegondo, Grogol, Dusun Ii, Madegondo, Kec. Grogol, Sukoharjo 57552",Kabupaten Sukoharjo,Jawa Tengah,-7.6004548,110.8150589
+"Jl. Raya Purwantoro-Wonogiri Rt 01 / Rw 04, Blimbing Kidul, Purwantoro, Wonogiri, 57695",Kabupaten Wonogiri,Jawa Tengah,-7.8487262,111.2671541
+"Jl. Solo - Purwodadi, Dusun 1, Gemolong, Kec. Gemolong, Kabupaten Sragen, Jawa Tengah 50274",Kabupaten Sragen,Jawa Tengah,-7.4008534,110.8252367
+"Jl. Solo - Purwodadi Km.20 Dusun 1, Gemolong, Kec. Gemolong, Kabupaten Sragen, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.3999552,110.8256665
+"Jl. Solo - Purwodadi, Dusun 1, Kec. Gemolong, Sragen 50274",Kabupaten Sragen,Jawa Tengah,-7.4008534,110.8252367
+"Tempel, Pandes, Kec. Wedi, Kabupaten Klaten, Jawa Tengah 57461",Kabupaten Klaten,Jawa Tengah,-7.750204099999999,110.5885853
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Raya Wonogiri Ngadirojo Km 10 Sanggrahan, Ngadirojo Kidul, Kec. Ngadirojo, Kabupaten Wonogiri, Jawa Tengah 57681",Kabupaten Wonogiri,Jawa Tengah,-7.8144833,110.9958664
+"Jalan Mayor Ahmadi, Rw. 4, Bekonang, Kec. Mojolaban, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.6093483,110.8730769
+"Jalan Jenderal Sudirman No.29, Larangan Kulon, Gayam, Sukoharjo, Gawanan, Sukoharjo, Kec. Sukoharjo, Jawa Tengah, 57551",Kabupaten Sukoharjo,Jawa Tengah,-7.6800016,110.8414949
+"Jl. Solo - Sragen No.4508, Kebayanan 3, Jati, Kec. Masaran, Kabupaten Sragen 57282",Kabupaten Sragen,Jawa Tengah,-7.4702977,110.9294948
+"Jl. Jend. Sudirman No.11, Randugunting, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8704895,109.1349865
+"Jl. Jend. Sudirman No.11, Randugunting, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8704895,109.1349865
+"Jl. Jend. Sudirman No.11, Randugunting, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8704895,109.1349865
+"Jl. Jend. Sudirman No.11, Randugunting, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8704895,109.1349865
+"Jl. Jend. Sudirman No.164 Ketanggungan, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.935535199999999,108.8917426
+"Jl. Jend. Sudirman No. 323 - Batang, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-6.9078127,109.7357139
+"Jl. Gatot Subroto No. 87 Randudongkal Kec. Randudongkal, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-7.1022886,109.3255671
+"Jl. Raya Pekalongan Kedungwuni Rt 03/14, Kedungwuni Timur, Kec. Kedungwuni",Kabupaten Pekalongan,Jawa Tengah,-7.0668654,109.7168096
+"Jl. Raya Sempu Ruko No. 1, Sempu, Limpung, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-7.008193599999999,109.9266123
+"Jl. Raya Timur No. 86, Jatibarang, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.966252799999999,109.0557768
+"Jl. Mt. Haryono, Kabunan, Dukuhwaru, Kabupaten Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9763679,109.1195388
+Jl. Raya Margasari Rt 01/04 Desa Margasari Kecamatan Margasari,Kabupaten Tegal,Jawa Tengah,-7.092642,109.0260216
+"Jl. Raya Bandarsidayu - Batang No.1 Rt.01/Rw.04 Kel. Bandarsidayu Kec. Bandarsidayu Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-7.0313202,109.7980509
+"Jl. Pemalang - Purbalingga, Bentar, Belik, Kec. Belik, Kabupaten Pemalang, Jawa Tengah 52356",Kabupaten Pemalang,Jawa Tengah,-7.181216,109.3270156
+"Jl Walisongo Kec. Bawang Kab, Batang, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-7.1056934,109.9194838
+"Jl. Raya Pantura No.38, Petarukan, Kec. Petarukan, Kabupaten Pemalang, Jawa Tengah 52362, Indonesia",Kota Pekalongan,Jawa Tengah,-6.8954096,109.459632
+"Jl Raya Bojong - Guci Kec. Bojong, Tegal, Jawa Tengah 52465",Kabupaten Tegal,Jawa Tengah,-7.1374932,109.1495378
+"Jl. Jend. Sudirman No. 463, Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.426759499999999,109.2422434
+"Jl. Jend. Soedirman No. 463 Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.426759499999999,109.2422434
+"Jl. Jend. Soedirman No. 463 Purwokerto, Kota Purwokerto, Jawa Tengah",Kota Purwokerto,Jawa Tengah,-7.426759499999999,109.2422434
+"Jl. Jend. Soedirman No.61A, Kauman Lama, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53141",Kabupaten Banyumas,Jawa Tengah,-7.428168299999999,109.2405063
+"Jl. Jend. Soedirman No. 463 Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.426759499999999,109.2422434
+"Jl. Diponegoro No. 85, Majenang, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.298611,108.7697258
+"Jl. Diponegoro No.85, Tanjungsari, Sindangsari, Kec. Majenang, Kabupaten Cilacap, Jawa Tengah 53527, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.298611,108.7697258
+"Jl. Jend. Ahmad Yani No. 100, Sidakaya, Cilacap Selatan",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. Jend Ahmad Yani No.100 Cilacap 53212, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. Jend. Ahmad Yani No.100, Dafam Cilacap, Sidakaya, Kec. Cilacap Sel., Kabupaten Cilacap, Jawa Tengah 53211, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. Jend. Ahmad Yani No.100, Dafam Cilacap, Sidakaya, Kec. Cilacap Sel., Kabupaten Cilacap, Jawa Tengah 53211, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. Jend Ahmad Yani No.100 Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. Jend Ahmad Yani No.100 Cilacap 53212, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.7315915,109.0097227
+"Jl. S Parman No. 68, Banjarnegara, Kabupaten Banjarnegara, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.3960128,109.7025101
+"Jl. S Parman No. 68, Banjarnegara, Kabupaten Banjarnegara, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.3960128,109.7025101
+"Jl. Prof. Dr. Hr Boenyamin Bwk Ii, Pabuwaran, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.3989511,109.2450306
+"Jl. Prof. Dr. Hr Boenyamin Bwk Ii, Pabuwaran, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.3989511,109.2450306
+"Jl. Prof. Dr. Hr Boenyamin Bwk Ii, Pabuwaran, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.3989511,109.2450306
+"Jl. Purwareja Klampok Rt 03 Rw 09, Klampok, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.477049399999999,109.430112
+"Jl. Jend Ahmad Yani No.10A Kroya, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6322408,109.2489337
+"Jl. Jend. Ahmad Yani No.10-A, Kroya, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.740684700000001,109.0095352
+"Jl. Gatot Subroto No. 4 Sokaraja, Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.467757100000001,109.2996525
+"Jl. Raya Pancasan No. 12, Ajibarang, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.424209299999999,109.0771985
+"Jl.  Raya Pancasan No.12, Ajibarang, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.424209299999999,109.0771985
+"Jl. Rs Yosomiharjo Rt 02 Rw 11 Bobotsari, Purbalingga Jawa Tengah",Kabupaten Purbalingga,Jawa Tengah,-7.304292899999999,109.3643734
+"Jl. Gatot Subroto No. 756 Sudagaran, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.5115068,109.2963084
+"Jl. Gatot Subroto No.756, Banyumas, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.5115068,109.2963084
+"Jl. Raya Utara No. 02 Kel. Banteran , Kec. Wangon, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.5116317,109.0583486
+"Jl. Raya Cilongok No 3,  Rt 04 Rw 01 Cilongok, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.412344499999999,109.1612527
+"Jl. Yos Sudarso 140 B Purwokerto Barat, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.4209514,109.2043776
+"Jalan Mayjend Sungkono Km. 1, Kalikabong, Kalimanah",Kabupaten Purbalingga,Jawa Tengah,-7.4016683,109.3488802
+"Jl. Gatot Subroto No.10 Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.707365899999999,109.0205068
+"Jl. Gatot Subroto No. 10, Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.707365899999999,109.0205068
+"Jl. Gatot Subroto No.10 Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.707365899999999,109.0205068
+"Jl. Jend. Sudirman No. 187, Sidamulya, Sidareja, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.485272600000001,108.7927876
+"Jl Jend Sudirman 463, Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.426759499999999,109.2422434
+Pertamina Maos Cilacap Swc Jl. Raya Kesugihan Maos,Kabupaten Cilacap,Jawa Tengah,-7.6066355,109.1455477
+"Jl. Jend Sudiman No.53 Purbalingga, Kabupaten Purbalingga, Jawa Tengah",Kabupaten Purbalingga,Jawa Tengah,-7.388791,109.3597456
+"Jl. Jend Sudiman No.53 Purbalingga, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.4214193,109.2068391
+"Jl. Jend. Sudirman No. 53, Purbalingga, Jawa Tengah",Kabupaten Purbalingga,Jawa Tengah,-7.388791,109.3597456
+Jl. D.I. Panjaitan Ruko Platinum Blok J-11 Purwokerto,Kabupaten Banyumas,Jawa Tengah,-7.4079342,109.2139195
+Jl. Di Panjaitan Ruko Platinum Blok J No.11 Pasar Wage Purwokerto,Kabupaten Banyumas,Jawa Tengah,-7.4271361,109.2487778
+"Jalan Jend. Sudirman No. 164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59381",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jalan Jend. Sudirman No. 164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59381",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jalan Jend. Sudirman No. 164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59381",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jalan Jend. Sudirman No. 164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59381",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jalan Jend. Sudirman No. 164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59381",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jl. Diponegoro No. 19 Ngarus, Puri, Kec. Pati, Kabupaten Pati, Jawa Tengah 59112",Kabupaten Pati,Jawa Tengah,-6.7479356,111.0285811
+Plaza Juwana No.32-33 Jl. P. Sudirman Juwana Pati Jawa Tengah,Kabupaten Pati,Jawa Tengah,-6.7187565,111.1445229
+"Jl. Akbp R Agil Kusumadya 110, Kudus, Kabupaten Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.8302355,110.8277946
+"Jl. Diponegoro No. 19 Ngarus, Puri, Kec. Pati, Kabupaten Pati, Jawa Tengah 59112",Kabupaten Pati,Jawa Tengah,-6.7479356,111.0285811
+"Jl. Diponegoro No. 19 Ngarus, Puri, Kec. Pati, Kabupaten Pati, Jawa Tengah 59112",Kabupaten Kebumen,Jawa Tengah,-6.7479356,111.0285811
+"Jl. Diponegoro No. 19 Ngarus, Puri, Kec. Pati, Kabupaten Pati, Jawa Tengah 59112",Kabupaten Pati,Jawa Tengah,-6.7479356,111.0285811
+"Jl. Hos. Cokroaminoto No.4, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417",Kabupaten Jepara,Jawa Tengah,-6.5947554,110.6647192
+"Jl. Hos. Cokroaminoto No.4, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417",Kabupaten Jepara,Jawa Tengah,-6.5947554,110.6647192
+"Jl. Hos. Cokroaminoto No.4, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417",Kabupaten Jepara,Jawa Tengah,-6.5947554,110.6647192
+"Jl. Hos. Cokroaminoto No.4, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417",Kabupaten Jepara,Jawa Tengah,-6.5947554,110.6647192
+"Jl. Alun-Alun Sel. No.5, Mlangsen, Kec. Blora Kota, Kabupaten Blora, Jawa Tengah 58215",Kabupaten Blora,Jawa Tengah,-6.9696531,111.4132985
+"Jl. Alun-Alun Sel. No.5, Mlangsen, Kec. Blora Kota, Kabupaten Blora, Jawa Tengah 58215",Kabupaten Blora,Jawa Tengah,-6.9696531,111.4132985
+"Jl. Alun-Alun Sel. No.5, Mlangsen, Kec. Blora Kota, Kabupaten Blora, Jawa Tengah 58215",Kabupaten Blora,Jawa Tengah,-6.9696531,111.4132985
+"Jl. R. Suprapto No. 97 A-B Purwodadi Grobogan, Jawa Tengah",Kabupaten Grobogan,Jawa Tengah,-7.0916599,110.913094
+"Jl. R. Suprapto No. 97 A-B,Â Purwodadi Grobogan Jawa Tengah",Kabupaten Grobogan,Jawa Tengah,-7.0916599,110.913094
+"Jl. Raya Pati - Kudus No.159, Tambak, Kauman, Jekulo, Kabupaten Kudus, Jawa Tengah 59382",Kabupaten Kudus,Jawa Tengah,-6.8063297,110.9207463
+"Kradenan, Kabupaten Grobogan, Jawa Tengah 58182, Indonesia",Kabupaten Grobogan,Jawa Tengah,-7.149028299999999,111.1433863
+"Warudoyong, Ngawen, Kabupaten Blora, Jawa Tengah 58254",Kabupaten Blora,Jawa Tengah,-7.0045715,111.315057
+"Jl. Raya Batangan  - Jaken Km3, Pati Jawa Tengah, Jawa Tengah",Kabupaten Pati,Jawa Tengah,-6.7134053,111.229482
+"Jl. Raya Rembang - Blora, Ngotet Kidul, Ngotet, Kec. Rembang, Kabupaten Rembang, Jawa Tengah 59219",Kabupaten Blora,Jawa Tengah,-6.7317308,111.3529896
+"Jl. Raya Welahan, Gedangan, Welahan, Kabupaten Jepara, Jawa Tengah 59464",Kabupaten Jepara,Jawa Tengah,-6.7864975,110.7230559
+"Margoyoso Ii, Margoyoso, Kalinyamatan, Kabupaten Jepara, Jawa Tengah 59462",Kabupaten Jepara,Jawa Tengah,-6.7272012,110.7219314
+"Jl. Silugonggo Rt 3 Rw 3 Juwana, Kabupaten Pati 59185",Kabupaten Pati,Jawa Tengah,-6.7189954,111.1467722
+"Jl Raya Puncak Wangi No. 3 Gabus Pati, Kabupaten Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.8312981,111.0542985
+"Jl. Bhayangkara No 61 Gubug, Gerobogan Jawa Tengah",Kabupaten Grobogan,Jawa Tengah,-7.0551391,110.6678974
+"Jalan Diponegoro No. 7, Cepu, Kabupaten Blora, Jawa Tengah 58312",Kabupaten Blora,Jawa Tengah,-7.1443127,111.593146
+"Jalan Diponegoro No. 7, Cepu, Kabupaten Blora, Jawa Tengah 58312",Kabupaten Blora,Jawa Tengah,-7.1443127,111.593146
+"Jalan Diponegoro No. 7, Cepu, Kabupaten Blora, Jawa Tengah 58312",Kabupaten Blora,Jawa Tengah,-7.1443127,111.593146
+"Jalan Diponegoro No. 7, Cepu, Kabupaten Blora, Jawa Tengah 58312",Kabupaten Blora,Jawa Tengah,-7.1443127,111.593146
+"Jl. Kartini, Belah Lor, Sambiroto, Tayu, Kabupaten Pati, Jawa Tengah 53176",Kabupaten Pati,Jawa Tengah,-6.5383422,111.0532062
+"Wulung, Randublatung, Kabupaten Blora, Jawa Tengah 58382",Kabupaten Blora,Jawa Tengah,-7.168250299999999,111.3977787
+"Jl. Raya Sedan Rt.02, Desa/ Kec. Sedan, Waru, Sidorejo, Rembang, Kabupaten Rembang, Jawa Tengah 59264",Kabupaten Rembang,Jawa Tengah,-6.7681419,111.5735086
+"Jl. Purwodadi - Sukolilo - Pati, Karaban, Gabus, Kabupaten Pati, Jawa Tengah 59171",Kabupaten Pati,Jawa Tengah,-6.8347312,111.0133237
+"Kampunganyar, Trangkil, Kabupaten Pati, Jawa Tengah 59153",Kabupaten Pati,Jawa Tengah,-6.664746099999999,111.0654148
+"Jalan Kudus - Purwodadi No.Km. 7, Rt.3, Wates, Undaan, Area Sawah/Kebun, Ketanjung, Karanganyar, Kabupaten Kudus, Jawa Tengah 59372",Kabupaten Kudus,Jawa Tengah,-6.9241619,110.7925327
+"Jl. Jend. Sudirman No.164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59301, Indonesia",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jl. Raya Rembang - Blora Km.12 Rt.02 Rw.02, Sulang, Sulang, Sulang, Rembang, Kabupaten Rembang, Jawa Tengah 59254",Kabupaten Sragen,Jawa Tengah,-6.8077564,111.3828738
+"Jl. Raya Kelet - Klepu, Karang Anyar, Kelet, Keling, Kabupaten Jepara, Jawa Tengah 59454",Kabupaten Jepara,Jawa Tengah,-6.5054199,110.8988031
+"Jl. Jend. Sudirman No.3C, Barongan, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59312",Kabupaten Kudus,Jawa Tengah,-6.8072011,110.8434419
+"Jl. Jend. Sudirman No.3C, Barongan, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59312",Kabupaten Kudus,Jawa Tengah,-6.8072011,110.8434419
+"Jl. Jend. Sudirman No.3C, Barongan, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59312",Kabupaten Kudus,Jawa Tengah,-6.8072011,110.8434419
+"Jl. Raya Blora - Cepu, Jepon, Kec. Blora Kota, Kabupaten Blora, Jawa Tengah 58261",Kabupaten Blora,Jawa Tengah,-6.9722897,111.4586482
+"Jl. Diponegoro, Rt.002/Rw.005, Wirosari, Kunden, Wirosari, Kabupaten Grobogan, Jawa Tengah 58192",Kabupaten Grobogan,Jawa Tengah,-7.075558999999999,111.085602
+"Jl. Raya Blora - Purwodadi, Kunduran, Blora, Jawa Tengah, 58255",Kabupaten Blora,Jawa Tengah,-7.0474183,111.2611741
+"Jl. Rembang-Surabaya No.74, Kragan, Kabupaten Rembang, Jawa Tengah 59273",Kabupaten Rembang,Jawa Tengah,-6.6908881,111.6145438
+"Jl Jend. Sudirman No. 234 Godong, Grobogan Jawa Tengah",Kabupaten Grobogan,Jawa Tengah,-7.0249507,110.7785218
+Jl. Diponegoro No. 188A Purwodadi Grobogan Jawa Tengah,Kabupaten Grobogan,Jawa Tengah,-7.1133688,110.9114872
+"Jl. Diponegoro No.68, Kutoharjo, Tasikagung, Kec. Rembang, Kabupaten Rembang, Jawa Tengah 59215",Kabupaten Rembang,Jawa Tengah,-6.703892,111.3387415
+"Jl. Raya Rembang Km 1, Rembang Jawa Tengah, Jawa Tengah",Kabupaten Rembang,Jawa Tengah,-6.755493700000001,111.4863709
+"Jl. Raya Lasem Km 1, Rembang Jawa Tengah, Jawa Tengah",Kabupaten Rembang,Jawa Tengah,-6.754096100000001,111.4839117
+"Jl Jend Sudirman No. 26, Komplek Pertokoan Rejotumoto Magelang",Kota Magelang,Jawa Tengah,-7.497250999999999,110.2232952
+"Jl Jend Sudirman No. 26, Komplek Pertokoan Rejotumoto Magelang",Kota Magelang,Jawa Tengah,-7.497250999999999,110.2232952
+"Jl. Jendral Sudirman No. 26 Magelang, Kota Magelang, Jawa Tengah",Kota Magelang,Jawa Tengah,-7.497250999999999,110.2232952
+"Jl Jend Sudirman No. 26, Komplek Pertokoan Rejotumoto Magelang",Kota Magelang,Jawa Tengah,-7.497250999999999,110.2232952
+"Jl. Yos Sudarso No.656 B, Kedungampel, Wonokriyo, Kec. Gombong, Kabupaten Kebumen, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.608191499999999,109.5066011
+"Jl. Yos Sudarso No.656 B, Kedungampel, Wonokriyo, Kec. Gombong, Kabupaten Kebumen, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.608191499999999,109.5066011
+"Jl. Yos Sudarso No.656 B, Kedungampel, Wonokriyo, Kec. Gombong, Kabupaten Kebumen, Jawa Tengah 54412",Kabupaten Kebumen,Jawa Tengah,-7.608191499999999,109.5066011
+"Jl. Parakan - Kedu No.12, Mulyosari, Wanutengah Temanggung",Kabupaten Temanggung,Jawa Tengah,-7.2878279,110.1050196
+"Jl. Ajibarang Secang No.12, Jubug, Wanutengah, Parakan, Kabupaten Temanggung, Jawa Tengah 56254, Indonesia",Kabupaten Temanggung,Jawa Tengah,-7.2865767,110.1055413
+"Jl Diponegoro No 114  Kutoarjo Kab Purworejo, Jawa Tengah",Kabupaten Purworejo,Jawa Tengah,-7.7246769,109.9013451
+"Jl. Pangeran Diponegoro No. 114, Kel.Kutoarjo, Kec.Kutoarjo, Kembang Arum, Kutoarjo, Purworejo, Kabupaten Purworejo, Jawa Tengah 54251, Indonesia",Kabupaten Purworejo,Jawa Tengah,-7.7220387,109.9101663
+"Kompleks Ruko Munsen Blok C1 C2, Jalan Tambakan, Muntilan, Karangwatu, Sedayu, Kec. Muntilan, Magelang, Jawa Tengah 56411",Kabupaten Pati,Jawa Tengah,-7.5804012,110.2848568
+"Kompleks Ruko Munsen Blok C1 C2, Jalan Tambakan, Muntilan",Kabupaten Magelang,Jawa Tengah,-7.5804012,110.2848568
+"Jl. Jenderal Soedirman No.20a, Sumberan Selatan, Wonosobo Bar., Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah 56311, Indonesia",Kabupaten Wonosobo,Jawa Tengah,-7.364041100000001,109.9008111
+"Jl. Jenderal Soedirman No.20a, Sumberan Selatan, Wonosobo Bar., Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah 56311, Indonesia",Kabupaten Wonosobo,Jawa Tengah,-7.364041100000001,109.9008111
+"Jl. Jenderal Soedirman No.20a, Sumberan Selatan, Wonosobo Bar., Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah 56311, Indonesia",Kabupaten Wonosobo,Jawa Tengah,-7.364041100000001,109.9008111
+"Jl. Kh  Siroj  No.12, Rt.01/01 Grabag, Grabag, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.430121199999999,110.3124658
+"Jl. Kh  Siroj  No.12, Rt.01/01 Grabag, Grabag, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.430121199999999,110.3124658
+"Jl. Parakan No. 127 Kerteg, Kec. Kertek, Gondang, Candimulyo, Kec. Wonosobo",Kabupaten Wonosobo,Jawa Tengah,-7.3776129,109.9742057
+"Metro Square Blok B07 Magelang Jawa tengah, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.517142,110.2261422
+"Jl. Magelang - Purworejo No.7, Brengkel Satu, Salaman, Kec. Salaman, Magelang, Jawa Tengah 56162, Indonesia",Kabupaten Magelang,Jawa Tengah,-7.580056399999999,110.1336982
+"Jl. Dr. Wahidin No. 147, Kutowinangun, Kuwarisan, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.7162568,109.7325059
+"Jl. Pahlawan No.431, Kenalan, Kranggan, Kec. Kranggan, Kabupaten Temanggung, Jawa Tengah 56271",Kabupaten Temanggung,Jawa Tengah,-7.3275147,110.1793771
+"Jl. Raya Sapuran - Kalikajar, Lempongsari, Rt 1/ Rw 12, Sapuran, Sidodadi, Sapuran, Kabupaten Wonosobo, Jawa Tengah 56373",Kabupaten Wonosobo,Jawa Tengah,-7.411901599999999,109.9705274
+"Jl. Raya Prembun No.27, Kaliworo, Kaliwiro, Kabupaten Wonosobo, Jawa Tengah 56364",Kabupaten Wonosobo,Jawa Tengah,-7.459565599999999,109.8504194
+"Jl. Magelang - Salatiga No.20, Ngernak, Tegalrejo, Kec. Tegalrejo, Magelang, Jawa Tengah 58192",Kabupaten Magelang,Jawa Tengah,-7.461349499999999,110.2720706
+"Jl. Ahmad Yani, Kramat Sel., Kec. Magelang Utara, Jawa Tengah",Kota Magelang,Jawa Tengah,-7.4503198,110.2242664
+"Jl. Secang - Temanggung, Kauman, Kowangan, Kec. Temanggung, Kabupaten Temanggung, Jawa Tengah 56218",Kabupaten Temanggung,Jawa Tengah,-7.391034599999999,110.2459606
+"Ruko Pandean Square, Jl. Mt Haryono No.68, Suronatan, Temanggung Ii, Kec. Temanggung, Kabupaten Temanggung, Jawa Tengah 56213",Kabupaten Temanggung,Jawa Tengah,-7.315390099999998,110.1727636
+"Ruko Pandean Square, Jl. Mt Haryono No.68, Suronatan, Temanggung",Kabupaten Temanggung,Jawa Tengah,-7.3154613,110.1727548
+"Jl. Kol. Sugiono No.5, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",Kabupaten Purworejo,Jawa Tengah,-7.711981700000001,110.0168529
+"Jl. Kol. Sugiono No.5, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",Kabupaten Purworejo,Jawa Tengah,-7.711981700000001,110.0168529
+"Jl. Ahmad Yani No.25, Dukuh, Kebumen, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.6728372,109.6625378
+"Jl. Ahmad Yani No.25, Dukuh, Kebumen, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.6728372,109.6625378
+"Jl. K.H. Wahid Hasyim, Rw. V, Bapangan, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59413",Kabupaten Jepara,Jawa Tengah,-6.6045124,110.6798319
+"Jl. Kol. Sugiono No.5, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",Kabupaten Purworejo,Jawa Tengah,-7.711981700000001,110.0168529
+"Jl. Meranti Raya 364-360, Padangsari, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50263",Kota Semarang,Jawa Tengah,-7.0706352,110.4215646
+"Jl. Untung Suropati No. 168, Kalipancur, Ngaliyan, Kota Semarang, Jawa Tengah 50183",Kota Semarang,Jawa Tengah,-7.012086,110.3771879
+"Jl. Meranti Raya 364-360, Padangsari, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50263",Kota Semarang,Jawa Tengah,-7.0706352,110.4215646
+"Jl. Tlogosari Ii No.14, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50246",Kota Semarang,Jawa Tengah,-6.985994300000001,110.4591474
+"Jalan Diponegoro 189, Ungaran, Ungaran Bar, Ungaran Timur, Sidomulyo, Semarang, Jawa Tengah 50511",Kabupaten Semarang,Jawa Tengah,-7.1356265,110.4042813
+"Jl. Klaten - Solo, Sidorejo, Belang Wetan, Kec. Klaten Utara, Kabupaten Klaten, Jawa Tengah 57438",Kabupaten Klaten,Jawa Tengah,-7.6878884,110.6319615
+"Jl. Adi Sucipto No. 30, Manahan, Banjarsari, Surakarta",Kota Surakarta,Jawa Tengah,-7.554346000000001,110.8004753
+"Jl. Purworejo - Salaman No.298, Purworejo, Baledono, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",Kabupaten Purworejo,Jawa Tengah,-7.715392099999999,110.0141312
+"Sawah, Banaran, Kec. Grogol, Kabupaten Sukoharjo 57552",Kabupaten Sukoharjo,Jawa Tengah,-7.578613700000001,110.7912176
+"Jl. S Parman No. 68, Banjarnegara, Kabupaten Banjarnegara, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.3960128,109.7025101
+"Jl. Jend. Sudirman No.11, Randugunting, Kec. Tegal Sel., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8704895,109.1349865
+"Jl. Prof. Dr. Hr Boenyamin No. 15, Purwokerto, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.3978175,109.2449583
+"Jl. Taman Siswa No.87, Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229, Indonesia",Kota Semarang,Jawa Tengah,-7.048412,110.395337
+"Ungaran, Ngamplak, Susukan, Kec. Ungaran Tim., Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.1265458,110.4247192
+"Jl. Ki Mangun Sarkoro No.42, Kadipiro, Kec. Banjarsari, Kota Surakarta 57136",Kota Surakarta,Jawa Tengah,-7.5415247,110.8167585
+"Wedang Ronde Mas Yoga Jl. Fatmawati No.94, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273",Kota Semarang,Jawa Tengah,-7.020580799999999,110.4705237
+"Jl. Mataram Kel. Sumur Panggang, Kec. Margadana Tegal",Kota Tegal,Jawa Tengah,-6.8712806,109.1082865
+"Kompleks Ex Pg Colomadu, Jalan Adi Sucipto, Malangjiwan, Colomadu, Malangjiwan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah 57177",Kabupaten Karanganyar,Jawa Tengah,-7.540308199999998,110.7453633
+"Jl. Pedan No.6 Bebean Rt.09/04, Keder, Senobayan, Sobayan, Kec. Pedan, Klaten 57468",Kabupaten Klaten,Jawa Tengah,-7.6980928,110.7047763
+"Jl. A. Yani No.308, Gumpang Lor, Pabelan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57169",Kabupaten Sukoharjo,Jawa Tengah,-7.559898599999999,110.757666
+"Jl. Raya Dampyak, Dampyak, Kramat, Dampyak, Kramat, Tegal, Jawa Tengah 52181",Kabupaten Tegal,Jawa Tengah,-6.8607509,109.1588049
+"Jl. Raya Ambokembang No.42-44, Cangkring, Ambokembang, Kedungwuni",Kabupaten Pekalongan,Jawa Tengah,-6.957565,109.6492579
+"Jl. Letnan Jenderal S. Parman No.29A, Bendungan, Gajahmungkur, 50231",Kota Semarang,Jawa Tengah,-7.004949000000001,110.409498
+"Jl. Dr. Wahidin Sudiro Husodo No.5-15, Dafam Cilacap, Sidakaya, Kec. Cilacap Selatan",Kabupaten Cilacap,Jawa Tengah,-7.732403199999999,109.015333
+"Jl. Raya Sampang-Buntu, Buntu, Kroya, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.5898578,109.2521209
+"Jl. Insinyur Haji Juanda, Karangtalun, Cilacap Utara, Karangtalun, Cilacap Utara",Kabupaten Cilacap,Jawa Tengah,-7.6895064,109.0194496
+"Jalan Nusantara No.1, Karangtalun, Cilacap Utara, Karangtalun, Cilacap Utara",Kabupaten Cilacap,Jawa Tengah,-7.6676417,109.0397949
+"Jl. Raya Dukuhwaluh, Dukuhwaluh, Kembaran, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.413334,109.2697843
+"Jl. Mayjen Sutoyo No.73, Rw. V, Sindurjan, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54113",Kabupaten Purworejo,Jawa Tengah,-7.7128866,110.0075041
+"Idm 2 Jl. Pangeran Dipenogoro, Serdo Timur, Kutoarjo, Kec. Kutoarjo, Kabupaten Purworejo, Jawa Tengah 54251",Kabupaten Purworejo,Jawa Tengah,-7.719536300000001,109.9194235
+"Jl. Soekarno Hatta No.2, Sambirejo, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50166",Kota Semarang,Jawa Tengah,-6.9780155,110.4492708
+"Jl. Kedungmundu No.888, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273, Indonesia",Kota Semarang,Jawa Tengah,-7.0239341,110.4600389
+"Jl. Shima, Mulyoharjo, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59415",Kabupaten Jepara,Jawa Tengah,-6.585735,110.6776431
+"Jl. Jend. Sudirman No. 21, Losari, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.9288663,108.8934433
+"Jl. Raya Sumpiuh No.177, Sumpiuh, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.613313799999999,109.3608444
+"Jl. Raya Simpang Empat Buntu, Banyumas, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.5878874,109.2747197
+"Ds. Benersari Kebayanan Pedakan, Bener, Kec. Ngrampal, Kabupaten Sragen, Jawa Tengah",Kabupaten Sragen,Jawa Tengah,-7.398679899999999,111.061689
+"Jl. Jend. Sudirman, Nganguk, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59312",Kabupaten Kudus,Jawa Tengah,-6.8047294,110.8515092
+"Jl. Kartini, Krapyak, Merbung, Kec. Klaten Sel., Kabupaten Klaten, Jawa Tengah 57424",Kota Klaten,Jawa Tengah,-7.7151167,110.5982445
+"Jalan Dokter Cipto No.121A, Sarirejo, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50124",Kota Semarang,Jawa Tengah,-6.983455699999999,110.4346109
+"Jl. Gajah Raya No.58, Siwalan, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50162",Kota Semarang,Jawa Tengah,-6.9821887,110.4489141
+"Jl. Tirto Agung No.77a, Pedalangan, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50268, Indonesia",Kota Semarang,Jawa Tengah,-7.0601279,110.427582
+"Jalan Panembahan Senopati No.12, Kemirirejo, Magelang Tengah, Jurangombo Utara, Kec. Magelang Sel",Kota Magelang,Jawa Tengah,-7.484846799999999,110.212962
+"Jl. Khr Asnawi, Jalan Gedang Sewu No.41, Gendang Sewu, Bakalankrapyak, Kaliwungu, Kabupaten Kudus, Jawa Tengah 59332",Kabupaten Kudus,Jawa Tengah,-6.7982906,110.8324402
+"Jl. Yosodipuro No.133, Mangkubumen, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139 Solo Paragon Mall, Alamat",Kota Surakarta,Jawa Tengah,-7.5627133,110.8099874
+"Jl. Yosodipuro No.133, Mangkubumen, Kec. Banjarsari, Kota Surakarta 57139",Kota Surakarta,Jawa Tengah,-7.5627133,110.8099874
+"Nglande Wetan, Ngijo, Kec. Tasikmadu, Kabupaten Karanganyar, Jawa Tengah 57721",Kabupaten Karanganyar,Jawa Tengah,-7.5760741,110.9320358
+"Jl. Ir. Soekarno, Dusun Ii, Madegondo, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552",Kabupaten Sukoharjo,Jawa Tengah,-7.6013818,110.8137556
+"Jl. Kh Wahid Hasyim No.5, Karangklesem, Purwokerto Selatan",Kabupaten Banjarnegara,Jawa Tengah,-7.444889700000001,109.2417941
+"Jl. Adi Sucipto No.47, Kenaiban, Blulukan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah 57174",Kabupaten Karanganyar,Jawa Tengah,-7.543504,110.7681073
+"Jl. Padi Raya No. 618 E, Genuk Semarang, 50117, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9662961,110.4659011
+"Jl. Raya Solo-Sragen Km.14,5, Sulingan, Kemiri, Kec. Kebakkramat, Kabupaten Karanganyar",Kabupaten Karanganyar,Jawa Tengah,-7.5020981,110.9168099
+Jl. Flores 6 No. 80 Rt 2 Rw 6 Gn. Simping Sidanegara,Kabupaten Cilacap,Jawa Tengah,-7.7085341,109.0126281
+"Jl. Bulakan Tegalsari Rt.1 Rw. 1, Bulukan, Sukoharjo, Tegalsari, Bulakan, Kec. Sukoharjo, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.676429400000001,110.7934527
+"Jl. Ra. Kartini No.48 Noyontaan, Kec. Pekalongan Timur Kota Pekalongan, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.8981467,109.6789287
+"Jl. Raya Sidorejo, Sidorejo, Comal, Kabupaten Pemalang, Jawa Tengah 52363",Kabupaten Pemalang,Jawa Tengah,-6.8948284,109.5419102
+"Jl. Jend. Sudirman No.11, Sanggrahan, Giripurwo, Kec. Wonogiri, Wonogiri 57612",Kabupaten Wonogiri,Jawa Tengah,-7.8151826,110.9238281
+"Jl. Raya Solo-Purwodadi Km. 9.5 Mendungsari, Bulurejo, Kec. Gondangrejo, Karanganyar 57188",Kabupaten Karanganyar,Jawa Tengah,-7.4892416,110.8114035
+"Jl.Ry Jepara -Kudus, Mayong Jepara Jawa Tengah, Jawa Tengah",Kabupaten Jepara,Jawa Tengah,-6.7449604,110.7493751
+"Jl. Kapten Suparman No.12, Potrobangsan, Magelang Utara, Potrobangsan, Jogyakarta, Kota Magelang",Kota Magelang,Jawa Tengah,-7.459390300000001,110.2160353
+"Jl. Raya Jatirejo Gringsing Kec. Gringsing, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-6.9655084,110.0434773
+"Jl. Aw. Sumarmo No. 81 Rt 2 Rw 2, Kembaran Kulon, Purbalingga",Kabupaten Purbalingga,Jawa Tengah,-7.38184,109.359
+"Jl. Raya Pasar Timur Pedan Klaten , Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.697890600000001,110.7047778
+"Jl. Padma Boulevard No.8a, Tambakharjo, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50149, Indonesia",Kota Semarang,Jawa Tengah,-6.976191399999999,110.3692719
+"Jl. Raya Secang-Magelang, Sandon, Madyocondro, Kec. Secang, Magelang, Jawa Tengah 56195",Kabupaten Magelang,Jawa Tengah,-7.4023911,110.2409523
+"Jl. Diponegoro No. 85, Majenang, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.298611,108.7697258
+"Jalan Magelang - Jogja Km. 13, Palbapang, Ngepal, Mungkid, Kepreman, Bojong, Mungkid, Magelang, Jawa Tengah 56512",Kabupaten Magelang,Jawa Tengah,-7.571251299999999,110.2604775
+"Jl. Pandanaran No.53 Rt 05/07, Tegalsari Siswodipuro, Pambraman, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.530058100000001,110.6016212
+"Jl. Raya Mangungresep Rt 05/01 Ngresep Ngemplak, Tanjungsari, Dibal, Ngemplak, Boyolali Regency, Central Java",Kabupaten Boyolali,Jawa Tengah,-7.5119359,110.7438345
+"Jl. Sunan Ampel, Pabuaran, Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.3932027,109.2487177
+"Jl. Gatot Subroto Ps. Wanareja Los D No.5, Wanareja, Kec. Wanareja, Kabupaten Cilacap, Jawa Tengah 53265, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.3353778,108.6875592
+"Komplek Ruko Nusantara No. 2-3, Jl. Jend Sudirman No. 162, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.422067999999999,109.2100777
+"Jl. Solo Wonogiri Km 0,8 Ds.Bulak, Nambangan, Kec. Selogiri, Kabupaten Wonogiri, Jawa Tengah 57652",Kabupaten Wonogiri,Jawa Tengah,-7.7494733,110.8798603
+"Jl. Adi Sumarmo No.200, Tohudan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah 57173",Kabupaten Karanganyar,Jawa Tengah,-7.5327731,110.7686552
+"Jl. Rajawali, Klaten, Bareng, Kec. Klaten Tengah, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.7036111,110.6058943
+"Jl. Raya Wangon, Kec. Banjarnegara, Banjarnegara, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.4021072,109.6799827
+"Jl. Prof. H.R. Boenyamin No. 61 Rt 2 Rw 5 Bancarkembar, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.406500599999999,109.2453897
+"Jl. Jenderal Sudirman, Rt3/5 Berkoh, Purwokerto Selalatan, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.4374393,109.2637714
+"Jl. Pemuda No.55, Petengan Selatan, Bintoro, Kec. Demak, Jawa Tengah, 59511",Kabupaten Demak,Jawa Tengah,-6.889317,110.635587
+"Jl. Sosrokartono, Bacin, Panjang, Bae, Kabupaten Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.7912075,110.8490953
+"Jl.Mangkudipuro Km.01 Growong Kidul, Kabupaten Pati",Kabupaten Pati,Jawa Tengah,-6.7147077,111.1384579
+"Jl. Kudus - Jepara No.55, Garung Lor, Purwosari, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59316",Kabupaten Kudus,Jawa Tengah,-6.8040549,110.8290894
+"Jl. Ratu Kalinyamat Krapyak Jepara, Kabupaten Jepara, Jawa Tengah",Kabupaten Jepara,Jawa Tengah,-6.6078023,110.6652485
+"Jl. P. Sudirman No.9, Gebyaran, Sukoharjo, Margorejo",Kabupaten Pati,Jawa Tengah,-6.7604482,111.0146828
+"Kartini, Balemulyo, Kauman, Kec. Muntilan, Magelang, Jawa Tengah 56411",Kabupaten Magelang,Jawa Tengah,-7.5815144,110.2911531
+"Jl. Semarang - Yogyakarta No.358, Sambung Jetis, Jambewangi, Kec. Secang",Kabupaten Magelang,Jawa Tengah,-7.4333254,110.2283826
+"Jalan Pringsurat, Ngabeyan, Nguwet, Kec. Kranggan, Kabupaten Temanggung, Jawa Tengah 56271",Kabupaten Temanggung,Jawa Tengah,-7.3604287,110.2254176
+"Jalan Kha Dahlan, Depan Jodo Plaza, Purworejo, Tegalmalang, Purworejo, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54151",Kabupaten Purworejo,Jawa Tengah,-7.708379099999999,110.0174364
+"Jl. Raya Tampingan, Kec.Boja Kab. Kendal, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-7.1018988,110.2882328
+Jl. Dr. Soeparno Kel. Grendeng Kec. Purwokerto Utara,Kabupaten Banyumas,Jawa Tengah,-7.407811,109.2530049
+"Jl. Slamet Riyadi, Begajah, Kec Sukoharjo , Begajah , Sukoharjo , Sukoharjo , Jawa Tengah, Dusun 1, Begajah, Sukoharjo Sub-District, Sukoharjo Regency, Cen",Kabupaten Sukoharjo,Jawa Tengah,-7.703434399999999,110.8513732
+"Jl. Kolonel Sutarto, Jebres, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",Kota Surakarta,Jawa Tengah,-7.5596234,110.8432524
+Jl. Ki Hajar Dewantoro No. 19 Ketingan Jebres Solo,Kota Surakarta,Jawa Tengah,-7.5555939,110.8549262
+"Jl. Tidar No.30 A, Kemirirejo, Kec. Magelang Tengah, Kota Magelang, Jawa Tengah 56125",Kota Magelang,Jawa Tengah,-7.485551799999999,110.2181373
+"Jl. Raya Kaliwungu No. 111, Semarang, Kabupaten Kendal, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-6.965534,110.2704835
+"Jl.A.Yani No.157 Mendungan, Pabelan, Kartosuro, Sukoharjo",Kabupaten Sukoharjo,Jawa Tengah,-7.557080199999999,110.774082
+"Jl.Mawar Raya No.1 Dk.Ciptonegaran, Sanggrahan, Grogol, Sukoharjo",Kabupaten Sukoharjo,Jawa Tengah,-7.582965599999999,110.8000082
+"Jl. Palaraya No. 12 A Rt. 08 Rw. 16 Mejasem, Tegal",Kabupaten Tegal,Jawa Tengah,-6.8786489,109.1508428
+"Jl. Jenderal Gatot Subroto, 52351, Bojongbata, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.9121124,109.3827228
+"Jl. Roboyong, Pesantren, Kec. Mijen, Kota Semarang, Jawa Tengah 50212",Kabupaten Semarang,Jawa Tengah,-7.0205125,110.3314903
+"Jalan Kantil No.14, Pulisen, Boyolali, Lorjurang, Pulisen, Kec. Boyolali, Kabupaten Boyolali",Kabupaten Boyolali,Jawa Tengah,-7.534857,110.5899471
+"Jl. Embarkasi H., Ngemplak, Gagaksipat, Kec. Ngemplak, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.5235557,110.7638412
+"Jl. Raya Tugu Barat 4 Rt 4 Rw 2 Sampang, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.5624571,109.2005715
+"Jl. Slamet Riyadi No.285, Sondakan, Kec. Laweyan, Kota Surakarta 57147",Kota Surakarta,Jawa Tengah,-7.5671513,110.8101858
+"Jl. Jend. Sudirman No.164, Rendeng, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59301",Kabupaten Kudus,Jawa Tengah,-6.803950599999999,110.8569276
+"Jl. Jend. Sudirman No. 463, Purwokerto Lor, Purwokerto Timur",Kabupaten Banyumas,Jawa Tengah,-7.426759499999999,109.2422434
+"Jl. Pahlawan No.3, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.9920374,110.4216004
+"Jl. Pemuda No.73, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.9753911,110.4175972
+"Jl Jend Sudirman No. 26, Komplek Pertokoan Rejotumoto Magelang",Kota Magelang,Jawa Tengah,-7.497250999999999,110.2232952
+"Jl. Brotojoyo Ii 58-72, Panggung Kidul, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50178",Kota Semarang,Jawa Tengah,-6.966515100000001,110.4070934
+Jl. Wolter Monginsidi Rt.3 Rw.1 Kel Tlogosari Kulon Kec Pedurungan 50196,Kota Semarang,Jawa Tengah,-6.9826069,110.4769741
+"Jl. Raya Tampingan, Boja, Kendal, Jawa Tengah - 51381",Kabupaten Kendal,Jawa Tengah,-7.1018988,110.2882328
+"Jl. Pemuda No. 128 Boja, Kendal, Jawa Tengah, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-7.1038869,110.2737303
+"Jl. Tentara Pelajar No.82, Lamper Kidul, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",Kota Semarang,Jawa Tengah,-7.0100281,110.4397338
+"Jalan Muhammad Yamin Pertokoan Muara Mas No. 2, Kelurahan Ungaran, Kecamatan Ungaran Barat, Kuncen, Ungaran, Kec. Ungaran Bar., Semarang, Jawa",Kabupaten Semarang,Jawa Tengah,-7.1277681,110.4091821
+"Jl. Raya Kudus - Pati, Jekulo, Kabupaten Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.8025919,110.9314266
+"Jl. Raya Solo - Semarang Km. 20, Teras, Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.543849,110.7174658
+"Jl. Bhayangkara No.18, Panularan, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57149",Kota Solo,Jawa Tengah,-7.573758,110.810123
+"Dusun Penggung Desa Klepu , Kuncen , Ceper , Klaten 57465",Kabupaten Klaten,Jawa Tengah,-7.6654792,110.6655666
+"Spbu 44.531.19 - Jl. Senopati Arca Winangun, Purwokerto",Kota Purwokerto,Jawa Tengah,-7.4138957,109.2681477
+"Spbu 44.531.06 Karangbawang - Jl. Gerilya Timur 46, Purwokerto",Kota Purwokerto,Jawa Tengah,-7.437936799999999,109.2590885
+"Jl. Jepara, Mijen, Prambatan Kidul, Kaliwungu, Kabupaten Kudus, Jawa Tengah 59332",Kabupaten Kudus,Jawa Tengah,-6.800016,110.819211
+"Jl. Raya Tugu Timur, Sampang, Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.5615639,109.2036894
+"Jl. Dr. Sutomo No.16, Randusari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50244",Kota Semarang,Jawa Tengah,-6.991611,110.407528
+"Jl. Mr. Koesbiyono Tjondrowibowo, Patemon, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50228",Kota Semarang,Jawa Tengah,-7.0697449,110.396706
+"Jl. A. Yani No.169, Kramat Utara, Kota Magelang, Jawa Tengah",Kota Magelang,Jawa Tengah,-7.4447287,110.225303
+"Jl.Raya Beringin Rt 04 Rw 09 Ngaliyan, Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.994425199999999,110.3292995
+"Jl. Komdor Laut Yos Sudarso, Terboyo Kulon, Genuk, Kota Semarang, Jawa Tengah 50112",Kota Semarang,Jawa Tengah,-6.9513092,110.4482587
+"Jl. Bawen - Ambarawa, Krajan, Bawen, Semarang, Jawa Tengah 50661, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.2467957,110.4300697
+"Jl. Perintis Kemerdekaan No.3B, Dusun Kebayanan Sragen Manggis, Nglorog, Kec. Sragen, Kabupaten Sragen, Jawa Tengah",Kabupaten Sragen,Jawa Tengah,-7.4198303,111.0380677
+"Jl. Gatot Subroto,  Magersari Lor, Mojo, Andong, Kabupaten Boyolali, Jawa Tengah 57384",Kabupaten Boyolali,Jawa Tengah,-7.3745313,110.7624521
+"Jl. Raya Solo - Yogyakarta No.22, Sekaran, Banaran, Kec. Delanggu, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.6339365,110.6923765
+"Jl. Raya Klaten Solokm. 4 Jetis, Belangwetan, Klaten",Kabupaten Klaten,Jawa Tengah,-7.684556199999999,110.6347937
+"Jl. Raya Kalioso, Klayutan, Ketitang, Kec. Nogosari, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.4609842,110.7926639
+"Jl. Bukit Barisan, Bringin, Ngaliyan, Kota Semarang, Jawa Tengah 50189",Kabupaten Semarang,Jawa Tengah,-7.0012104,110.3357574
+"Jogowedanan, Selomerto Kabupaten Wonosobo 56361, Jawa Tengah",Kabupaten Kebumen,Jawa Tengah,-7.417726899999999,109.8864215
+"Jl. Revolusi No.123, Pejuritan, Karanganyar, Kec. Karanganyar, Kabupaten Kebumen, Jawa Tengah 54364",Kabupaten Kebumen,Jawa Tengah,-7.628893300000001,109.5683285
+"Jl. Jend. Urip Sumoharjo No.8, Wonosari, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50244, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9725538,110.313586
+"Jl. Raya Pringapus, Duwet, Klepu, Kec. Pringapus, Semarang, Jawa Tengah 50214, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.1818712,110.4623697
+"Jl. Ketileng Raya No.42 Rt01/R08, Sendang Mulyo, Getasan, Tembalang, Semarang City, Central Java",Kota Semarang,Jawa Tengah,-7.0301032,110.4682019
+"Jl. Sidodadi Timur No.24, Karangtempel, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50232, Indonesia",Kota Semarang,Jawa Tengah,-6.989329199999999,110.4354085
+"Jl. Urip Sumoharjo No.19, Jebegan, Podo, Kec. Kedungwuni, Pekalongan,",Kabupaten Pekalongan,Jawa Tengah,-6.960536899999999,109.6475974
+"Jl. Bina Griya Raya Medono, Kec. Pekalongan Barat, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.9065966,109.666977
+"Jl. Raya Subah, No. 09 Rt 03 Rw 04, Subah, Jatisari, Batang",Kabupaten Batang,Jawa Tengah,-6.952113499999999,109.8041412
+"Jl. Stasiun No.36A, Bantarsoka, Purwokerto Barat, Kab Banyumas 53133",Kota Purwokerto,Jawa Tengah,-7.4225568,109.2224268
+"Jl. Ir. Sutami No.11, Jebres, Kec. Jebres, Surakarta 57126",Kota Surakarta,Jawa Tengah,-7.5592792,110.8486881
+"Jl. Sukowati No.27, Kalicacing, Sidomukti, Kota Salatiga, Jawa Tengah 50724",Kota Salatiga,Jawa Tengah,-7.331579000000001,110.5031947
+"Jl. Ki Hajar Dewantara No. 13, Sumur Panggang Kota Tegal",Kota Tegal,Jawa Tengah,-6.8765584,109.1040815
+"Jl.Veteran No.50, Gajahan, Pasar Kliwon, Kota Solo",Kota Surakarta,Jawa Tengah,-7.583215999999999,110.8248842
+"Rest Area Tol Batang Â Semarang Km 379A Jl. Tol Semarang - Batang, Plelen Lor, Plelen, Kec. Gringsing, Kabupaten Batang",Kabupaten Batang,Jawa Tengah,-6.958361,110.014368
+"Jl. Slamet Riyadi No.271, Purwosari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57141, Indonesia",Kota Surakarta,Jawa Tengah,-7.566680499999999,110.8074466
+"Kartasura, Jalan Garuda Mas, Pabelan, Sukoharjo - Surakarta, Mendungan, Pabelan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.5527795,110.7701858
+"Spbu 44.532.05 - Jl. Gatot Subroto No.7 Cilacap , Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.7196019,109.0133478
+"Jl. Pemuda No. 69, Pandansari, Semarang Tengah, 50139",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Spbu Mertoyudan, Jl. Mayor Jenderal Bambang Sugeng, Kedungdowo, Mertoyudan, Kec. Mertoyudan, Magelang, Jawa Tengah 56172",Kabupaten Magelang,Jawa Tengah,-7.5070788,110.2244055
+"Jl. Ahmad Yani No.8, Panjang, Kec. Magelang Tengah, Kota Magelang, Jawa Tengah 56111",Kota Magelang,Jawa Tengah,-7.4773066,110.2186481
+"Jl. Raya Solo - Yogyakarta, Peraksangkal, Jonggrangan, Kec. Klaten Utara, Kabupaten Klaten 57435",Kabupaten Klaten,Jawa Tengah,-7.6901076,110.6191661
+"Jalan, Jl. Kapten Piere Tendean, Nusukan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57135",Kota Surakarta,Jawa Tengah,-7.5467205,110.8207054
+"Jl. Jokosari, Ngabul, Jepara, Kabupaten Jepara, Jawa Tengah 59428",Kabupaten Jepara,Jawa Tengah,-6.6505381,110.7083996
+"Jl.Wr.Supratman No.177, Dusun 1, Baki, Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.605838,110.7914094
+"Jl. Re. Martadinata, No. 12, Semarang, Tawangsari, West Semarang, 50144",Kota Semarang,Jawa Tengah,-6.9638329,110.3937298
+"Jl. Kartini No.9 Rembang Jawa Tengah, Kabupaten Rembang, Jawa Tengah",Kabupaten Rembang,Jawa Tengah,-6.7058595,111.3414681
+"Jl.Pandanaran No.67-51 Randusari,Kec Semarang Selatan ,Kota Semarang 50244",Kota Semarang,Jawa Tengah,-6.986693300000001,110.4135428
+"Jl. Diponegoro Bringin, Salatiga, Kota Salatiga, Jawa Tengah",Kota Salatiga,Jawa Tengah,-7.3152389,110.4936548
+"Jl. Raya Timur No. 86 Kemiriamba, Jatibarang, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.966252799999999,109.0557768
+"Jl. Jend. Ahmad Yani No.26-28, Krajan, Panjunan, Kota Kudus, Kabupaten Kudus, Jawa Tengah 59317",Kabupaten Kudus,Jawa Tengah,-6.816159,110.8394244
+"Jalan Raya Pati - Juwana Km. 2.3, Sarirejo, Kec. Pati, Kabupaten Pati, Jawa Tengah 59118",Kabupaten Pati,Jawa Tengah,-6.746476400000001,111.0645498
+"Jl. Raya Karanglo, Cilongok, Kab. Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.3885073,109.1220006
+"Jl. Raya Solo - Yogyakarta, Dusun Iii, Pucangan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.5606844,110.7252795
+"Jl. Bangak - Simo, Dusun Iii Sambi, Banyudono, Boyolali",Kabupaten Boyolali,Jawa Tengah,-7.4833971,110.6954386
+"Jalan Solo-Yogya, Meger, Ceper, Meger, Kec. Ceper, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.6737564,110.6544265
+"Jl. Diponegoro No.45, Pokoh, Wonoboyo, Kec. Wonogiri, Kabupaten Wonogiri, Jawa Tengah",Kabupaten Wonogiri,Jawa Tengah,-7.8173203,110.9342712
+"Jl. Cendrawasih - Tengguli, Tanjung, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.8754115,108.8470206
+"Jl. Pantura, Surodadi Lor, Suradadi, Kec. Suradadi, Tegal, Jawa Tengah 52182",Kabupaten Tegal,Jawa Tengah,-6.8743518,109.2722944
+"Jl. Raya Karanganyar Jatilawang, Kab. Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.542387,109.1434108
+"Jl. Prof. Dr. Hr Boenyamin Bwk Ii, Pabuwaran, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.3989511,109.2450306
+"Jl. Moh. Yamin No.101, Kuncen, Ungaran, Kec. Ungaran Bar., Semarang, Jawa Tengah 50511, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.128387399999999,110.4091519
+"Jl. Alternatif Ii Adiwerna, Kajen, Lemahduwur, Kec. Adiwerna, Tegal, Jawa Tengah 52194",Kabupaten Tegal,Jawa Tengah,-6.9341911,109.1346973
+"Jl. Mt Haryono Rt 01 Rw 05 Kalisapu Kec. Slawi, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9791549,109.1257418
+"Jl. Raya Solo - Tawangmangu No.Km. 10, 3, Jati, Jaten, Perum Uns, Jati, Kec. Jaten, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.588477999999999,110.9236533
+"Jl. Kusuma No.7, Wonoyoso, Bumirejo, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54316",Kabupaten Kebumen,Jawa Tengah,-7.6659173,109.6617245
+"Jl. Nasional 14, Kutan, Randugunting, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.2130339,110.4249186
+"Jl. Prof. Dr. Soeharso No. 52 Purwokerto, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.416931399999999,109.2482251
+"Jl. Hasanudin H-91, Plombokan Semarang Utara , 50177",Kota Semarang,Jawa Tengah,-6.9708496,110.4122782
+"Jalan Dieng, 60, Bima Plaza, Kalianget, Kecamatan Wonosobo, Argopeni, Kalianget, Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah 56319",Kabupaten Wonosobo,Jawa Tengah,-7.295172000000001,109.9216396
+"Jl. Letjen Sutoyo Nusukan, Banjarsari, Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5495298,110.8301
+"Jl.Mayor Sunaryo No.1 Kec. Pasar Kliwon, Surakarta",Kota Surakarta,Jawa Tengah,-7.5729525,110.8300098
+"Jl. Raya Selatan Wedi, Tempel, Pandes, Kec. Wedi, Klaten 57461",Kabupaten Klaten,Jawa Tengah,-7.7505697,110.5799539
+"Jl. Soekarno Hatta No.17, Sidorejo, Karangjati, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.182956700000001,110.4256645
+"Jalan Raya Jepara - Kudus, Rt. 04 / Rw. 02, Tegelon, Pelang, Mayong, Kabupaten Jepara, Jawa Tengah 59465",Kabupaten Jepara,Jawa Tengah,-6.7420377,110.7429857
+"Jl. Raya Jepara-Kudus,Â Mayong, Jepara, Kabupaten Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.7449604,110.7493751
+"Jl. AKBP Agil Kusumadya No.86, Jatirejo, Jati Wetan, Kec. Jati, Kabupaten Kudus, Jawa Tengah 59346, Indonesia",Kabupaten Kudus,Jawa Tengah,-6.8293183,110.8297503
+"Bangak Kp., Batan, Banyudono, Boyolali, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.538645,110.7070316
+"Jalan Lawu, Gayamdompo, Bejen, Kec. Karanganyar, Kabupaten Karanganyar, Jawa Tengah 57716",Kabupaten Karanganyar,Jawa Tengah,-7.6170449,111.0068633
+"Jl. Raya Solo - Purwodadi Km. 11, Gondangrejo, Cinet, Bulurejo, Karanganyar, Kabupaten Karanganyar, Jawa Tengah 57188, Indonesia",Kabupaten Karanganyar,Jawa Tengah,-7.4753509,110.8081905
+"Jl Raya Prupuk Persil, Kaligayam, Kec. Margasari, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-7.1211086,108.9852849
+"Jl. Pahlawan. Gejlig, Kec. Kajen, Pekalongan, Jawa Tengah",Kabupaten Pekalongan,Jawa Tengah,-7.0069442,109.5900404
+"Jl. Raya Pantura Pelutan, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8781328,109.377195
+"Jl. Jend. Soedirman No. 68, Tegalreja, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.727557300000001,109.0046406
+"Jl. Yos Sudarso No.3 Karangmangu, Kroya, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6383226,109.2488722
+"Jl. Sokaraja-Purbalingga Km 3, Klahang, Sokaraja, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.4396927,109.2910665
+"Jl. Letjen Pol. Sumarto, Kel. Purwanegara, Kec. Purwokerto Utara",Kabupaten Purbalingga,Jawa Tengah,-7.4040058,109.2313748
+"Jl. Raya Gombong No.77, Karang Malang, Purbowangi, Kec. Buayan, Kabupaten Kebumen, Jawa Tengah 54421",Kabupaten Kebumen,Jawa Tengah,-7.609368,109.4864418
+"Jl. Jenderal A. Yani No.144 - 146, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9920184,110.4271126
+"Jl. Raya Sukowati No.96, Kebayan 1, Sine, Kec. Sragen, Kabupaten Sragen, Jawa Tengah 57213",Kabupaten Sragen,Jawa Tengah,-7.429995099999999,111.0088725
+"Pt Golden Flower Jl. Karimunjawa, Kali-Tengah, Gedanganak, Kec. Ungaran Tim., Semarang, Jawa Tengah 50519",Kota Ungaran,Jawa Tengah,-7.151818899999999,110.4155585
+"Jl. Raya Karangjati - Pringapus, Ngabean, Pringapus, Kec. Pringapus, Semarang, Jawa Tengah 50214",Kabupaten Semarang,Jawa Tengah,-7.1883412,110.4623221
+"Jl. Kembang Joyo No.53, Klegen, Kalidoro, Kec. Pati, Kabupaten Pati, Jawa Tengah 59118",Kabupaten Pati,Jawa Tengah,-6.750194,111.0466694
+"Jl. Raya Kendal - Waleri Kendal Jawa Tengah, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-6.9258416,110.2184539
+"Jl. Raya Kalibenda Km.5, Kalibenda, Sigaluh, Banjarnegara",Kabupaten Banjarnegara,Jawa Tengah,-7.3923307,109.7299732
+"Jl. Raya Banyu Putih Rt 05 Rw I, Limpung, 51271, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-6.9722283,109.9280494
+"Jl. Raya Bantar Bolang No.206, Lenggerong, Kec. Bantarbolang, Kabupaten Pemalang",Kabupaten Pemalang,Jawa Tengah,-6.9849483,109.3813092
+"Jl.Prawirodigdoyo No.170 Ds.Kebonan, Kec.Karanggede, Boyolali",Kabupaten Boyolali,Jawa Tengah,-7.3625094,110.6393498
+"Jl. Raya Karangjati - Pringapus, Kabupaten Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.1871078,110.4558218
+"Jl. Kasuari 62-63, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721",Kota Salatiga,Jawa Tengah,-7.330394800000001,110.4953133
+"Jl. Jend Sudirman No 132, Langensari, Kabupaten Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.167347800000001,110.4134777
+"Spbu Bsb City 4450209 Semarang Jl. Raya Semarang-Boja, Kedungpane, Kec. Mijen, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0282662,110.3348978
+"Jl. Raya Jogja, Solo Km.10 Sanggrahan, Prambanan, Kemudo, Prambanan, Tegalbarong, Kemudo, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.754962999999999,110.494895
+"Jl. Soekarno Hatta, Kalicari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50198",Kota Semarang,Jawa Tengah,-6.9907668,110.4578695
+"Jl. Adi Sucipto No.169, Karangasem, Kec. Laweyan, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5475651,110.779644
+"Jl. Industri I No 88 Desa Kutu,, Dusun Ii, Telukan, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah 57552",Kabupaten Sukoharjo,Jawa Tengah,-7.621835799999999,110.8225094
+"Jl. Raya Matesih-Tawangmangu Kec. Tawangmangu, Kabupaten Karanganyar 57792",Kabupaten Karanganyar,Jawa Tengah,-7.6643607,111.1300163
+"Sekuping, Tubanan, Kembang, Kabupaten Jepara, Jawa Tengah 59453",Kabupaten Jepara,Jawa Tengah,-6.453522899999999,110.7450264
+"Jl Akbp R Agil Kusumadya, Jatiwetan Kudus, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.8363298,110.8227656
+"Jl. Raya Timur Balamoa, Karangjati, Tarub, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.943965,109.1933351
+"Jl. Dr. Angka No. 40 Purwokerto Timur, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.4168207,109.2400228
+"Jl. Pemuda No.36, Tegalputihan, Bareng, Kec. Klaten Tengah, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.700301000000001,110.6046103
+Jl.Raya Kudus-Jepara Km.4 Kedungdowo Kudus Jawa Tengah,Kabupaten Kudus,Jawa Tengah,-6.7986891,110.8087726
+"Jl. Madu Rt. 12 / 01 Simo Boyolali, Simo, Simo, Simo, Boyolali, Kabupaten Boyolali, Jawa Tengah 57377",Kabupaten Boyolali,Jawa Tengah,-7.4356073,110.6848336
+"Jl. Kapten Mulyadi No.249, Ps. Kliwon, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57118",Kota Surakarta,Jawa Tengah,-7.5809123,110.8310035
+"Jl. Kebangkitan Nasional, Sriwedari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57141",Kota Surakarta,Jawa Tengah,-7.5699669,110.8133022
+"Ngasinan, Sukolilo, Kabupaten Pati, Jawa Tengah 59172, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9344012,110.8791343
+"Jl. Raya Blabak Magelang - Yogya, Kabupaten Magelang, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.4527707,110.3326127
+"Jatisari, Mijen, Semarang City, Central Java 50275",Kota Semarang,Jawa Tengah,-7.064589499999999,110.3040725
+"Jl. Durian Selatan No 117 B, Banyumanik, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.062819999999999,110.41697
+"Dukuh Ngelorok, Nglorok, Campurejo, Kec. Boja, Kabupaten Kendal, Jawa Tengah 51381, Indonesia",Kota Semarang,Jawa Tengah,-7.0897421,110.2985079
+"Jl. Nasional 14, Kutan, Randugunting, Kec. Bergas, Semarang, Jawa Tengah 50661, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.2130339,110.4249186
+"Jalan A. Yani Pabelan Kartasura, Makamhaji, Kartasura, Dusun Ii, Makamhaji, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57161",Kota Surakarta,Jawa Tengah,-7.563327600000001,110.7826724
+"Jl. Rs. Yosomiharjo, Bobotsari, Kabupaten Purbalingga",Kabupaten Purbalingga,Jawa Tengah,-7.3050603,109.3643403
+"Jalan Raya Pengasinan, Kedungwringin, Patikraja, Tanjung, Purwokerto Sel.",Kabupaten Banyumas,Jawa Tengah,-7.4414873,109.2184175
+"Jl. Raya Karangkandri Kalisapu, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6927877,109.03529
+"Tegalsari, Demangsari, Ayah, Kabupaten Kebumen, Jawa Tengah 54473",Kabupaten Kebumen,Jawa Tengah,-7.6594027,109.4050899
+"Jl. Urip Sumoharjo No.20, Kradenan, Kec. Pekalongan Selatan, Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.9117685,109.6605912
+"Alun-Alun Pemalang, Pelutan, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8897913,109.3795918
+"Jl. Sunan Bonang No.152, Dulganan, Soditan, Lasem, Kabupaten Rembang, Jawa Tengah 59271",Kabupaten Rembang,Jawa Tengah,-6.6960671,111.4508067
+"Jl. Pemuda No.63, Kenalan, Pucungrejo, Kec. Muntilan, Magelang, Jawa Tengah 56414",Kabupaten Magelang,Jawa Tengah,-7.5841099,110.2866357
+"Jl. Ds. Sendangmulto, Sluke, Rembang, Kabupaten Rembang, Jawa Tengah 59272",Kabupaten Rembang,Jawa Tengah,-6.6430552,111.479181
+"Trangkil Lor, Trangkil, Kabupaten Pati, Jawa Tengah 59153",Kabupaten Pati,Jawa Tengah,-6.6586526,111.0751019
+"Sekaran, Kec. Gn. Pati, Kota Semarang, Jawa Tengah 50229, Indonesia",Kota Semarang,Jawa Tengah,-7.0426099,110.3964179
+"Jl. DR. Cipto No.50, Kebonagung, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50123, Indonesia",Kota Semarang,Jawa Tengah,-6.9729642,110.4345411
+"Jl. Nusa Indah, Gunungsari, Ngringo, Kec. Jaten, Kabupaten Karanganyar, Jawa Tengah 57731",Kabupaten Karanganyar,Jawa Tengah,-7.5574934,110.8782612
+"Jl. Taman Tawang No.1, Tanjung Mas, Semarang Utara, 50175",Kota Semarang,Jawa Tengah,-6.964435099999999,110.4279325
+"Jl. Klaten-Boyolali Km. 8 Surobayan, Gedaren, Kec. Jatinom, Kabupaten Klaten 57481",Kabupaten Klaten,Jawa Tengah,-7.431777299999999,110.6883536
+"Bawu Iii, Bawu, Batealit, Kabupaten Jepara, Jawa Tengah 59461",Kabupaten Jepara,Jawa Tengah,-6.6320584,110.7196964
+"Jalan Klaten - Solo Km. 18, Kepanjen, Kec. Delanggu, Kabupaten Klaten 57471",Kabupaten Klaten,Jawa Tengah,-7.613441,110.7009799
+"Dukuh Tiris, Rt. 1 / Rw. 12, Desa Candi, Kec. Ampel, Candi, Boyolali, Kabupaten Boyolali, Jawa Tengah 57352",Kabupaten Boyolali,Jawa Tengah,-7.4556467,110.5602793
+"Jl. Sumpah Pemuda, Mojosongo, Kec. Jebres, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5434003,110.837498
+"Jl. Raya Gentan, Ngebrak, Gentan, Kec. Baki, Kabupaten Sukoharjo, Jawa Tengah 57556",Kabupaten Sukoharjo,Jawa Tengah,-7.5825883,110.7788044
+"Ngebrak, Gentan, Kec. Baki, Kabupaten Sukoharjo, Jawa Tengah 57556",Kabupaten Sukoharjo,Jawa Tengah,-7.578232899999999,110.7860024
+"Jl. Magelang - Salatiga, Ngablak, Magelang, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.4060253,110.4015703
+"Jl. Mayjend. Bambang Sugeng Km.5 No.29, Santan,Sumberejo,Mertoyudan, Magelang",Kabupaten Magelang,Jawa Tengah,-7.5220552,110.2276895
+"Jl. Beringin, Tidar Utara, Magelang, Kota Magelang, Jawa Tengah",Kota Magelang,Jawa Tengah,-7.4897978,110.2281084
+"Jl. Suwandi Suwardi No.4, Cekelan, Madureso, Kec. Temanggung, Kabupaten Temanggung, Jawa Tengah 56229, Indonesia",Kabupaten Temanggung,Jawa Tengah,-7.334419499999999,110.2047955
+"Jl. Pahlawan No.9, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249, Indonesia",Kota Semarang,Jawa Tengah,-6.9947313,110.4203177
+"Lingkar Selatan, Kuwarakan, Podoluhur, Kec. Pejagoan, Kabupaten Kebumen",Kabupaten Kebumen,Jawa Tengah,-7.6918511,109.6361506
+"Jl. Suyoto No.15, Jampiroso, Kertosari, Kec. Temanggung",Kabupaten Temanggung,Jawa Tengah,-7.318779399999999,110.1879454
+"Jl. Mayjen Bambang Soegeng No.23, Saratan Satu, Sumberrejo, Kec. Mertoyudan, Magelang, Jawa Tengah 56172, Indonesia",Kabupaten Magelang,Jawa Tengah,-7.517519799999999,110.2266075
+"Jl. Perumnas Teluk No.40 Rt 07 Rw 03 Kec. Teluk, Purwokerto Selatan",Kabupaten Banyumas,Jawa Tengah,-7.447766499999999,109.2540296
+Jl. Raya Banyumas-Banjarnegara Km.21 Kec. Mandiraja Banjarnegara,Kabupaten Banjarnegara,Jawa Tengah,-7.4520409,109.5014842
+"Jl. Brigjen H.M. Bachroen Rt.01/Rw.06 Kec. Rawalo, Banyumas",Kabupaten Banyumas,Jawa Tengah,-7.5364476,109.1774114
+"Jl. Pemuda, Kalisalakasri, Kauman, Kec. Batang, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-6.9240487,109.7267375
+"Jl. Raya Klampok, Klampok, Kec. Wanasari, Kabupaten Brebes",Kabupaten Brebes,Jawa Tengah,-6.8652226,108.9990244
+"Pt Bank Mandiri (Persero) Tbk. Kcp Cilacap Gatsu Jl. Gatot Subroto No. 10,Cilacap",Kabupaten Cilacap,Jawa Tengah,-7.7153052,109.0155835
+"Jl. Jend. Ahmad Yani No.57 Rt 01 Rw 01 Sidareja, Cilacap",Kabupaten Cilacap,Jawa Tengah,-7.4851356,108.7890957
+"Jl. Raya Tembok Banjaran, No. 49, Banjaran, Adiwerna, Tembok Luwung, Adiwerna, Tegal, Jawa Tengah 52194",Kabupaten Tegal,Jawa Tengah,-6.947464399999999,109.1368156
+"Ujungnegoro, Kandeman, Batang Regency, Central Java 51261",Kabupaten Batang,Jawa Tengah,-6.9089974,109.7919087
+"Jl. Jatibarang - Slawi, Kabunanasri, Kabunan, Dukuhwaru, Tegal, Jawa Tengah 52451",Kabupaten Tegal,Jawa Tengah,-6.9738747,109.1137468
+"Jl. Surabayan, Paesan Utara, Kedungwuni Barat, Kec. Kedungwuni,",Kabupaten Pekalongan,Jawa Tengah,-6.9617074,109.6405429
+"Jl. Tritih Lor, Jeruk Legi, Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6431577,109.0381936
+"Jl. Ariloka No.26 Kel, Krobokan, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50141",Kota Semarang,Jawa Tengah,-6.973571,110.3984622
+"Jl. Ngobo, Rt. 01 Rw. 01, Wringin Putih, Bergas, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.1765606,110.4336365
+"Jl. Slamet Riyadi No.150, Dusun Iv Kec. Kartasura, Kabupaten Sukoharjo 57169",Kabupaten Sukoharjo,Jawa Tengah,-7.557450999999999,110.745724
+"Jl. Mt. Haryono No.878, Peterongan, Semarang Sel., Kota Semarang, Jawa Tengah 50242",Kota Semarang,Jawa Tengah,-6.9963514,110.4322871
+"Jl. Ngesrep Tim. V No.44, Banyumanik, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.050298400000001,110.4229154
+"Pacific Mall, Jl. Kapten Sudibyo, Pekauman, Kec. Tegal Bar., Kota Tegal, Jawa Tengah 52125",Kota Tegal,Jawa Tengah,-6.8699848,109.1288434
+"Jl. Ketileng Raya, Kedungmundu, Tembalang, 50272, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0268485,110.4678582
+"Jl. Raya No. 10-11, Limpung, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-7.016894499999999,109.8377528
+"Jl. Dr. Sutomo No.16, Randusari, Semarang Selatan, 50244",Kota Semarang,Jawa Tengah,-6.991611,110.407528
+"Jl. Komisaris Bambang Suprapto No.100, Cigrobak, Purwokerto Lor, Kec. Purwokerto Tim., Kabupaten Banyumas, Jawa Tengah 53111, Indonesia",Kabupaten Banyumas,Jawa Tengah,-7.423378,109.2503767
+"Jl. Kejayan , Ragayudan, Bocor, Kec. Buluspesantren, Kabupaten Kebumen, Jawa Tengah 54391",Kabupaten Kebumen,Jawa Tengah,-7.7634085,109.6689176
+"Jl. Majapahit No.325, Gemah, Pedurungan, 50246, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0082353,110.4602367
+"Jl. Pakelan, Bulurejo, Mertoyudan, Kedungingas, Bulurejo, Magelang, Jawa Tengah 56172",Kota Magelang,Jawa Tengah,-7.5054694,110.2020576
+"Jl. Jatikusuman Raya, Catuk, Mranggen, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567, Indonesia",Kota Semarang,Jawa Tengah,-7.0341515,110.513072
+"Jalan Sunan Kalijaga, Bintoro, Kecamatan Demak, Tanubayan, Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah 59511",Kabupaten Demak,Jawa Tengah,-6.8970988,110.6453146
+"Jl. Jend. Soedirman 296 Purwokerto, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.4253881,109.230265
+"Jl. Batursari Raya, Pucanggading, Batursari, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",Kabupaten Demak,Jawa Tengah,-7.0394454,110.4997504
+"Krasak Raya, Rt.09/Rw.03,Banyuputih, Kalinyamatan Jepara",Kabupaten Jepara,Jawa Tengah,-6.7182263,110.7164175
+"Jl. Padi Raya Selatan No.104, Ebangsari, Kec. Genuk, Kota Semarang, Jawa Tengah 50117",Kota Semarang,Jawa Tengah,-6.969281,110.465753
+"Jl. Gajah Mada Bar., Tirto, Pekalongan Barat, Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.8899018,109.6506185
+"Jl. Raya Demak - Semarang, Batu Tempel, Batu, Kec. Karangtengah, Kabupaten Demak, Jawa Tengah 59561",Kabupaten Demak,Jawa Tengah,-6.9263171,110.5576107
+"Jl. Sarwo Edi Wibowo No.44, Plamongan Sari, Pedurungan, 50192",Kota Semarang,Jawa Tengah,-7.020843200000001,110.4880352
+"Jl. Nasional 1, Gandum, Karangrejo, Kec. Wonosalam, Kabupaten Demak, Jawa Tengah 59516",Kabupaten Demak,Jawa Tengah,-6.9156742,110.605906
+"Jl. Soekarno Hatta No 49, Bawen, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.237335799999999,110.4324875
+"Jl. Cendrawasih, Tanjungsari, Ngesrep, Kec. Ngemplak, Kabupaten Boyolali 57375",Kabupaten Boyolali,Jawa Tengah,-7.5110175,110.7484574
+"Jl. Kapten Sudibyo No. 123A Tegal, Kota Tegal, Jawa Tengah",Kota Tegal,Jawa Tengah,-6.877013799999999,109.1272725
+"Jl. Jepara - Bangsri, Sekuro, Mlonggo, Kabupaten Jepara, Jawa Tengah 59452",Kabupaten Jepara,Jawa Tengah,-6.528002,110.722661
+"Jl. Pemuda No.21, Ngadiretno, Tamanagung, Kec. Muntilan, Magelang, Jawa Tengah 56413",Kabupaten Magelang,Jawa Tengah,-7.5781479,110.2758563
+"Jl. Sukarno Hatta Jl. Jagalan No.102, Cebongan, Kec. Argomulyo, Kota Salatiga, Jawa Tengah 50736, Indonesia",Kota Salatiga,Jawa Tengah,-7.364938899999999,110.5142064
+"Jl. Jend Sudirman, Ketanggungan, Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.935415,108.8915341
+"Jl.Raya Slarang Km.17 Kesugihan Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6596053,109.109609
+"Jl. Wahid Hasyim No.15, Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131, Indonesia",Kota Pekalongan,Jawa Tengah,-6.8681288,109.1375588
+"Jl. Veteran No. 41 - 43, Kroyo, Kecamatan Sragen, Kroyo, Kec. Karangmalang, Kabupaten Sragen, Jawa Tengah 57211",Kabupaten Sragen,Jawa Tengah,-7.4352776,111.024144
+"Jl.Wonogiri - Ngadirojo, Kenteng, Kec.Ngadirojo, Kab.Wonogiri",Kabupaten Wonogiri,Jawa Tengah,-7.8144833,110.9958664
+"Jl. Raya Kertijayan, Jayan Tengah, Kertijayan, Kec. Buaran, Pekalongan",Kota Pekalongan,Jawa Tengah,-6.928635,109.6561674
+"Jl. Dr. Sutomo No.1 - 2, Karangmalang, Pekalongan Timur",Kota Pekalongan,Jawa Tengah,-6.90262,109.690815
+"Jl. Kyai Mojo, Rt.01/Rw.10, Semanggi, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.587242100000001,110.8363146
+"Jl. Tentara Pelajar, Sukup Kulon, Purwokerto, Kec. Patebon, Kabupaten Kendal, Jawa Tengah, Indonesia",Kabupaten Kendal,Jawa Tengah,-6.9268984,110.1816912
+"Jl. Raya Purworejo, Km. 10 Rt. 06 Rw. 10, Tempurejo, Tempuran, Sidomukti 2, Sidoagung, Kec. Tempuran, Magelang, Jawa Tengah 56161",Kabupaten Magelang,Jawa Tengah,-7.542476300000001,110.1655737
+"Jl. Ahmad Yani, Kedungsari, Kec. Magelang Utara, Kota Magelang, Jawa Tengah 56114",Kota Magelang,Jawa Tengah,-7.4503198,110.2242664
+"Mangkang Wetan, Kec. Tugu, Kota Semarang, Jawa Tengah 50156",Kota Semarang,Jawa Tengah,-6.9570072,110.321945
+"Jl. Soekarno Hatta Km 30 Harjosari, Bawen, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.2190827,110.4299908
+"Jl. Kelud Raya No.17, Bendan Ngisor, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0062465,110.3964452
+"Jl. Pengging- Banyudono, Mentekan, Dukuh, Kec. Banyudono, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.5512133,110.6763649
+"Jl. Hasanuddin No.806, Mangunsari, Sidomukti, Kota Salatiga, Jawa Tengah 50721",Kota Salatiga,Jawa Tengah,-7.3489434,110.4894477
+"Jl.Raya Koramil Jati, Jati Kudus Jawa Tengah, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.837135,110.8317364
+"Jl. Margoyoso-Damarjati Banyuputih, Kalinyamatan, Kabupaten Jepara, Jawa Tengah 59462",Kabupaten Jepara,Jawa Tengah,-6.7158537,110.7303522
+"Komplek Perumahan Solo Baru, Jl. Raya Djlopo, Dusun 2, Gedangan, Kec. Grogol, Sukoharjo 57552",Kota Surakarta,Jawa Tengah,-7.608882,110.7997572
+"Jalan Kober Rt.02 / Rw.03, Kober, Banyumas,, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.420280500000001,109.2226792
+"Karangsari, Kawunganten, Cilacap Regency, Central Java 53253",Kabupaten Cilacap,Jawa Tengah,-7.6355944,109.1374653
+"Toko I123 - Jl. Raya Kesugihan Maos, Maos, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.6927877,109.03529
+"Jl. Perintis Kemerdekaan No.4, Amiranom, Kebonmanis, Kec. Cilacap Utara",Kabupaten Cilacap,Jawa Tengah,-7.6869481,109.041704
+"Jl. Raya Bobotsari Km 5 Bojongsari , Purbalingga, Jawa Tengah",Kabupaten Purbalingga,Jawa Tengah,-7.3195651,109.3675772
+"Jl. Raya Lebaksiu-Slawi, Karang Muncul, Lebaksiu Lor, Kec. Lebaksiu, Tegal, Jawa Tengah 52461",Kabupaten Tegal,Jawa Tengah,-7.043735,109.146589
+"Rowokele, Kec. Rowokele, Kabupaten Kebumen, Jawa Tengah 54472",Kabupaten Kebumen,Jawa Tengah,-7.642537399999999,109.4348351
+"Jl. Urp Sumoharjo No.124 Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.678990000000001,109.05355
+"Jl. Kedungmundu No.24, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273, Indonesia",Kabupaten Kendal,Jawa Tengah,-7.0246489,110.465989
+"Jl. Raya Bandongan, Krajan, Bandongan, Magelang, Jawa Tengah 56151",Kabupaten Magelang,Jawa Tengah,-7.4504063,110.193175
+"Jl. Soekarno Hatta, Carikan, Deyangan, Kec. Mertoyudan, Magelang, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.5804517,110.2194926
+"Jl. Sambiroto Raya No.94-15, Sambiroto, Kec. Tembalang, Kota Semarang, Jawa Tengah 50276, Indonesia",Kota Semarang,Jawa Tengah,-7.029394300000001,110.4592265
+"Jl. Raya Ngempon No.51, Ngempon, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.1861276,110.4352201
+"Jalan Kyai Saleh No. 12 - 14 Mugasari, Mugassari, Semarang Sel., Kota Semarang, Jawa Tengah 50243",Kota Semarang,Jawa Tengah,-6.995255200000001,110.4144785
+"Jalan Raya Ngasinan, Wonosobo, Rojoimo, Kec. Wonosobo",Kabupaten Wonosobo,Jawa Tengah,-7.3644257,109.9177743
+Jl. Gatot Subroto. Manding Kec. Temanggung Kab. Temanggung Jawa Tengah 56224,Kabupaten Temanggung,Jawa Tengah,-7.3133366,110.163698
+"Jl. Kudus - Jepara Kec. Mayong, Kabupaten Jepara, Jawa Tengah 59465",Kabupaten Jepara,Jawa Tengah,-6.7449604,110.7493751
+"Jl. Hasanudin No.107A, Rt.05/Rw06, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721",Kota Salatiga,Jawa Tengah,-7.3418474,110.4943823
+"Jl. Pemuda No.148, Sekayu, Semarang Tengah, 50132, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9820536,110.4132682
+"Jl. Ketapang Raya, Pedurungan Lor, Pedurungan, 50194",Kota Semarang,Jawa Tengah,-7.011103,110.4832691
+"Jl. Mayor Soeyoto, Pakopen, Bandungan, Kali Kembar, Pakopen, Bandungan, Semarang, 50661",Kabupaten Semarang,Jawa Tengah,-7.2003885,110.3917548
+"Gumulan Kemiri Mojosongo Boyolali, Gumulan, Kemiri, Mojosongo",Kabupaten Boyolali,Jawa Tengah,-7.5508555,110.6146573
+"Jl. Raya Maribaya Sidoharjo, Kec. Suradadi, Tegal, Jawa Tengah 52182",Kabupaten Tegal,Jawa Tengah,-6.8698085,109.2294854
+"Jl. Siwalan No.35, Jajar, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57144",Kota Surakarta,Jawa Tengah,-7.5567753,110.7908841
+"Jl.Pandanaran Km. 3, Senden, Danguran, Kec. Klaten Sel., Klaten Selatan, Jawa Tengah 57461",Kabupaten Klaten,Jawa Tengah,-7.736650099999999,110.5843984
+"Jl. Mayor Achmadi No.3, Rw. 4, Bekonang, Kec. Mojolaban, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.6068216,110.8708919
+"Jl Raya Gemolong - Karanggede, Km.1, Kwangen Kidul, Ngembat Padas, Kec. Gemolong, Kabupaten Sragen, Jawa Tengah",Kabupaten Sragen,Jawa Tengah,-7.3959386,110.8194633
+"Jl. S Parman N0 43, Purbalingga, Kabupaten Purbalingga, Jawa Tengah",Kabupaten Purbalingga,Jawa Tengah,-7.3995917,109.3745776
+"Jl. Raya Baturaden Timur Desa Linggasari, Kec. Kembaran",Kabupaten Banyumas,Jawa Tengah,-7.3947731,109.2821649
+"Jl. Jend. Sudirman No.181, Brebes, Kec. Brebes, Kabupaten Brebes, Jawa Tengah 52212",Kabupaten Brebes,Jawa Tengah,-6.8742513,109.0489348
+"Jl. Notog Patikraja No. 52 Rt 3 Rw 2 Notog, Patikraja",Kabupaten Banyumas,Jawa Tengah,-7.4872707,109.2145604
+"Jl. Jend. Sudirman Timur No. 168, Wanarejan Utara, Kec. Taman, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.892700800000001,109.4058451
+"Jl. Wonogiri - Sukoharjo, Nanggan, Gemantar, Kec. Selogiri, Kabupaten Wonogiri, Jawa Tengah",Kabupaten Wonogiri,Jawa Tengah,-7.774325,110.8894982
+"Jl. Binagriya B. Raya No.Kel, Medono, Kec. Pekalongan Bar., Kota Pekalongan, Jawa Tengah 51111, Indonesia",Kabupaten Pemalang,Jawa Tengah,-6.9022595,109.6611678
+"Jl. Mgr. Sugiyopranoto S.I No.183, Panjang Lor, Panjang, Kec. Ambarawa, Semarang, Jawa Tengah 50614, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.2614815,110.4005174
+"Jl. Pusponjolo Selatan Raya No. 45, RT 05 / RW 03, Bojongsalaman, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50181",Kota Semarang,Jawa Tengah,-6.9889158,110.4011007
+"Jl. Raya Kudus-Jepara Km. 5 Kel. Garung Lor Kec. Kaliwungu,  Kudus.",Kabupaten Kudus,Jawa Tengah,-6.7967238,110.8010661
+"Jl. Garuda,Babakan Kramat, Tegal, Jawa Tengah 52181",Kabupaten Tegal,Jawa Tengah,-6.890967,109.187735
+"Jl. Moh. Husni Thamrin No.51, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.558114499999999,110.7981724
+"Jl. Suryo Rt 02/04 Jagalan, Jebres, Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5656009,110.8429691
+"Jl. Pakel No.59, Bonangan, Baturan, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5438784,110.797434
+"Jl. Raya Moga Pulosari (Depan Terminal Moga), Banyumudal, Moga, Banyumudal, Pemalang, Pemalang Regency, Central Java",Kabupaten Pemalang,Jawa Tengah,-7.1221017,109.2461967
+"Jl. Raya Kesesi, Kaumam, Kesesi, Pekalongan, Jawa Tengah",Kabupaten Pekalongan,Jawa Tengah,-7.0141789,109.5017726
+"Jl. Dr. Sutomo No.63, Slawi Kulon, Slawi, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9931228,109.1376335
+"Kemasan, Klepu, Kec. Pringapus, Semarang, Jawa Tengah 50214",Kabupaten Semarang,Jawa Tengah,-7.180229899999999,110.4753658
+"Jl. Sumpah Pemuda No.74, Kadipiro, Kec. Banjarsari, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.541208300000001,110.8271892
+"Jl. Adi Sumarmo No. 206, Banyuanyar, Kec. Banjarsari, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.538827,110.8050706
+"Jl. Pemuda No.267, Kelasman, Tonggalan, Kec. Klaten Tengah, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.712014,110.5949858
+"Banaran, Kalierang, Kec. Selomerto, Kabupaten Wonosobo, Jawa Tengah 56361",Kabupaten Wonosobo,Jawa Tengah,-7.406695,109.8902715
+"Pemalang, Pemalang Regency, Central Java, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8899399,109.3806671
+"Jl. Pemuda No.12, Mulyoharjo, Kec. Pemalang, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8921585,109.3880451
+"Jl. P Diponegoro No. 517, Jatisawit, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-7.2597795,109.0085362
+"Jl. Mayjen Sutoyo, Kembang, Slawi Wetan, Kec. Slawi, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9830978,109.1445699
+"Jl. Ababil No.42, Randugunting, Tegal Sel., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8765974,109.1286374
+"Jl. Kudu Raya, Sembungharjo, Kec. Genuk, Kota Semarang, Jawa Tengah 50116",Kota Semarang,Jawa Tengah,-6.971825,110.4885018
+"Jl. Tlogo Timun Raya No.28B, Tlogosari Kulon, Pedurungan, 50196",Kota Semarang,Jawa Tengah,-6.989999999999999,110.4611385
+"Wates, Ngaliyan, Kota Semarang, Jawa Tengah 50188, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.012913999999999,110.321945
+Mondoretno Kec. Bulu Kabupaten Temanggung Jawa Tengah 56253,Kabupaten Temanggung,Jawa Tengah,-7.3058139,110.1328141
+"Jalan Tumenggung Jogonegoro No.39, Jaraksari, Wonosobo, Singkir, Jaraksari, Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah 56314",Kabupaten Wonosobo,Jawa Tengah,-7.377974999999999,109.9005624
+"Jalan Mayor Jendral Bambang Sugeng Km 3, Rumah Sakit Islam Wonosobo, Bumireso, Mendolo,  56351",Kabupaten Wonosobo,Jawa Tengah,-7.369105999999999,109.9273912
+"Jl. Raya Karangawen, Km. 18, Karangawen, Demak, Kabupaten Demak, Jawa Tengah 59566",Kota Semarang,Jawa Tengah,-7.043778199999999,110.5752585
+"Jl. Nasional III No.10, Subur, Bandung Kidul, Kec. Bayan, Kabupaten Purworejo, Jawa Tengah 54224, Indonesia",Kabupaten Purworejo,Jawa Tengah,-7.719320300000001,109.9239096
+"Jl. Wr Supratman No.183, Dusun Ii, Cangkreplor, Kec. Purworejo, Kabupaten Purworejo, Jawa Tengah 54117",Kabupaten Purworejo,Jawa Tengah,-7.7247425,110.0235639
+"Jl. Kaligawe Raya No.25, Kaligawe, Kec. Gayamsari, Kota Semarang, Jawa Tengah 50164",Kota Semarang,Jawa Tengah,-6.959635599999999,110.4440646
+"Gebog, Gondosari, Gebog, Kabupaten Kudus, Jawa Tengah 59333",Kabupaten Kudus,Jawa Tengah,-6.737678,110.8418808
+"Jl. Pemuda Klaten Tegalsari, Jetis, Kebonarum, Klaten Regency, Central Java 57421",Kabupaten Klaten,Jawa Tengah,-7.7036111,110.6019038
+"Jl. Solo-Sukoharjo Km.7, Dusun Iii, Telukan, Kec. Grogol, Kabupaten Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.626286500000001,110.8233599
+"Jl.Slamet Riyadi Dusun Ii, Kartosuro, Kab.Sukoharjo",Kabupaten Sukoharjo,Jawa Tengah,-7.5624181,110.7588444
+"Cepu-Randublatung, Tambakromo, Cepu, Tambakromo, Blora, Kabupaten Blora, Jawa Tengah 58315",Kabupaten Blora,Jawa Tengah,-7.1574982,111.5523256
+"Jl. Mayjend S. Parman No. 24 , Tegalsari, Kec. Tegal Bar., Kota Tegal, Jawa Tengah 52111",Kota Tegal,Jawa Tengah,-6.8556755,109.1339119
+"Jl. Raya Majenang Banjar Rt 3 Rw 10 Panulisan, Dayeuhluhur",Kabupaten Cilacap,Jawa Tengah,-7.3352463,108.6863416
+"Jl. Brigadir Jenderal Sudiarto No.Km, Penggaron Kidul, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50194",Kota Semarang,Jawa Tengah,-7.0189167,110.4919307
+"Jl. Ahmad Yani 107, Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52121",Kota Tegal,Jawa Tengah,-6.8625928,109.1373492
+"Jl. Wr. Supratman No.52, Manyaran, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50148",Kota Semarang,Jawa Tengah,-6.999381700000001,110.3896026
+"Jl. Slamet Riyadi No.469, Pajang, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57146",Kota Surakarta,Jawa Tengah,-7.5596002,110.7857463
+"Jl. Slamet Riyadi No.542, Kerten, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57143",Kota Surakarta,Jawa Tengah,-7.560168200000001,110.7903732
+"Jl. Ry Solo-Sragen, Kebayanan 2, Purwosuman, Kec. Sidoharjo, Kabupaten Sragen, Jawa Tengah 57281",Kabupaten Sragen,Jawa Tengah,-7.4557467,110.9551269
+"Jl. Raya Sukoharjo, Jombor, Bendosari, Gabusan, Jombor, Kec. Bendosari, Kabupaten Sukoharjo, Jawa Tengah 57521 Sp",Kabupaten Sukoharjo,Jawa Tengah,-7.6611888,110.8397084
+"Jl. Fajar Indah Raya, Klemburan, Baturan, Kec. Colomadu, Kota Surakarta, Jawa Tengah 57144",Kota Surakarta,Jawa Tengah,-7.5482646,110.7908127
+"Jl. Mayor Sunaryo, Kedung Lumbu, Kec. Ps. Kliwon, Kota Surakarta 57133",Kota Surakarta,Jawa Tengah,-7.5729606,110.8307045
+"Utama Timur No. 117, Penyangkringan, Weleri, Karangtengan, Penaruban, Kec. Weleri, Kabupaten Kendal, Jawa Tengah 51355",Kabupaten Kendal,Jawa Tengah,-6.9714747,110.064408
+"Dukuh Tegalsari, Rt. 1 / Rw. 4, Desa Randusari, Teras, Dusun Iii, Randusari, Boyolali, Kabupaten Boyolali, Jawa Tengah 57372",Kabupaten Boyolali,Jawa Tengah,-7.5409678,110.6466895
+"Jl Raya Pantura, Sirangkang Kec. Petarukan, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.9006614,109.482314
+"Jl. A Sipelem No.4, Kemandungan, Kraton, Tegal Bar., Kota Tegal, Jawa Tengah 52114",Kota Tegal,Jawa Tengah,-6.8630839,109.1211119
+"Jl. Raya Ii Pagongan Rt.02/02, Dukuhturi, Lawatan, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-6.9047518,109.1261743
+"Jl. Raya Barat Ajibarang Kulon, Ajibarang, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.410317300000001,109.0705837
+"Jl. Raya Semarang - Kendal Km 12, Kabupaten Semarang, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-6.9747681,110.3255224
+"Jl. Balaputradewa No.5, Dusun Xvii, Borobudur, Kec. Borobudur, Magelang, Jawa Tengah 56553",Kabupaten Magelang,Jawa Tengah,-7.607065899999999,110.209806
+"Jl. Pahlawan, Magelang, Kec. Magelang Tengah, Kota Magelang, Jawa Tengah 56117",Kota Magelang,Jawa Tengah,-7.4695393,110.2171281
+"Jl. Teuku Umar, Jatingaleh, Kec. Candisari, Kota Semarang, Jawa Tengah 50231",Kota Semarang,Jawa Tengah,-7.027646,110.4185813
+"Jl. Sriwijaya No.30, RT.01/RW.2, Wonodri, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50614, Indonesia",Kota Semarang,Jawa Tengah,-7.001419899999999,110.4245679
+"Jl. Ketileng Raya No.42, Rt.01/Rw.08, Sendangmulyo, Kec. Tembalang, Kota Semarang, Jawa Tengah 50272",Kota Semarang,Jawa Tengah,-7.0301032,110.4682019
+"Jl Raya Pegandon No 4 1 Rw Iii Semarang, Jawa Tengah",Kabupaten Kendal,Jawa Tengah,-7.0051453,110.4381254
+"Theresiana Scholl, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah, Indonesia",Kota Semarang,Jawa Tengah,-6.985745,110.427877
+"Jl. Letjend Suprapto No 55A-55C Ungaran, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.135937699999999,110.4124309
+"Jl.Adi Sumarmo, Klodran, Colomadu, Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5348114,110.7916696
+"Jl. Mangesti No.90, Dusun 2, Purbayan, Kec. Baki, Kabupaten Sukoharjo 57556",Kabupaten Sukoharjo,Jawa Tengah,-7.579430500000001,110.7663317
+"Jl. Pandanaran No.26, Ngrancah, Siswodipuran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.538115800000001,110.6086598
+"Jl. Tol Semarang - Batang No.Km.360, Area Kebun/Hutan, Gondang, Kec. Subah, Kabupaten Batang, Jawa Tengah 51263",Kabupaten Batang,Jawa Tengah,-6.920703899999999,109.8635634
+"Gunungmujil, Bumirejo, Kebumen, Kebumen Regency, Central Java 54316",Kabupaten Kebumen,Jawa Tengah,-7.6661413,109.660211
+"Jl. Pucang Gading Raya 83-89, Pucanggading, Batursari, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",Kabupaten Demak,Jawa Tengah,-7.039186,110.4926812
+"Jl. Kelud Raya No.46B, Petompon, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50237",Kota Semarang,Jawa Tengah,-7.0040184,110.3984175
+"Jl.Raya Solo - Tawangmangu Km.7, Dagen, Karanganyar",Kabupaten Karanganyar,Jawa Tengah,-7.5757333,110.8912652
+"Jl. Kartini No. 222, Petarukan, Kec. Petarukan, Kabupaten Pemalang, Jawa Tengah",Kabupaten Pemalang,Jawa Tengah,-6.8780249,109.4595727
+"Jl. Raya Bandar Blok A No. 345 Bandar, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-7.0236233,109.8204807
+"Jl. Pawiyatan Luhur Iv No.1, Bendan Dhuwur, Tinjomoyo, Banyumanik, 50262",Kota Semarang,Jawa Tengah,-7.0244494,110.4038539
+"Jl. Simongan No. 22, RT 01 / RW 06, Tlogomulyo, Pedurungan, Ngemplak Simongan, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50195, Indonesia",Kota Semarang,Jawa Tengah,-6.999455299999999,110.48269
+"Gentong, Bawen, Semarang, Jawa Tengah 50661, Indonesia",Kota Semarang,Jawa Tengah,-7.048007,110.433557
+"Jl. Imam Bardjo SH No.4, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241, Indonesia",Kota Semarang,Jawa Tengah,-6.9946758,110.4226331
+"Jl. Menoreh Raya 72, Bendan Duwur, Kec. Gajahmungkur, Kota Semarang, Jawa Tengah 50235",Kota Semarang,Jawa Tengah,-7.0183867,110.3893654
+"Kranggan-Secang No.196, Kasanan, Kranggan, Kec. Kranggan, Kabupaten Temanggung, Jawa Tengah 56271",Kabupaten Temanggung,Jawa Tengah,-7.3472881,110.213046
+"Tugurejo, Kec. Tugu, Kota Semarang, Jawa Tengah 50182",Kota Semarang,Jawa Tengah,-6.970919299999999,110.3517334
+"Jl. Akbp Agil Kusumadya No.30, Rt.02/Rw.01, Jatikulon Krajan, Jati Kulon, Jati, Kabupaten Kudus, Jawa Tengah 59346",Kabupaten Kudus,Jawa Tengah,-6.829548,110.8296275
+"Jalan Raya Mr. Moch Ichsan No.93-97, Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50181, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.0000882,110.3422382
+"Jl. Raya Solo - Yogyakarta, Kendon, Karang, Kec. Delanggu, Kabupaten Klaten, Jawa Tengah 57471",Kabupaten Klaten,Jawa Tengah,-7.6324169,110.693514
+"Komplek Spbu Nglejok, Jl. Ahmad Yani No. 1, Purwodadi, Porong, Kuripan, Purwodadi, Kabupaten Grobogan, Jawa Tengah 58111",Kabupaten Jepara,Jawa Tengah,-7.083145,110.9094581
+"Jl. Gumilir Wangon, Gumilir, Cilacap Utara, Kabupaten Cilacap",Kabupaten Cilacap,Jawa Tengah,-7.6927877,109.03529
+"Jl. Kawi Raya No.11-13, Wonotingal, Kec. Candisari, Kota Semarang, Jawa Tengah 50252, Indonesia",Kota Semarang,Jawa Tengah,-7.0091148,110.4196454
+"Jl Raya Jepara Welahan, Jepara Jawa Tengah, Jawa Tengah",Kabupaten Jepara,Jawa Tengah,-6.7385135,110.7382683
+"Jl.Sawahan, Kel.Sawahan, Kec.Ngemplak, Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.5302425,110.8011638
+"Jl.Solo - Sragen No.Km.1, Banaran, Ngringo, Kec.Jaten, Kab.Karanganyar",Kabupaten Karanganyar,Jawa Tengah,-7.5614177,110.8813058
+"Jl. Soekarno Hatta No.180, Palebon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50246",Kota Semarang,Jawa Tengah,-6.9965752,110.4622617
+"Jl. Raya Yomani - Guci, Yamansari, Kec. Lebaksiu, Tegal, Jawa Tengah",Kabupaten Tegal,Jawa Tengah,-7.0488753,109.1308398
+"Jl. Brigjen Sudiarto, Mangunsari, Kec. Sidomukti, Kota Salatiga, Jawa Tengah 50721",Kota Salatiga,Jawa Tengah,-7.3332584,110.4986615
+"Desa Pecangaan, Pecangaan, Troso, Jepara, Kabupaten Jepara, Jawa Tengah 59462",Kabupaten Jepara,Jawa Tengah,-6.6771669,110.6973469
+"Jl. Raya Solo - Yogyakarta Km 15, Sawit, Boyolali, Jawa Tengah",Kabupaten Boyolali,Jawa Tengah,-7.583608799999999,110.7136491
+"Jl. Honggowongso No.2, Sriwedari, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57141",Kota Solo,Jawa Tengah,-7.5692742,110.8167579
+Jl. Sultan Agung Komplek Akpol B 2 No. 17 Semarang 50232,Kota Semarang,Jawa Tengah,-7.015789799999999,110.4180624
+"Kartasura, Jalan Garuda Mas, Pabelan, Sukoharjo - Surakarta, Mendungan, Pabelan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57102",Kabupaten Sukoharjo,Jawa Tengah,-7.5527795,110.7701858
+"Jl. Abdulrahman Saleh Kalibanteng Kulon, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9906246,110.3819759
+"Jalan No.83, Jl. Mayor Kusen, Mendut Ii, Mendut, Mungkid, Magelang, Jawa Tengah 56512",Kabupaten Magelang,Jawa Tengah,-7.602415300000001,110.2248358
+"Jalan Lukmonohadi No.1, Getas, Getas Pejaten, Jati, Kabupaten Kudus, Jawa Tengah 59317",Kabupaten Kudus,Jawa Tengah,-6.826467999999999,110.8390109
+"Jl. Pamularsih Raya No.70, Bongsari, Semarang Barat, 50148",Kota Semarang,Jawa Tengah,-6.988278999999999,110.391936
+"Jl. Magelang - Purworejo, Jura Sawah, Menoreh, Kec. Salaman, Magelang, Jawa Tengah 56162",Kabupaten Banjarnegara,Jawa Tengah,-7.580796,110.136451
+"Jl.Adisoemarmo , Ngabeyan, Kartosuro, Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.5449815,110.7443225
+"Jl. Sukowati No.156C, Kebayan 3, Sragen Kulon, Kec. Sragen, Kabupaten Sragen, Jawa Tengah 57212",Kabupaten Sragen,Jawa Tengah,-7.428763,111.0153129
+"Jl. Raya Banyumas Km.17, Kec. Purwonegoro, Jawa Tengah",Kabupaten Banjarnegara,Jawa Tengah,-7.4369328,109.556602
+"Jalan Wolter Monginsidi No.112, Kestalan, Surakarta, 57133, Kestalan, Banjarsari, Kota Surakarta",Kota Surakarta,Jawa Tengah,-7.5571746,110.8225251
+"Rumdin Mandiri Jl. S. Parman, Cilacap, Kabupaten Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.725767999999999,109.0134696
+"Jl. Ir. Sutami No.36 A, Pucangsawit, Kec. Jebres, Kota Surakarta, Jawa Tengah 57126",Kota Surakarta,Jawa Tengah,-7.562879299999999,110.8560456
+"Jl. Serayu No.108, Panggung, Tegal Tim., Kota Tegal, Jawa Tengah 52122",Kota Tegal,Jawa Tengah,-6.8593619,109.1420047
+"Jl. Raya Solo - Sragen Ds.Krikilan , Krikilan , Masaran , Sragen , Jawa Tengah, Kebayanan 1, Krikilan, Masaran, Sragen Regency, Central Java 57282",Kabupaten Sragen,Jawa Tengah,-7.4638134,110.9450339
+"Jl. Ngesrep Tim. V No.118, Sumurboto, Banyumanik, Kota Semarang, Jawa Tengah 50269",Kota Semarang,Jawa Tengah,-7.0529611,110.4296767
+"Jalan Urip Sumoharjo No.249, Gumilir, Cilacap Utara, Gumilir, Cilacap Utara",Kabupaten Cilacap,Jawa Tengah,-7.6856051,109.0445356
+"Jl. Kokrosono No.494, Pendrikan Lor, Semarang Tengah, 50131",Kota Semarang,Jawa Tengah,-6.980410699999999,110.4025601
+"Rejosari, Kec. Ngadirejo, Kabupaten Temanggung, Jawa Tengah 56255",Kabupaten Temanggung,Jawa Tengah,-7.2789613,110.0635771
+"Jl. Mt Haryono No.162, Rawakeong, Lomanis, Kec. Cilacap Tengah, Kabupaten Cilacap, Jawa Tengah 53213, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.701030899999999,109.006278
+"Jl. Argobusono No 1, Argomulyo, Kota Salatiga, Jawa Tengah",Kota Salatiga,Jawa Tengah,-7.3454047,110.5112326
+"Jl. Argobusono No. 1, Salatiga, Jawa Tengah, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.330523400000001,110.5084366
+"Jl. Fatmawati No.15, Gemah, Pedurungan, 50246, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.011897899999999,110.4717153
+"Jl Pemuda No. 118, Sekayu, Kec. Semarang Tengah, Semarang, Jawa Tengah 50132",Kota Semarang,Jawa Tengah,-6.9789622,110.4159237
+"Jl. Kaligawe Raya, Trimulyo, Kec. Genuk, Kabupaten Demak, Jawa Tengah 50118",Kota Semarang,Jawa Tengah,-6.9550238,110.4705454
+"Jl. Mayjen Bambang Soegeng No.7, Kedungdowo, Mertoyudan, Kec. Mertoyudan, Magelang, Jawa Tengah 56172",Kabupaten Magelang,Jawa Tengah,-7.505000600000001,110.2241661
+"Jl. A. Yani , Tromol Pos 1, Pabelan, Kartasura, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.5602611,110.7663176
+"Ds. Sambiroto Kec. Pracimantoro , Sedayu , Pracimantoro , Wonogiri , Jawa Tengah, Sambiroto, Pracimantoro, Wonogiri Regency, Central Java 57664",Kabupaten Wonogiri,Jawa Tengah,-8.052924299999999,110.8284698
+"Jl. Raya Solo Baru, Desa Madugondo, Dusun 1, Langenharjo, Grogol",Kabupaten Sukoharjo,Jawa Tengah,-7.6103484,110.816069
+"Jl. Batujamus-Kerjo, Kuto, Kerjo, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5415342,111.0498919
+"Mlatensatu, Karangsari, Kec. Karanganyar, Pekalongan, Jawa Tengah",Kabupaten Pekalongan,Jawa Tengah,-7.0315248,109.6181783
+"Jl. Raya Bulakamba No. 16 Rt. 02/01, Kabupaten Brebes, Jawa Tengah",Kabupaten Brebes,Jawa Tengah,-6.8744311,108.9377944
+"Jl. Jatibarang - Slawi No.16, Mingkrik, Pakembaran, Kec. Slawi, Tegal, Jawa Tengah 52415, Indonesia",Kota Semarang,Jawa Tengah,-6.983309999999999,109.1370121
+Jl. Raya Semarang Solo Ds. Butuh Rt 20 Rw 11 Tengaran,Kota Salatiga,Jawa Tengah,-7.3997403,110.5130693
+"Sidoharjo, Banaran, Kec. Boyolali, Kabupaten Boyolali, Jawa Tengah 57313, Indonesia",Kabupaten Boyolali,Jawa Tengah,-7.5226769,110.5958449
+"Jl. Sultan Fatah 669/50, Bintoro, Kecamatan Demak, Bogorame, Bintoro, Kec. Demak, Kabupaten Demak, Jawa Tengah 59511",Kabupaten Demak,Jawa Tengah,-6.8990357,110.6336065
+"Jl. Raya Bandung Rejo No.3, Bega, Bandungrejo, Kec. Mranggen, Kabupaten Demak, Jawa Tengah 59567",Kabupaten Demak,Jawa Tengah,-7.0209708,110.4998056
+"Jl. Brigjen Katamso No.39 Tegalsari, Kec. Tegal Bar., Kota Tegal, Jawa Tengah 52111",Kota Tegal,Jawa Tengah,-6.8581274,109.1318472
+"Jl. Ir. Sutami No.36A, Kentingan, Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.562879299999999,110.8560456
+"Jeblogan, Ponggok, Kec. Polanharjo, Kabupaten Klaten, Jawa Tengah",Kabupaten Klaten,Jawa Tengah,-7.613400299999999,110.6381227
+"Jl. Raya Sumpiuh, Kel. Kebokura Kec. Sumpiuh, Kebokura, Sumpiuh",Kabupaten Banyumas,Jawa Tengah,-7.6115816,109.3559682
+"Jl. Raya Solo-Sragen Km.14,5, Sulingan, Kemiri, Kec. Kebakkramat, Kabupaten Karanganyar",Kabupaten Sragen,Jawa Tengah,-7.5020981,110.9168099
+"Jl. Magelang - Yogyakarta No.Km. 23, Kabupaten Magelang, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.5654336,110.2581595
+"Jl. Mayjen Sutoyo No.21, Kampil, Kec. Wiradesa, Pekalongan",Kota Pekalongan,Jawa Tengah,-6.901917099999999,109.6142135
+"Jl. Pramuka Rt 1 Rw 2 Ds. Sudagaran, Kabupaten Banyumas, Jawa Tengah",Kabupaten Banyumas,Jawa Tengah,-7.517961799999999,109.2938461
+"Jl. Gondangmanis No.51, Ngembal Rejo, Ngembalrejo, Bae, Kabupaten Kudus, Jawa Tengah 59322",Kabupaten Kudus,Jawa Tengah,-6.800946000000001,110.8806753
+"Jl. Abdul Rahman Saleh No.78, Kestalan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57133, Indonesia",Kota Surakarta,Jawa Tengah,-7.557981000000001,110.821499
+"Jl. Jaya Wijaya, Mojosongo, Kec. Jebres, Kota Surakarta",Kota Surakarta,Jawa Tengah,-7.5359315,110.8385401
+"Jatinegoro, Kec. Sempor, Kabupaten Kebumen, Jawa Tengah 54421",Kabupaten Kebumen,Jawa Tengah,-7.5685428,109.5017684
+"Jl. PTP Ngobo, Krajan Wringin Putih, Wringin Putih, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.1730733,110.4371927
+"Sawah, Banaran, Kec. Grogol, Kabupaten Sukoharjo 57552",Kabupaten Sukoharjo,Jawa Tengah,-7.578613700000001,110.7912176
+"Jl. Ngabean, Gowok, Ngabean, Kec. Boja, Kabupaten Kendal, Jawa Tengah 51381, Indonesia",Kabupaten Kendal,Jawa Tengah,-7.1059289,110.3041815
+"Jl. Dr. Radjiman No.549, Laweyan, Kota Surakarta, Jawa Tengah 57148",Kota Surakarta,Jawa Tengah,-7.569075499999999,110.794547
+"Jl. Slamet Riyadi No.451-455, Pajang, Kec. Laweyan, Kota Surakarta 57146",Kota Surakarta,Jawa Tengah,-7.5605175,110.78861
+"Jl.Solo - Semarang Km.12, Kertonatan, Kartosuro, Sukoharjo",Kabupaten Sukoharjo,Jawa Tengah,-7.541708400000001,110.7142254
+"Jl. Simoplas, Brangsong Utara, Brangsong, Kec. Brangsong, Kabupaten Kendal, Jawa Tengah 51372",Kota Semarang,Jawa Tengah,-6.9516953,110.2465809
+"Jl. Solo - Sragen No.Km, Rw.5, Gerdu, Palur, Kec. Jaten, Kabupaten Karanganyar, Jawa Tengah 57731",Kabupaten Karanganyar,Jawa Tengah,-7.5008855,110.9168635
+"Jl Veteran,Kratonan,Serengan, Solo, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.5815728,110.8185679
+"Univ Satya Wacana Jl. Diponegoro No 60, Kota Salatiga, Jawa Tengah",Kota Salatiga,Jawa Tengah,-7.3195916,110.4983339
+"Jl. Merbabu No.7, Gayamprit, Kec. Klaten Sel., Kabupaten Klaten, Jawa Tengah 57412",Kota Klaten,Jawa Tengah,-7.709453600000001,110.5943052
+"Jl.A.Yani, Pabelan, Kartosuro, Sukoharjo, Jawa Tengah",Kabupaten Sukoharjo,Jawa Tengah,-7.5602611,110.7663176
+"Jl. R. M. Said No.83, Punggawan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57132, Indonesia",Kota Surakarta,Jawa Tengah,-7.561973099999999,110.8187026
+"Jl. Jend. A. Yani 156 A, Giripurwo, Wonogiri, Jawa Tengah",Kabupaten Wonogiri,Jawa Tengah,-7.810051799999999,110.9238306
+"Jl. Jangli Raya No.310, Karanganyar Gn., Kec. Candisari, Kota Semarang, Jawa Tengah 50254, Indonesia",Kota Semarang,Jawa Tengah,-7.0270893,110.428395
+"Jl. Dr. Setiabudi No.106, Manahan, Kec. Banjarsari, Kota Surakarta, Jawa Tengah 57139",Kota Surakarta,Jawa Tengah,-7.5525606,110.8144647
+"Jl. A. Yani No.200, Makamhaji, Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57161",Kabupaten Sukoharjo,Jawa Tengah,-7.559088399999999,110.7734269
+"Simpang Lima Plaza Lt Dasar,  Kec. Pati, Kabupaten Pati, Jawa Tengah 59181",Kabupaten Pati,Jawa Tengah,-6.7535197,111.0407774
+"Jl. Pandanaran No.55, Tegalsari, Siswodipuran, Boyolali, Boyolali Regency, Central Java 57311",Kabupaten Boyolali,Jawa Tengah,-7.537122699999999,110.6049617
+"Jl.Damaran _Pecangaan Km.1 Kudus Jawa Tengah, Jawa Tengah",Kabupaten Kudus,Jawa Tengah,-6.802385,110.825358
+"Jl. Gombel Lama No.90, Tinjomoyo, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50262, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.039216499999999,110.4095211
+"Jl. Osamaliki No.92 Rt02/Rw09 Mangunsari, Mangunsari, Sidomukti, Mangunsari, Sidomukti, Kota Salatiga, Jawa Tengah 50721",Kota Salatiga,Jawa Tengah,-7.3303734,110.4958402
+"Jl. Jend. A. Yani No.97 Rt 4 Rw 9 Bajing Kulon, Kroya",Kabupaten Cilacap,Jawa Tengah,-7.628066699999999,109.2492893
+"Jl. Sompok Lama No.4A, Peterongan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50235",Kota Semarang,Jawa Tengah,-7.000890999999999,110.4339726
+"Jl. Adi Sucipto No.118, Jajar, Kec. Laweyan, Kota Surakarta 57144",Kota Surakarta,Jawa Tengah,-7.5506178,110.7897773
+"Jl. Taman Sompok No. 992 - 994, Lamper Lor, Semarang Selatan, 50241",Kota Semarang,Jawa Tengah,-7.0021905,110.4372105
+"Jl. Klp. Gading Raya, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192",Kota Semarang,Jawa Tengah,-7.0238726,110.497815
+"Jl. Gombel Lama Jl. Setia Budi No.16, RW.2, Tinjomoyo, Kec. Banyumanik, Kota Semarang, Jawa Tengah 50261, Indonesia",Kota Semarang,Jawa Tengah,-7.043164699999999,110.4221535
+"Jl. Slamet Riyadi No.540, Kerten, Kec. Laweyan, Kota Surakarta 57143",Kota Surakarta,Jawa Tengah,-7.5606032,110.7912266
+"Jl. Puad Ahmad Yani, Tambakharjo, Semarang Barat, 50149",Kota Semarang,Jawa Tengah,-6.9663454,110.3749891
+"Jl. Raya Harjosari No.285, Harjosari, Bawen, Semarang, Jawa Tengah 50661, Indonesia",Kota Semarang,Jawa Tengah,-7.224419899999999,110.4313488
+"Jl. Soekarno Hatta No.17, Sidorejo, Karangjati, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.182956700000001,110.4256645
+"Jl. Raya Semarang - Kendal K. 12, Tugu, Karanganyar, Tugu, Kota Semarang, Jawa Tengah 50153",Kabupaten Semarang,Jawa Tengah,-6.985524,110.3406875
+"Jl. Pemuda No.57A, Tawangsari, Leteh, Kec. Rembang, Kabupaten Rembang, Jawa Tengah 59217",Kabupaten Rembang,Jawa Tengah,-6.7106141,111.3419437
+"Jalan Brigjend Slamet Riyadi No.273, Kota Surakarta, Jawa Tengah",Kota Surakarta,Jawa Tengah,-7.568328099999999,110.8080042
+"Jl. Slamet Riyadi No.273, Penumping, Kec. Laweyan, Kota Surakarta, Jawa Tengah 57141",Kota Surakarta,Jawa Tengah,-7.568328099999999,110.8080042
+"Jl.Slamet Riyadi No.473, Dusun 1, Makam Haji, Kec.Kartosuro, Sukoharjo",Kabupaten Sukoharjo,Jawa Tengah,-7.5597912,110.7863283
+"Jl. Letnan Jenderal S. Parman No.29A, Bendungan, Gajahmungkur, 50231",Kota Semarang,Jawa Tengah,-7.004949000000001,110.409498
+"Jl. Klp. Gading Raya, Plamongan Sari, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50192",Kota Semarang,Jawa Tengah,-7.0238726,110.497815
+"Jl. Insinyur Haji Juanda, Karangtalun, Cilacap Utara, Karangtalun, Cilacap Utara",Kabupaten Cilacap,Jawa Tengah,-7.6895064,109.0194496
+"Univ Satya Wacana Jl. Diponegoro No 60, Kota Salatiga, Jawa Tengah",Kota Salatiga,Jawa Tengah,-7.3195916,110.4983339
+"Jalan Professor Haji Soedharto Sh, Tembalang, Semarang",Kota Semarang,Jawa Tengah,-7.0509989,110.4419057
+"Jalan Hayamwuruk, Pleburan, Semarang Selatan, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241, Indonesia",Kota Semarang,Jawa Tengah,-6.9959924,110.42559
+"Jl. Dr. Sutomo No.16, Randusari, Semarang Selatan, 50244",Kota Semarang,Jawa Tengah,-6.991611,110.407528
+"Jl. Prof. Soedarto, Sh Tembalang, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.055696,110.4372527
+"Bumirejo, Kec. Pekalongan Bar., Kota Pekalongan, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.908809799999999,109.6475637
+"Jl. Puri Anjasmoro Raya No.18b, RT.3, Tawangmas, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50144, Indonesia",Kota Semarang,Jawa Tengah,-6.972046199999999,110.3902927
+"Jl. Alun-Alun No.3, Rw.6, Keputran, Kec. Pekalongan Tim., Kota Pekalongan",Kota Pekalongan,Jawa Tengah,-6.889977000000001,109.67584
+"Jl. Alun-Alun No. 3 Rw.6, Keputran, Kec. Pekalongan Tim., Kota Pekalongan, Jawa Tengah 51128",Kota Pekalongan,Jawa Tengah,-6.889977000000001,109.67584
+"Tentemtrem Mall, Jl. Gajahmada No.123, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50241",Kota Semarang,Jawa Tengah,-6.9867306,110.4218513
+"Jl. Sultan Agung No. 96 Semarang, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0113346,110.4162008
+"Jl. Jend. Sudirman No.117A, Nganguk, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59312, Indonesia",Kabupaten Kudus,Jawa Tengah,-6.804720199999999,110.8503845
+"Jl. Kh . Akhmad Dahlan Semarang, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.9881282,110.4268972
+"Ds. Domplang, Kec. Karangpandan , Doplang , Karangpandan, Karangpandan, Karanganyar 57791",Kabupaten Karanganyar,Jawa Tengah,-7.6251848,111.0609438
+"Kebayanan 2, Gabugan, Kec. Tanon, Kabupaten Sragen, Jawa Tengah 57277",Kabupaten Sragen,Jawa Tengah,-7.385899599999999,110.9193691
+"Jl. Wolter Monginsidi No.100, Tlogomulyo, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50113",Kota Semarang,Jawa Tengah,-6.9862857,110.4745869
+"Jl. Kedungmundu No.888, Kedungmundu, Kec. Tembalang, Kota Semarang, Jawa Tengah 50273, Indonesia",Kota Semarang,Jawa Tengah,-7.0239341,110.4600389
+"Jl. Diponegoro No.179, Sidorejo Lor, Kec. Sidorejo, Kota Salatiga, Jawa Tengah 50714, Indonesia",Kota Salatiga,Jawa Tengah,-7.305785,110.4879234
+"Jl. Veteran No.14, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59417",Kabupaten Jepara,Jawa Tengah,-6.5909753,110.6628689
+"Jl. Abdul Rahman Saleh, Kalibanteng Kidul, Semarang Barat, Kembangarum, Kec. Semarang Bar., Kota Semarang, Jawa Tengah 50183",Kota Semarang,Jawa Tengah,-6.9913827,110.3811522
+"Jl. Raya Harjosari No.285, Harjosari, Bawen, Semarang, Jawa Tengah 50661, Indonesia",Kota Semarang,Jawa Tengah,-7.224419899999999,110.4313488
+"Jl. Raya Bangsri Jepara, Jepara Jawa Tengah, Jawa Tengah",Kabupaten Jepara,Jawa Tengah,-6.5201903,110.7768117
+"Lumpur, Bumirejo, Kec. Margorejo, Kabupaten Pati, Jawa Tengah 59163, Indonesia",Kabupaten Pati,Jawa Tengah,-6.7848114,110.9871745
+"Jalan Raya Ambarawa-Magelang Km.5, Jambu, Dedor Ngisrep, Jambu, Semarang, Jawa Tengah 50663",Kabupaten Semarang,Jawa Tengah,-7.278639699999999,110.3685105
+"Jl. Jend. Sudirman No. 17 Kauman, Kec. Batang, Kabupaten Batang, Jawa Tengah",Kabupaten Batang,Jawa Tengah,-6.905436099999999,109.7223591
+"Jl. Ahmad Yani No.25, Wonokarto Selatan, Wonokarto, Kec. Wonogiri, Kabupaten Wonogiri 57612",Kabupaten Wonogiri,Jawa Tengah,-7.804449599999999,110.9168554
+"Jl.Yosodipuro No.116A,Manahan, Banjarsari, Surakarta",Kota Surakarta,Jawa Tengah,-7.562085300000001,110.8117004
+"Jl. Niaga No.2, Klega, Tambakreja, Kec. Cilacap Sel., Kabupaten Cilacap, Jawa Tengah 53213, Indonesia",Kabupaten Cilacap,Jawa Tengah,-7.736849100000001,108.9972123
+"Jl. Ciliwung VII No.6, Mlatiharjo, Kec. Semarang Tim., Kota Semarang, Jawa Tengah 50126, Indonesia",Kota Semarang,Jawa Tengah,-6.968756600000001,110.4418843
+"Jl. Ar Hakim No. 19 Mangkukusuman, Kec. Tegal Tim., Kota Tegal, Jawa Tengah 52131",Kota Tegal,Jawa Tengah,-6.8716323,109.1366765
+"Jl. Soekarno Hatta, Km. 32, Harjosari, Bawen, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.227924799999999,110.4294162
+"Jl,. Lawu Kodokan,Papahan, Karanganyar, Kabupaten Karanganyar, Jawa Tengah",Kabupaten Karanganyar,Jawa Tengah,-7.5912171,110.9330344
+"Jl. Bangsri-Mlonggo, Rw1, Srobyong, Mlonggo, Kabupaten Jepara, Jawa Tengah 59452",Kabupaten Kudus,Jawa Tengah,-6.5264266,110.7119045
+"Jl. Jend. Sudirman No.2, Kp. Baru, Kec. Ps. Kliwon, Kota Surakarta, Jawa Tengah 57111",Kota Solo,Jawa Tengah,-7.5696303,110.8301953
+"Jl. Kendalisodo, Krajan, Jetis, Bandungan, 50665, Jawa Tengah",Kabupaten Semarang,Jawa Tengah,-7.2221656,110.3711208
+"Jl Bringin Raya No. 205, Ngaliyan, Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-6.992338699999999,110.3259711
+"Jl. Prof. Sudarto No.14, Tembalang, Kec. Tembalang, Kota Semarang, Jawa Tengah 50275, Indonesia",Kota Semarang,Jawa Tengah,-7.0558324,110.4374016
+"Bawu I, Bawu, Kec. Batealit, Kabupaten Jepara, Jawa Tengah 59461",Kabupaten Jepara,Jawa Tengah,-6.620650599999999,110.7211864
+"Jl. Letnan Jenderal S. Parman No.5, Petompon, Gajahmungkur, 50237",Kota Semarang,Jawa Tengah,-7.0001867,110.4062967
+"Jl. Mugas, Mugassari, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50249",Kota Semarang,Jawa Tengah,-6.9885087,110.4155707
+"Jl. Masjid No.8, Kudus, Demaan, Kec. Kota Kudus, Kabupaten Kudus, Jawa Tengah 59313",Kabupaten Kudus,Jawa Tengah,-6.8048375,110.8419294
+"Jl Coaster No. 10, Kompleks Pelabuhan, Tanjung Emas, Tj. Mas, Semarang Utara, 50174",Kota Semarang,Jawa Tengah,-6.9483165,110.4272395
+"Jl. Kaligarang, Petompon, Gajahmungkur, 50237, JAWA TENGAH",Kota Semarang,Jawa Tengah,-6.9959938,110.4032121
+"Jl. Pemuda No. 69, Pandansari, Semarang Tengah, 50132",Kota Semarang,Jawa Tengah,-6.975086,110.4181579
+"Jl. Soekarno Hatta No.49, Sidorejo, Karangjati, Kec. Bergas, Semarang, Jawa Tengah 50552, Indonesia",Kabupaten Semarang,Jawa Tengah,-7.184972999999999,110.4271553
+"Jl. P Diponegoro No. 8 Magelang, Kota Magelang, Jawa Tengah",Kota Magelang,Jawa Tengah,-7.4735996,110.2146862
+"Jl. Raya Cangkiran, Cangkiran, Kec. Mijen, Kota Semarang, Jawa Tengah",Kota Semarang,Jawa Tengah,-7.0854951,110.3098513
+"Jl. Budi Utomo No. 38 Kel. Sidakaya, Cilacap, Jawa Tengah",Kabupaten Cilacap,Jawa Tengah,-7.727928999999999,109.0164375
+"Jl. Urip Sumoharjo No.49, Podosugih, Kec. Pekalongan Bar., Kota Pekalongan, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.9004921,109.6647281
+"Jl. Kusuma No.12, Gunungmujil, Bumirejo, Kec. Kebumen, Kabupaten Kebumen, Jawa Tengah 54316",Kabupaten Kebumen,Jawa Tengah,-7.665709,109.6612625
+"Jl. Raya Prembun, No.240, Rt.02 Rw.05, Kec. Prembun, Kranggen, Prembun, Kebumen, Kabupaten Kebumen, Jawa Tengah 54395",Kabupaten Kebumen,Jawa Tengah,-7.724125600000001,109.8026988
+"Jl. Letjen Polisi Sumarto No. 81, Purwanegara, Purwokerto Utara, Purwokerto",Kabupaten Banyumas,Jawa Tengah,-7.403717199999999,109.2313995
+"Jl. Dr. Cipto Mangunkusomo No.84 Pekalongan, Jawa Tengah",Kota Pekalongan,Jawa Tengah,-6.889875099999999,109.6801259
+"Jl. Setiabudi No. 205 Srondol Kulon Banyumanik Semarang, 50263",Kota Semarang,Jawa Tengah,-7.057716999999999,110.4141759
+"Jl. Mayjen Bambang Soegeng No.1 Magelang, Jawa Tengah",Kabupaten Magelang,Jawa Tengah,-7.504596899999999,110.2241395
+"Jl. Nasional 1, Kemuning, Kluwut, Kec. Bulakamba, Kabupaten Brebes,",Kabupaten Brebes,Jawa Tengah,-6.8737126,108.9143153
+"Jl. Pandanaran No.104, Pekunden, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50134",Kota Semarang,Jawa Tengah,-6.988127899999999,110.4196971
+"Jl. Krt Pringgodiningrat Jl. Dr. Soeradji Tirtonegoro No.1, Dusun 1, Tegalyoso, Kec. Klaten Sel., Kabupaten Klaten, Jawa Tengah 57424",Kota Klaten,Jawa Tengah,-7.714118699999999,110.5894799
+"Jl. Raya Pamongan, Kel. Pamongan, Kec. Guntur, Kab. Demak, Jawa Tengah, 59565",Kota Semarang,Jawa Tengah,-6.9992322,110.5906132
+"Jl. Soekarno Hatta, Kebonan, Randugunting, Kec. Bergas, Semarang, Jawa Tengah",Kabupaten Ungaran,Jawa Tengah,-7.2037498,110.4235102
+"Jl. Wolter Monginsidi, Genuksari, Kec. Genuk, Kota Semarang, Jawa Tengah 50117",Kota Semarang,Jawa Tengah,-6.9637106,110.4787318
