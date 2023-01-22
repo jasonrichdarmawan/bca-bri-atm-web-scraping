@@ -1,550 +1,320 @@
 address,city,province,latitude,longitude,Bank
-"Jl. Kol. Yos Sudarso No.8, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20234, Indonesia",Kota Medan,Sumatera Utara,3.6036936,98.6738755,Bank Mandiri
-"Jl. Imam Bonjol No. 7, Petisah Tengah, Medan Petisah",Kota Medan,Sumatera Utara,3.5872798,98.6743573,Bank Mandiri
-"Jl. Kol. Yos Sudarso, M A B A R, Kec. Medan Deli, Kota Medan, Sumatera Utara 20231, Indonesia",Kota Medan,Sumatera Utara,3.6625659,98.6664861,Bank Mandiri
-"Jl. Jamin Ginting No.681, Titi Rantai, Kec. Medan Baru",Kota Medan,Sumatera Utara,3.5486358,98.6598094,Bank Mandiri
-"Jl. Jamin Ginting No.681, Titi Rantai, Kec. Medan Baru,",Kota Medan,Sumatera Utara,3.5486358,98.6598094,Bank Mandiri
-"Jl. Jamin Ginting No.681, Titi Rantai, Kec. Medan Baru, Kota Medan, Sumatera Utara 20157",Kota Medan,Sumatera Utara,3.5486358,98.6598094,Bank Mandiri
-"Jl. Diponegoro No.12A-B,Lubuk Pakam, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5588947,98.8691875,Bank Mandiri
-"Jl. Diponegoro No.12A-B,Lubuk Pakam, Kabupaten Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.5588947,98.8691875,Bank Mandiri
-"Jl. Diponegoro No.12A-B,Lubuk Pakam, Kabupaten Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.5588947,98.8691875,Bank Mandiri
-"Jl. Veteran No.29, Tambak Lau Mulgap I, Kec. Berastagi, Kabupaten Karo,",Kabupaten Karo,Sumatera Utara,3.1944364,98.5091063,Bank Mandiri
-"Jl. Veteran No.29, Tambak Lau Mulgap I, Kec. Berastagi, Kabupaten Karo,",Kabupaten Karo,Sumatera Utara,3.1944364,98.5091063,Bank Mandiri
-"Jl. Veteran No. 92 - 96, Kabanjahe,, Kabupaten Karo, Sumatra Utara",Kabupaten Karo,Sumatera Utara,3.1039796,98.4949114,Bank Mandiri
-"Jl. Veteran No. 92 - 96, Kabanjahe,, Kabupaten Karo, Sumatra Utara",Kabupaten Karo,Sumatera Utara,3.1039796,98.4949114,Bank Mandiri
-"Jl. Veteran No. 92 - 96, Kabanjahe, , Kabupaten Karo, Sumatra Utara",Kabupaten Karo,Sumatera Utara,3.1039796,98.4949114,Bank Mandiri
-"Jl. Perniagaan No.327, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5851261,98.6815319,Bank Mandiri
-"Jl. Pulau Pinang, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212",Kota Medan,Sumatera Utara,3.5892381,98.6790888,Bank Mandiri
-"Jl. Perniagaan No.327, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5851261,98.6815319,Bank Mandiri
-"Jl. Setia Budi, Tj. Rejo, Kec. Medan Sunggal, Sumatra Utara",Kota Medan,Sumatera Utara,3.5731167,98.6426493,Bank Mandiri
-"Jl. Setia Budi, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122",Kota Medan,Sumatera Utara,3.5731167,98.6426493,Bank Mandiri
-"Jl. Brigjen Zain Hamid No. 28, Titi Kuning, Medan Johor,",Kota Medan,Sumatera Utara,3.52732,98.6849037,Bank Mandiri
-"Jl. Brigjen Zain Hamid No. 28, Titi Kuning, Medan Johor,",Kota Medan,Sumatera Utara,3.52732,98.6849037,Bank Mandiri
-"Suzuya Plaza Blok A 3-4, Jl. Raya Tanjung Morawa Km 17,5",Kabupaten Deli Serdang,Sumatera Utara,3.5299767,98.8077847,Bank Mandiri
-"Suzuya Plaza Blok A 3-4, Jl. Raya Tanjung Morawa Km 17,5",Kabupaten Deli Serdang,Sumatera Utara,3.5299767,98.8077847,Bank Mandiri
-"Suzuya Plaza Blok A 3-4, Jl. Raya Tanjung Morawa Km 17,5",Kabupaten Deli Serdang,Sumatera Utara,3.5299767,98.8077847,Bank Mandiri
-"Jl. Putri Hijau No.10m, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.5966275,98.6758451,Bank Mandiri
-"Jl. Putri Hijau No.10, Kesawan, Kec. Medan Bar., Kota Medan,",Kota Medan,Sumatera Utara,3.5966275,98.6758451,Bank Mandiri
-"Jl. Veteran No. 1 GH, Medan, Sumatera Utara, 20321",Kota Medan,Sumatera Utara,3.590469,98.6817739,Bank Mandiri
-"Jl. Veteran No.27, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5907111,98.6818424,Bank Mandiri
-"Jl. Bandara Kuala Namu, Ps. Enam Kuala Namu, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.6262751,98.8696433,Bank Mandiri
-"Jl. Gatot Subroto No.139, Sei Sikambing D, Kec. Medan Petisah,",Kota Medan,Sumatera Utara,3.5901527,98.658862,Bank Mandiri
-"Jl. J. Gatot Subroto, Petisah Tengah, Kec. Medan Petisah",Kota Medan,Sumatera Utara,3.5925459,98.6698373,Bank Mandiri
-"Jl. Gatot Subroto No.139, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20118, Indonesia",Kota Medan,Sumatera Utara,3.5901527,98.658862,Bank Mandiri
-"Jl. Karya Wisata, Pangkalan Masyhur, Kec. Medan Johor",Kota Medan,Sumatera Utara,3.5336846,98.6630027,Bank Mandiri
-"Jl. Karya Wisata, Pangkalan Masyhur, Kec. Medan Johor",Kota Medan,Sumatera Utara,3.5336846,98.6630027,Bank Mandiri
-"Jl. Karya Wisata, Pangkalan Masyhur, Kec. Medan Johor",Kota Medan,Sumatera Utara,3.5336846,98.6630027,Bank Mandiri
-"Jl. Karya No.169, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",Kota Medan,Sumatera Utara,3.6165979,98.6657692,Bank Mandiri
-"Jl. Karya No.169, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",Kota Medan,Sumatera Utara,3.6165979,98.6657692,Bank Mandiri
-"Jl. Karya No.169, Karang Berombak, Kec. Medan Bar., Kota Medan, Sumatera Utara 20117, Indonesia",Kota Medan,Sumatera Utara,3.6165979,98.6657692,Bank Mandiri
-"Jl. Imam Bonjol No.16D, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20112",Kota Medan,Sumatera Utara,3.5838255,98.6744127,Bank Mandiri
-"Jl. Gatot Subroto No.143, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.5919641,98.6656671,Bank Mandiri
-"Jl. J. Gatot Subroto, Petisah Tengah, Kec. Medan Petisah,",Kota Medan,Sumatera Utara,3.5925459,98.6698373,Bank Mandiri
-"Jl. Denai No.245, Tegal Sari Mandala Ii, Kec. Medan Denai",Kota Medan,Sumatera Utara,3.581940099999999,98.723734,Bank Mandiri
-"Jalan Medan Batang Kuis No.49, Dusun Enam,, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.6105218,98.7990483,Bank Mandiri
-"Jl. Pahlawan Deli Tua- Medan No.15, Deli Tua, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.4944848,98.6814833,Bank Mandiri
-"Jl. Pahlawan Deli Tua-Medan No. 15, Deli Tua, Kec. Deli Tua Kab, Deli Serdang",Kota Medan,Sumatera Utara,3.5023179,98.6788763,Bank Mandiri
-"Jl. Jamin Ginting, Sugau, Kec. Pancur Batu, Kabupaten Deli Serdang,",Kota Medan,Sumatera Utara,3.4506526,98.6032559,Bank Mandiri
-"Jl. Kirana Raya No. 40-42, Petisah Tengah, Sumatra Utara",Kota Medan,Sumatera Utara,3.5904365,98.6642902,Bank Mandiri
-"Jl. Kirana Raya No. 40-42, Petisah Tengah, Sumatra Utara",Kota Medan,Sumatera Utara,3.5904365,98.6642902,Bank Mandiri
-"Jl. Pertahanan No.87, Timbang Deli, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20149, Indonesia",Kota Medan,Sumatera Utara,3.5345225,98.7232044,Bank Mandiri
-"Jalan Besar Tigabinanga, Kecamatan Tigabinanga, Kabupaten Karo, Sumatera Utara 22162, Tigabinanga, Tiga Bina",Kabupaten Karo,Sumatera Utara,3.07396,98.2476808,Bank Mandiri
-"Jl. Karya Jaya No.256A, Gedung Johor, Kec. Medan Johor, Kota Medan,",Kota Medan,Sumatera Utara,3.519215,98.675352,Bank Mandiri
-"Jl.Cactus Raya Blok K No. 36 G Komplek Tasbih, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-"Jl.Cactus Raya Blok K No. 36 G Komplek Tasbih, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-"Jl.Cactus Raya Blok K No. 36 G Komplek Tasbih, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-"Jl. Pdam Tirtanadi Sunggal,No 267, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5740931,98.6109346,Bank Mandiri
-"Jl. Kapten Pala Bangun No.84, Lau Cimba, Kabanjahe, Kabupaten Karo, Sumatera Utara 22111, Indonesia",Kabupaten Karo,Sumatera Utara,3.099055,98.4897183,Bank Mandiri
-"Jl. Bakaran Batu No.31 , Tj. Garbus Satu, Lubuk Pakam,",Kabupaten Deli Serdang,Sumatera Utara,3.5665972,98.8720793,Bank Mandiri
-"Jl. Bajak Ii No. A3 Kel, Harjosari Ii, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5321695,98.7041753,Bank Mandiri
-"Jl. Letjen S Parman No.207de, RT.02, Babura, Kec. Medan Baru, Kota Medan, Sumatera Utara 20153, Indonesia",Kota Medan,Sumatera Utara,3.586494799999999,98.6673183,Bank Mandiri
-"Jl. Balai Kota No.12-14, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.588858099999999,98.6780079,Bank Mandiri
-"Bank Mandiri Medan Balai Kota, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.588858099999999,98.6780079,Bank Mandiri
-"Bank Mandiri Medan Balai Kota, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.588858099999999,98.6780079,Bank Mandiri
-"Bank Mandiri Medan Balai Kota, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.588858099999999,98.6780079,Bank Mandiri
-"Komplek Bsm Jl. Soekarno Hatta No.14 Binjai, Sumatra Utara",Kota Binjai,Sumatera Utara,3.6073524,98.4964235,Bank Mandiri
-"Jl. Jend Sudirman No 397 Binjai, Kota Binjai, Sumatra Utara",Kota Binjai,Sumatera Utara,3.610098,98.491192,Bank Mandiri
-"Jl. Perintis Kemerdekaan No. 5-5A, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.597601899999999,98.6789209,Bank Mandiri
-"Jl. Perintis Kemerdekaan No.5, Gaharu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20231, Indonesia",Kabupaten Langkat,Sumatera Utara,3.597601899999999,98.6789209,Bank Mandiri
-"Jl. Arief Rahman Hakim No.104, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20216",Kota Medan,Sumatera Utara,3.5781507,98.7034379,Bank Mandiri
-Jalan Arief Rahman Hakim No. 104 Kel.  Tegal Sari I Kec. Medan Area,Kota Medan,Sumatera Utara,3.5781293,98.7034946,Bank Mandiri
-"Jl. Arief Rahman Hakim No.62a, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",Kota Medan,Sumatera Utara,3.5782507,98.7035397,Bank Mandiri
-"Jl. Cirebon, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5842553,98.6837706,Bank Mandiri
-"Jl. Cirebon No.53, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5831993,98.6843011,Bank Mandiri
-"Jl Sultan Iskandar Muda No. 29 Abc, Kel. Merdeka, Kec. Medan Baru, 20153",Kota Medan,Sumatera Utara,3.5756256,98.6607132,Bank Mandiri
-"Jl Sultan Iskandar Muda No. 29 Abc, Kel. Merdeka, Kec. Medan Baru, 20153",Kota Medan,Sumatera Utara,3.5756256,98.6607132,Bank Mandiri
-"Jl. Iskandar Muda No.135B, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.588687,98.6611329,Bank Mandiri
-"Jl. Kapten Muslim No.115a, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20122, Indonesia",Kota Medan,Sumatera Utara,3.6009757,98.645439,Bank Mandiri
-"Jl. Kapten Muslim Komp. Mega Com No 1 A, Sumatra Utara",Kota Medan,Sumatera Utara,3.5974626,98.6447606,Bank Mandiri
-"Jl. Kapten Muslim No.115a, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20122, Indonesia",Kota Medan,Sumatera Utara,3.6009757,98.645439,Bank Mandiri
-"Jl. Sisingamangaraja No. 55 A-B, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5644977,98.6926753,Bank Mandiri
-"Jl. Sisingamangaraja No. 55 A-B, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5644977,98.6926753,Bank Mandiri
-"Jl. Sisingamangara No. 55 A-B Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5644977,98.6926753,Bank Mandiri
-"Jl.Gatot Subroto Km 8 N0.15 - 16 Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.596974,98.61076,Bank Mandiri
-"Jl. Gagak Hitam No.70, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",Kota Medan,Sumatera Utara,3.5835947,98.6265689,Bank Mandiri
-"Jl. Jend.Gatot Subroto KM.8 No. A 15-16 Kel. Sunggal, Kec. Medan Sunggal",Kota Medan,Sumatera Utara,3.5784828,98.6188161,Bank Mandiri
-"Jl. Wahidin No.42, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20233, Indonesia",Kota Medan,Sumatera Utara,3.5874162,98.6938639,Bank Mandiri
-"Jl. Wahidin No.42, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera Utara 20233, Indonesia",Kota Medan,Sumatera Utara,3.5874162,98.6938639,Bank Mandiri
-"Jl. Dr. Mansyur No.68, Merdeka, Kec. Medan Baru, Kota Medan, Sumatera Utara 20154, Indonesia",Kota Medan,Sumatera Utara,3.5684218,98.6547417,Bank Mandiri
-"Jl. Gunung Krakatau No.118a, Glugur Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",Kota Medan,Sumatera Utara,3.6164415,98.6808741,Bank Mandiri
-"Jl. Gunung Krakatau No.118a, Glugur Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",Kota Medan,Sumatera Utara,3.6164415,98.6808741,Bank Mandiri
-"Jl. Krakatau No. 60/120 Medan, 20238 Sumatera Utara",Kota Medan,Sumatera Utara,3.6166143,98.6809353,Bank Mandiri
-"Jl. Semarang No.46f, RW.02, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5817095,98.7055154,Bank Mandiri
-"Jl. Ring Road, Komp. Mega Busines Centre No. 3, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-"Jl. Ringroads Komplek Mega Bisnis Center No.3, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-Jl. Marelan Raya Komplek Ruko Irian Supermarket No.6-7,Kota Medan,Sumatera Utara,3.6810127,98.6560775,Bank Mandiri
-Jl. Marelan Raya Komplek Ruko Irian Supermarket No.6-7,Kota Medan,Sumatera Utara,3.6810127,98.6560775,Bank Mandiri
-"Komplek Pertamina Sumbagut, Desa Puraka I, Sei Lepan",Kabupaten Langkat,Sumatera Utara,4.0069329,98.26927820000002,Bank Mandiri
-"Komp.Pertamina Sumbagut Pb20857, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5591563,98.710715,Bank Mandiri
-"Jl. Thamrin No.75R, Sei Rengas II, Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",Kota Medan,Sumatera Utara,3.5866718,98.6923203,Bank Mandiri
-"Komplek Pertamina Sumbagut, Pangkalan Brandan, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,4.018993,98.282539,Bank Mandiri
-"Jl. Lintas Sumatra, Tangkahan Durian, Brandan Bar., Kabupaten Langkat, Sumatera Utara 20859, Indonesia",Kabupaten Langkat,Sumatera Utara,4.0022968,98.2328749,Bank Mandiri
-"Komplek Pertamina Sumbangut Pangkalan Brandan, Sumatra Utara",Kota Langkat,Sumatera Utara,4.018993,98.282539,Bank Mandiri
-"Jl. Kh Zainul Arifin No. 32, Stabat, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5837263,98.6723872,Bank Mandiri
-"Jl. KH. Zainul Arifin No.32, Kwala Bingai, Kec. Stabat, Kabupaten Langkat, Sumatera Utara 20811, Indonesia",Kabupaten Langkat,Sumatera Utara,3.7531557,98.4532112,Bank Mandiri
-"Jl.Kh.Zainul Arifin No.6-8 Stabat, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5832104,98.673832,Bank Mandiri
-"Jl. Cemara Boulevard Blok G.I No. 29 - 31, Sumatra Utara",Kota Medan,Sumatera Utara,3.6314907,98.6973739,Bank Mandiri
-"Jl. Boulevard Blok G 29-31, Komp. Cemara Asri Medan",Kota Medan,Sumatera Utara,3.5951956,98.6722227,Bank Mandiri
-"Jl. Mesjid No.184, Sampali, Kec. Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371, Indonesia",Kota Medan,Sumatera Utara,3.6666084,98.72056750000002,Bank Mandiri
-"Bank Mandiri Mangkubumi, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.584781,98.680727,Bank Mandiri
-"Jl. Pulau Batam Kawasan Industri Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.6722657,98.6826318,Bank Mandiri
-"Jl. Pelabuhan II Kotak Pos 15, Belawan II, Medan Belawan, Belawan II, Medan Kota Belawan, Kota Medan, Sumate",Kota Medan,Sumatera Utara,3.7837152,98.6912964,Bank Mandiri
-"Jl. Pelabuhan II Kotak Pos 15, Belawan II, Medan Belawan, Belawan II, Medan Kota Belawan, Kota Medan, Sumate",Kota Medan,Sumatera Utara,3.7837152,98.6912964,Bank Mandiri
-"Jl. Pelabuhan II Kotak Pos 15, Belawan II, Medan Belawan, Belawan II, Medan Kota Belawan, Kota Medan, Sumate",Kota Medan,Sumatera Utara,3.7837152,98.6912964,Bank Mandiri
-"Jln. Pelabuhan Ii No. 1 Kel. Belawan Ii, Sumatra Utara",Kota Medan,Sumatera Utara,3.7817385,98.6883504,Bank Mandiri
-"Jl. Gatot Subroto No.39 Kec. Binjai Barat, Sumatra Utara",Kota Medan,Sumatera Utara,3.6026798,98.4778266,Bank Mandiri
-"Jl. Gadjah Mada No.8A, Kec Pekan Kuala, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,3.5278736,98.3862304,Bank Mandiri
-"EF Jl. Gunung Krakatau No.7, Pulo Brayan Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20216, Indones",Kota Medan,Sumatera Utara,3.627524999999999,98.680717,Bank Mandiri
-"Jl. Gunung Krakatau, Pulo Brayan Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20237, Indonesia",Kota Medan,Sumatera Utara,3.6265852,98.680998,Bank Mandiri
-"Jl.Nusa Indah Raya No.56 Helvetia Tengah Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.611581999999999,98.6401542,Bank Mandiri
-"Jl. Jendral Sudirman No.292, Binjai, Kec. Binjai Kota, Kota Binjai, Sumatera Utara 20711, Indonesia",Kota Binjai,Sumatera Utara,3.6085162,98.4903026,Bank Mandiri
-"Jl. Berdikari No. 10 Pekan Bahorok, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5558168,98.6597792,Bank Mandiri
-"Jl. Secanggang, Hinai Kiri, Secanggang, Kabupaten Langkat, Sumatera Utara 20855, Indonesia",Kabupaten Langkat,Sumatera Utara,3.8334606,98.4832594,Bank Mandiri
-"Jl. Pusat Pasar No.94-95, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20216, Indonesia",Kota Medan,Sumatera Utara,3.5892975,98.6868448,Bank Mandiri
-"Jl. Pusat Pasar No.94-95, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20232, Indonesia",Kabupaten Langkat,Sumatera Utara,3.5892975,98.6868448,Bank Mandiri
-"Jl.Besar Batang Serangan, Tj.Selamat Padang Tualang",Kabupaten Langkat,Sumatera Utara,3.8001368,98.3119534,Bank Mandiri
-"Jalan Besar Tanjung Pura Langkat, Kabupaten Langkat, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,3.8851783,98.3956625,Bank Mandiri
-"Pekan Besitang, Jl. Raya Medan - Aceh, Kabupaten Langkat, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,4.0478065,98.1534961,Bank Mandiri
-"Jl. Tengku Amir Hamzah, Griya Bidadari No. 3, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,3.6077813,98.6574188,Bank Mandiri
-"Jl. Asia No.97CD, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",Kota Medan,Sumatera Utara,3.5861574,98.6945517,Bank Mandiri
-"Jl. Asia No.97CD, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",Kota Medan,Sumatera Utara,3.5861574,98.6945517,Bank Mandiri
-"Jl. Asia No.97CD, Sei Rengas II, Kec. Medan Area, Kota Medan, Sumatera Utara 20211, Indonesia",Kota Medan,Sumatera Utara,3.5861574,98.6945517,Bank Mandiri
-"Jl. Letda Sujono No.221, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223, Indonesia",Kota Medan,Sumatera Utara,3.5977627,98.7091622,Bank Mandiri
-"Jl. Letda Sujono No.221, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223, Indonesia",Kota Medan,Sumatera Utara,3.5977627,98.7091622,Bank Mandiri
-"Jl. Yos Sudarso Blok  A No.1A, Pulo Brayan, Sumatra Utara",Kota Medan,Sumatera Utara,3.6130014,98.6729684,Bank Mandiri
-"Jl. Yos Sudarso Blok A No. 1 A Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.6421405,98.6627444,Bank Mandiri
-"Jl. Yos Sudarso Blok  A No.1A, Pulo Brayan, Sumatra Utara",Kota Medan,Sumatera Utara,3.6130014,98.6729684,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Jendral Sudirman No 14 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9539172,99.0612288,Bank Mandiri
-"Jl. Patuan Nagari No.10, Balige, Kota Balige, Sumatra Utara",Kota Balige,Sumatera Utara,2.3330241,99.0583673,Bank Mandiri
-"Jl. Patuan Nagari No.10, Sangkar Nihuta, Balige, Kabupaten Toba Samosir, Sumatera Utara 22312, Indonesia",Kabupaten Toba Samosir,Sumatera Utara,2.3330241,99.0583673,Bank Mandiri
-"Komp.Mega Land Jl.Asahan Sangnawaluh No.50-51  , Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.963938,99.0862554,Bank Mandiri
-"Komp.Mega Land Jl.Asahan Sangnawaluh No.50-51  , Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.963938,99.0862554,Bank Mandiri
-"Komp.Mega Land Jl.Asahan Sangnawaluh No.50-51  , Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.963938,99.0862554,Bank Mandiri
-"Jl.Merdeka No. 140, Dolok Sanggul, Kabupaten Humbang Hasundutan, Sumatra Utara",Kabupaten Humbang Hasundut,Sumatera Utara,2.251991,98.7485729,Bank Mandiri
-Jl Merdeka Dolok Sanggul No 52 Kab Humbang Hasundutan,Kabupaten Humbang Hasundut,Sumatera Utara,2.2584566,98.7481302,Bank Mandiri
-"Jl. Diponegoro No.118ab, Ilir, Gn. Sitoli, Kota Gunungsitoli, Sumatera Utara, Indonesia",Kota Gunungsitoli,Sumatera Utara,1.2863846,97.6230079,Bank Mandiri
-"Jl. Diponegoro No.118ab, Ilir, Gn. Sitoli, Kota Gunungsitoli, Sumatera Utara, Indonesia",Kota Gunungsitoli,Sumatera Utara,1.2863846,97.6230079,Bank Mandiri
-"Jl. Diponegoro No.118ab, Ilir, Gn. Sitoli, Kota Gunungsitoli, Sumatera Utara, Indonesia",Kabupaten Nias,Sumatera Utara,1.2863846,97.6230079,Bank Mandiri
-"Jl. Sutomo No. 16, Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9554328,99.0630829,Bank Mandiri
-"Jl. Sutomo No. 16, Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9554328,99.0630829,Bank Mandiri
-"Jl. Sutomo No 16 Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9554328,99.0630829,Bank Mandiri
-"Jl. Sutomo No.16 Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9554328,99.0630829,Bank Mandiri
-"Jl. Sutomo No.20, Simalungun, Kec. Siantar Sel., Kota Pematang Siantar, Sumatera Utara 21144, Indonesia",Kota Pematang Siantar,Sumatera Utara,2.955571,99.0632167,Bank Mandiri
-"Jl Sisingamangaraja No 488 Perdagangan, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.5479919,98.6985166,Bank Mandiri
-"Jl Sisingamangaraja No 488 Perdagangan, Kabupaten Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.1580919,99.3276695,Bank Mandiri
-"Jl Sisingamangaraja No 488 Perdagangan, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.5479919,98.6985166,Bank Mandiri
-"Jl. Dr. Sutomo No. 17, Tebing Tinggi, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3269677,99.1647013,Bank Mandiri
-"Jl. Dr. Sutomo No. 17, Tebing Tinggi, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3269677,99.1647013,Bank Mandiri
-"Jl. Dr. Sutomo No. 17, Tebing Tinggi, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3269677,99.1647013,Bank Mandiri
-"Jl. Dr. Sutomo No. 17, Tebing Tinggi, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3269677,99.1647013,Bank Mandiri
-"Jl. Dr. Sutomo No. 17, Tebing Tinggi, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3269677,99.1647013,Bank Mandiri
-"Jl. Jend. Sudirman No. 59, Indrapura, Kabupaten Batu Bara, Sumatra Utara",Kabupaten Batu Bara,Sumatera Utara,3.2857654,99.3692046,Bank Mandiri
-Jl. Sisingamangaraja No.47 Kel. Pasar Siborong-Borong,Kabupaten Tapanuli Utara,Sumatera Utara,2.2041412,98.9730241,Bank Mandiri
-"Jl. SM Raja No. 47, Siborong-borong Pasar Siborongborong",Kota Siborongborong,Sumatera Utara,2.2041412,98.9730241,Bank Mandiri
-"Jl. Merdeka No. 5C Kel, Serbelawan Kec. Dolok Batu Nanggar, Serbelawan  Kab Simalungun Bank Mandiri Serbela",Kabupaten Simalungun,Sumatera Utara,3.1338,99.147491,Bank Mandiri
-"Jl. Ahmad Yani No.43, Ps. Baru, Sibolga Kota, Kota Sibolga, Sumatera Utara 22513, Indonesia",Kota Sibolga,Sumatera Utara,1.7409374,98.7772532,Bank Mandiri
-"Jl. Ahmad Yani No.43, Ps. Baru, Sibolga Kota, Kota Sibolga, Sumatera Utara 22513, Indonesia",Kota Sibolga,Sumatera Utara,1.7409374,98.7772532,Bank Mandiri
-"Jl. Ahmad Yani No.43, Ps. Baru, Sibolga Kota, Kota Sibolga, Sumatera Utara 22513, Indonesia",Kota Sibolga,Sumatera Utara,1.7409374,98.7772532,Bank Mandiri
-"Jl. Ahmad Yani No.43, Ps. Baru, Sibolga Kota, Kota Sibolga, Sumatera Utara 22513, Indonesia",Kota Sibolga,Sumatera Utara,1.7409374,98.7772532,Bank Mandiri
-"Jl. Raya Pekan Sidamanik No. 52, Sidamanik, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.8616836,98.9215983,Bank Mandiri
-"Jl. Sm Raja No.86, Hutatoruan X, Tarutung, Kabupaten Tapanuli Utara, Sumatera Utara 22411, Indonesia",Kabupaten Tapanuli Utara,Sumatera Utara,2.0193128,98.9632294,Bank Mandiri
-"Jl. Sm Raja No.14, Tanah Jawa, Kab. Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.886178,99.1631427,Bank Mandiri
-"Jl. Sutomo, Saribudolok, Silimakuta, Kabupaten Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.9285017,98.6237458,Bank Mandiri
-"Jl. Medan Km 9,5 Komplek Beringin Indah Kab. Simalungun",Kabupaten Simalungun,Sumatera Utara,2.9781612,99.2785583,Bank Mandiri
-"Jl. Diponegoro, Pardomuan I, Pangururan, Kabupaten Samosir, Sumatera Utara 22392, Indonesia",Kabupaten Samosir,Sumatera Utara,2.6025819,98.7050022,Bank Mandiri
-Jl. Thamrin-Tebing Tinggi Pasar Gambir Tebing Tinggi,Kota Tebing Tinggi,Sumatera Utara,3.3241858,99.1582271,Bank Mandiri
-"Jl. Sm Raja No 192 Parluasan, Pematang Siantar  Bank Mandiri Cabang Parluasan",Kota Pematang Siantar,Sumatera Utara,3.5606324,98.6933802,Bank Mandiri
-"Jl. Raya Lintas Tengah Sumatera No 116, Porsea, Kab. Toba Samosir",Kabupaten Toba Samosir,Sumatera Utara,2.4482179,99.1540603,Bank Mandiri
-Jl. Sutomo Griya Raya Hapoltakan Pematang Raya No 22-21 Kab Simalungun,Kabupaten Simalungun,Sumatera Utara,2.9709282,98.8542495,Bank Mandiri
-"Jl. Sisingamangaraja No.160, Kota Sidikalang, Sidikalang, Kabupaten Dairi, Sumatera Utara 22218, Indonesia",Kabupaten Dairi,Sumatera Utara,2.7487729,98.3133748,Bank Mandiri
-Jl. Perintas Kemerdekaan No 06 Galang Deli Serdang,Kabupaten Deli Serdang,Sumatera Utara,3.4113483,98.908334,Bank Mandiri
-"Jl. Dusun Iv No. 2 Pagar Merbau Ii, Kabupaten Deli Serdang",Kabupaten Deli Serdang,Sumatera Utara,3.5711348,98.9120632,Bank Mandiri
-"Jl. Negara No. 88A, Sei Rampah - Sergei, Sumatra Utara",Kabupaten Serdang Bedagai,Sumatera Utara,3.5003902,99.1177567,Bank Mandiri
-"Jl. Hang Kesturi No.4, Batu Besar, Kecamatan Nongsa, Kota Batam, Kepulauan Riau 29467, Indonesia",Kota Medan,Sumatera Utara,1.1125484,104.1386155,Bank Mandiri
-"mandau city mall, Babussalam, Kec. Mandau, Kabupaten Bengkalis, Riau 28784, Indonesia",Kota Sibolga,Sumatera Utara,1.280853,101.1939573,Bank Mandiri
-"Jl. Jend. Ahmad Yani No.2, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1003452,99.8303687,Bank Mandiri
-"Jl. Jend. Ahmad Yani No.2, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1003452,99.8303687,Bank Mandiri
-"Jl. Jend. Ahmad Yani No. 2, Bakaran Batu, Rantau Selatan, Pulo Padang, Rantau Utara, Kabupaten Labuhan Batu, S",Kabupaten Labuhanbatu,Sumatera Utara,2.1003452,99.8303687,Bank Mandiri
-"Jl. Ahmad Yani No.49, Tj. Balai Karimun, Kec. Karimun, Kabupaten Karimun, Kepulauan Riau 29661, Indonesia",Kota Tanjung Balai,Sumatera Utara,0.9912975,103.4352506,Bank Mandiri
-"Jl. Teuku Umar No. 169-173, Tanjung Balai Selatan, Sumatra Utara",Kota Tanjung Balai,Sumatera Utara,2.9607436,99.8003073,Bank Mandiri
-"Jl. Teuku Umar No. 169-173, Tanjung Balai Selatan, Sumatra Utara",Kota Tanjung Balai,Sumatera Utara,2.9607436,99.8003073,Bank Mandiri
-"Jl. Jend Sudirman No 30-32, Padang Sidempuan, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3800423,99.2690689,Bank Mandiri
-"Jl. Jend. Sudirman No. 30-32, Padang Sidempuan, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3800423,99.2690689,Bank Mandiri
-"Jl. Jend. Sudirman No.30-32, Padang Sidempuan, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3800423,99.2690689,Bank Mandiri
-"Jl. Jend Sudirman No 30-32, Padang Sidempuan, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3800423,99.2690689,Bank Mandiri
-"Jl. Hos Cokroaminoto No.65, Kisaran, Kabupaten Asahan, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.9855699,99.6261031,Bank Mandiri
-"Jl.Hos Cokroaminoto No. 65 Kisaran, Kabupaten Asahan, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.9855699,99.6261031,Bank Mandiri
-"Jl. Cokro Aminoto No.73, Kisaran Kota, Kec. Kota Kisaran Barat, Kabupaten Asahan, Sumatera Utara 21211, Indon",Kota Medan,Sumatera Utara,2.9853582,99.6272779,Bank Mandiri
-"Jl. Cokro Aminoto No.65, Sei Renggas, Kec. Kota Kisaran Barat, Kabupaten Asahan, Sumatera Utara 41311, Indone",Kabupaten Asahan,Sumatera Utara,2.985584,99.6265653,Bank Mandiri
-"Jl. Letkol. Martinus Lubis No.11, Kota Rantau Prapat, Sumatra Utara",Kota Rantauprapat,Sumatera Utara,2.1033354,99.837793,Bank Mandiri
-"Jl. Letkol. Martinus Lubis No.11 , Kabupaten Labuhanbatu, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1033354,99.837793,Bank Mandiri
-"Jl. Letkol Martinus Lubis No. 11, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1033354,99.837793,Bank Mandiri
-"Jl. Merdeka No. 101, Kel. Pasar Sipirok, Sipirok, Sumatra Utara",Kabupaten Tapanuli Selatan,Sumatera Utara,1.6032336,99.2778653,Bank Mandiri
-"Jl. Ahmad Yani No.24, Kec. Bilah Hulu, Aek Nabara, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1004398,99.8295202,Bank Mandiri
-"Jl. Lintas Sumatra Labuhan Batu No.25, Kp Pajak, Sumatra Utara",Kabupaten Labuhanbatu Utara,Sumatera Utara,1.9416786,100.096057,Bank Mandiri
-"Jl. Protokol Negeri Lama No.85, Bilah Hilir, Negeri Lama",Kabupaten Labuhanbatu,Sumatera Utara,2.313463,100.0834694,Bank Mandiri
-"Jl. Lintas Sumatera No.28, Sei Piring, Kec. Rehuning, Asahan",Kabupaten Asahan,Sumatera Utara,2.7096515,99.620372,Bank Mandiri
-"Jl. Jend. Sudirman No. 250, Aek Kanopan Timur, Kualuh Hulu",Kabupaten Labuhanbatu Utara,Sumatera Utara,2.5742175,99.6532464,Bank Mandiri
-"Jl. Jend. Sudirman No. 250, Aek Kanopan Timur, Kualuh Hulu",Kabupaten Aek Kanopan,Sumatera Utara,2.5742175,99.6532464,Bank Mandiri
-"Jl.Jend. Gatot Subroto No.52, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.0997013,99.8222315,Bank Mandiri
-"Jl. S. Parman No.177, Kel. Sidorejo, Kec. Rantau Selatan, Rantau Prapat",Kabupaten Labuhanbatu,Sumatera Utara,2.0408318,99.8758354,Bank Mandiri
-"Jl. Merdeka No.56, Kel. Pasar Gunung Tua, Kec. Padang Bolak",Kabupaten Padang Lawas,Sumatera Utara,1.5156756,99.6278573,Bank Mandiri
-"Jl. Jend. Sudirman No.34 Kel. Wek Ii, Padang Sidempuan Utara",Kota Padang Sidempuan,Sumatera Utara,1.3801021,99.2691064,Bank Mandiri
-"Jl. Lintas P.Sidempuan - Sibolga, Km.25, Desa Sumuran Kec. Batang Toru",Kota Padang Sidempuan,Sumatera Utara,1.487361,99.0394796,Bank Mandiri
-"Jl. Raya Lintas Sumatera No. 138 - 140, Aek Batu, Torgamba, Cikampak",Kabupaten Labuhanbatu Selata,Sumatera Utara,2.0472376,99.8733501,Bank Mandiri
-"Jl. Raya Lintas Sumatera No. 138 - 140, Aek Batu, Torgamba, Cikampak",Kabupaten Labuhanbatu Selata,Sumatera Utara,2.0472376,99.8733501,Bank Mandiri
-"Jl. Willem Iskandar No. 105, Panyabungan, Sumatra Utara",Kabupaten Mandailing Natal,Sumatera Utara,0.8199099,99.566871,Bank Mandiri
-"Jl. Willem Iskandar No.105, Panyabungan, Sumatra Utara",Kabupaten Mandailing Natal,Sumatera Utara,0.8199099,99.566871,Bank Mandiri
-"Jl. Willem Iskandar No. 105, Panyabungan, Sumatra Utara",Kabupaten Mandailing Natal,Sumatera Utara,0.8199099,99.566871,Bank Mandiri
-"Jl. Kihajar Dewantara, No. 30, Sibuhuan, Kec.Barumun",Kabupaten Padang Lawas,Sumatera Utara,1.0503966,99.7366426,Bank Mandiri
-"Psr Sibuhuan, Barumun, Padang Lawas Regency, North Sumatra 22763, Indonesia",Kabupaten Padang Lawas,Sumatera Utara,1.0516485,99.7302347,Bank Mandiri
-"Tlk. Bano I, Kec. Bangko Pusako, Kabupaten Rokan Hilir, Riau 28912, Indonesia",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.8471275,100.8338593,Bank Mandiri
-"Tlk. Bano I, Kec. Bangko Pusako, Kabupaten Rokan Hilir, Riau 28912, Indonesia",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.8471275,100.8338593,Bank Mandiri
-"Jl. Karangsari Anyer Gunung Maligas , Kabupaten Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.9960282,99.0945125,Bank Mandiri
-Komplek Taman Setia Budi Indah Jln. Crysant V Blok C No. 1,Kota Medan,Sumatera Utara,3.5684693,98.6387309,Bank Mandiri
-"Jl. H. Adam Malik No.11, Sekip, Kec. Medan Petisah, Kota Medan,",Kota Medan,Sumatera Utara,3.595437,98.668576,Bank Mandiri
-"Jl. Brigjend Katamso No.710, Kp. Baru, Kec. Medan Maimun, Kota Medan,",Kota Medan,Sumatera Utara,3.5487976,98.6874545,Bank Mandiri
-"Jl. Raya Medan Lubuk Pakam Km. 20, Tanjung Morawa Lubuk Pakam, Sumatera Utara",Kabupaten Deli Serdang,Sumatera Utara,3.5439941,98.8201726,Bank Mandiri
-"Jl. Lintas Sumatera Kec. Air Batu,Desa Hessa, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.9263701,99.7002523,Bank Mandiri
-"Jl. Diponegoro No. 2, Kel. Pancuran Gerobak, Sibolga",Kota Sibolga,Sumatera Utara,1.740679,98.7820057,Bank Mandiri
-"Jl. Brigjend Katamso Pantai Burung 3 No.36, Sei Mati, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20215,",Kota Medan,Sumatera Utara,3.5683971,98.6867533,Bank Mandiri
-"Jl Pergubungan, Laut Dendang, Percut Sei Tuan, Deli Serdang, Sumatera Utara",Kota Medan,Sumatera Utara,3.6204492,98.7341363,Bank Mandiri
-"Jl.Jend. Gatot Subroto Km. 4,5 Sei Kambing, Sumatra Utara",Kota Medan,Sumatera Utara,3.5910214,98.6447237,Bank Mandiri
-"Jl. Sisingamangaraja No.7, Mesjid, Medan Kota, Kota Medan, Sumatera Utara 20212",Kota Medan,Sumatera Utara,3.5806711,98.6857091,Bank Mandiri
-"Kel. Bah Jambi, Kec. Hutabayuraja, Kab. Simalungun",Kabupaten Simalungun,Sumatera Utara,3.0007927,99.2314492,Bank Mandiri
-"Jl. Pendeta Justin Sihombing, Merdeka, Siantar Tim., Kota Pematang Siantar, Sumatera Utara 21143",Kota Pematang Siantar,Sumatera Utara,2.9672977,99.077542,Bank Mandiri
-"Jalan Dr Sutomo No 21 Pahlawan, Binjai Utara, Sumatra Utara",Kota Binjai,Sumatera Utara,3.6106142,98.4932522,Bank Mandiri
-"Jl.Lintas Sumatera Km.13 Desa Air Genting, Simpang Kawat, Kisaran",Kabupaten Asahan,Sumatera Utara,0.4976317,101.3943308,Bank Mandiri
-"Jl. Krakatau Ujung No.18, Tj. Mulia, Kec. Medan Deli, Kota Medan, Sumatera Utara 20237, Indonesia",Kota Medan,Sumatera Utara,3.6377924,98.680946,Bank Mandiri
-"Jl. Imam Bonjol No.33, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",Kota Medan,Sumatera Utara,3.5768912,98.6772574,Bank Mandiri
-"Jl. Gaperta No.206-200, Helvetia, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",Kota Medan,Sumatera Utara,3.6051545,98.6316789,Bank Mandiri
-"Jl. Sei Batang Hari No.35, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20112, Indonesia",Kota Medan,Sumatera Utara,3.5849908,98.65099,Bank Mandiri
-"Jln. Jend. Gatot Subroto Km. 5,5 Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5937826,98.623283,Bank Mandiri
-"Jl. Gabion, Bagan Deli, Medan Kota Belawan, Kota Medan, Sumatera Utara",Kota Medan,Sumatera Utara,3.7798527,98.7073502,Bank Mandiri
-"Pabatu, Serdang Bedagai, Kab. Sergei, Kota Tebing Tinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3004626,99.1248628,Bank Mandiri
-"Jl. Sisingamangaraja No.11, Km.4, Padang Sidempuan",Kota Padang Sidempuan,Sumatera Utara,1.37666,99.2741569,Bank Mandiri
-"Jl. Darussalam No.12, Sei Sikambing D, Medan Petisah, Kota Medan, Sumatera Utara 20119",Kota Medan,Sumatera Utara,3.5877959,98.6533283,Bank Mandiri
-"Kp. Klp. Satu, Galang, Kabupaten Deli Serdang,, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.4311089,98.8721186,Bank Mandiri
-"Jln. Bandar Klippa, Percut Sei Tuan, Amplas, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.6446267,98.7756556,Bank Mandiri
-"Jl. Hang Jebat, Batu Besar, Kecamatan Nongsa, Kota Batam, Kepulauan Riau 29465, Indonesia",Kota Medan,Sumatera Utara,1.1618659,104.1180335,Bank Mandiri
-"Jl. Jend. Ahmad Yani No.10, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.092269,99.8395954,Bank Mandiri
-"Mandoge, Kec. Bandar Pasir Mandoge, Kab. Asahan, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.7608256,99.3451118,Bank Mandiri
-"Jl. Lintas Sumatera, Ptpn Iv, Pulu Raja, Aek Batu, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,0.4976317,101.3943308,Bank Mandiri
-"Jl. Melanton Siregar Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9414813,99.0711654,Bank Mandiri
-"Simpang Tiga Pekan, Perbaungan, Serdang Bedagai Regency,",Kabupaten Deli Serdang,Sumatera Utara,3.5690065,98.953516,Bank Mandiri
-"Jl. Sei Mencirim Dusun Ii Paya Geli No.86, Sumatra Utara",Kota Medan,Sumatera Utara,3.5956825,98.6030305,Bank Mandiri
-"Jl. Gatot Subroto Simpang Jl Ayahanda Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5902073,98.6532929,Bank Mandiri
-"Jl. Karya Jaya No.174, Gedung Johor, Kec. Medan Johor, Kota Medan, Sumatera Utara 20147, Indonesia",Kota Medan,Sumatera Utara,3.5258354,98.6771478,Bank Mandiri
-"Jl. Veteran No.99, Helvetia, Kec. Labuhan Deli, Kabupaten Deli Serdang, Sumatera Utara 20241, Indonesia",Kota Medan,Sumatera Utara,3.6601498,98.6562986,Bank Mandiri
-"Jl. Amal Luhur No.30, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",Kota Medan,Sumatera Utara,3.5977176,98.6417115,Bank Mandiri
-"Jln. Jamin Ginting Km. 11,5 Simpang Selayang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.5341705,98.6476723,Bank Mandiri
-Jl. Sangnawaluh Kel. Kerasaan I Kec. Pematang Bandar Kerasaan Pematangbandar Simalungun,Kabupaten Simalungun,Sumatera Utara,3.0864719,99.2953421,Bank Mandiri
-"Jl. Darussalam, Babura, Kec. Medan Baru, Kota Medan,",Kota Medan,Sumatera Utara,3.5809092,98.6529411,Bank Mandiri
-"Jl. Gaperta Ujung No. 33 Rt.Rw Kel, Tj. Gusta, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20125, Indonesi",Kota Medan,Sumatera Utara,3.6057282,98.6227246,Bank Mandiri
-"Jl. Bandara Kuala Namu, Ps. Enam Kuala Namu, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.6262751,98.8696433,Bank Mandiri
-"Jalan Utama Dusun Vii Kec. Batangkuis, Kabupaten Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.6124855,98.8014538,Bank Mandiri
-"Jl. Sekip No.58 G, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",Kota Medan,Sumatera Utara,3.597501,98.664501,Bank Mandiri
-"Jl. St. No.7, Belawan II, Medan Kota Belawan, Kota Medan, Sumatera Utara 20411, Indonesia",Kota Medan,Sumatera Utara,3.774394,98.681321,Bank Mandiri
-"Jl. Sisingamangaraja Sudut, Medan Amplas, Sitirejo Ii, Kec. Medan Amplas, Kota Medan,",Kota Medan,Sumatera Utara,3.5486676,98.6986713,Bank Mandiri
-"Jl. Listrik No.2A, Petisah Tengah, Kec. Medan Petisah",Kota Medan,Sumatera Utara,3.5857921,98.6768043,Bank Mandiri
-"Jl. Rawa No.9, Timbang Deli, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20148, Indonesia",Kota Medan,Sumatera Utara,3.5382322,98.7205854,Bank Mandiri
-"Jl. Fl. Tobing No 79 Pandan Tapanuli Tengah, Sumatra Utara",Kabupaten Tapanuli Tengah,Sumatera Utara,1.6841306,98.8265718,Bank Mandiri
-"Jl. Denai No.217, Tegal Sari Mandala II, Kec. Medan Denai, Kota Medan, Sumatera Utara 20371, Indonesia",Kota Medan,Sumatera Utara,3.5825661,98.7223295,Bank Mandiri
-"Sei Kopas, Kec. Bandar Pasir Mandoge, Kab. Asahan, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.8295988,99.3562094,Bank Mandiri
-"Ptpn Iv Ajamu, Desa Perkebunan Ajamu, Kec.Panai Hulu, Labuhanbatu",Kabupaten Labuhanbatu,Sumatera Utara,2.3926885,100.1591213,Bank Mandiri
-"Jl. Nagori Panombena Hutahurung, Bah Birong Ulu, Jorlang Hantaran Kabupaten Simalungun",Kabupaten Simalungun,Sumatera Utara,2.8177731,98.98527,Bank Mandiri
-"Jl. Platina Raya No. 108. Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.6883696,98.6617962,Bank Mandiri
-Jl. Jend. Sudirman No. 14 Pematangsiantar 21117 Sumatera Utara,Kota Pematang Siantar,Sumatera Utara,2.9535979,99.0615362,Bank Mandiri
-"Jl. Jend Sudirman No 30-32, Padang Sidempuan, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3800423,99.2690689,Bank Mandiri
-"Jl. Imam Bonjol No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",Kota Medan,Sumatera Utara,3.5872798,98.6743573,Bank Mandiri
-"Jl. Balaikota No. 8-10 Medan 20111, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5894745,98.6777939,Bank Mandiri
-"Jl. Balaikota No. 8-10 Medan 20111, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5894745,98.6777939,Bank Mandiri
-"Jl. Jend. Ahmad Yani No.2, Rantau Prapat, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.1003452,99.8303687,Bank Mandiri
-"Jl. Karya Jaya, Pangkalan Mansyur, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5359024,98.6779363,Bank Mandiri
-"Jl. Flamboyan Raya No.66, Tj. Selamat, Kec. Medan Tuntungan, Kota Medan,",Kota Medan,Sumatera Utara,3.5410288,98.6061686,Bank Mandiri
-"Jl Sei Mencirim, Desa Suka Maju, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5605115,98.5624489,Bank Mandiri
-"Lrg. Sekolah No.1, Belawan I, Medan Kota Belawan, Kota Medan, Sumatera Utara 20411, Indonesia",Kota Medan,Sumatera Utara,3.7719074,98.6814478,Bank Mandiri
-"Jl. Mandala By Pass No.52, Bantan Tim., Kec. Medan Tembung, Kota Medan, Sumatera Utara 20223, Indonesia",Kota Medan,Sumatera Utara,3.5943211,98.7114816,Bank Mandiri
-"Jl. Garuda Raya No.39, Tegal Sari Mandala II, Kec. Medan Denai, Kota Medan, Sumatera Utara 20371, Indonesia",Kota Medan,Sumatera Utara,3.5872193,98.7144595,Bank Mandiri
-"Jl. Halat No.52, Ps. Merah Tim., Kec. Medan Area, Kota Medan, Sumatera Utara 20215, Indonesia",Kota Medan,Sumatera Utara,3.5723044,98.7028824,Bank Mandiri
-"Jl. Kh. Dewantara No.129, Kel. Sioldengan, Kec. Rantau Selatan, Rantau Prapat",Kabupaten Labuhanbatu,Sumatera Utara,2.0964068,99.8470676,Bank Mandiri
-"Jl. Ahmad Yani No 206, Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9681756,99.0762722,Bank Mandiri
-"Parbutaran, Bosar Maligas Kabupaten Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.9678145,99.3340158,Bank Mandiri
-"Jl. Ngumban Surbakti 79, Sempakata, Kec. Medan Selayang, Kota Medan,",Kota Medan,Sumatera Utara,3.5419826,98.6319786,Bank Mandiri
-"Jl. Kh. Dewantara No.129, Kel. Sioldengan, Kec. Rantau Selatan, Rantau Prapat",Kabupaten Labuhanbatu,Sumatera Utara,2.0964068,99.8470676,Bank Mandiri
-"Jln. Rakyat Simpang Pendidikan, Kel. Tegal Rejo, Kec. Medan Perjuangan",Kota Medan,Sumatera Utara,3.6147882,98.6910828,Bank Mandiri
-"Desa Sungai Korang, Kecamatan Hutaraja Tinggi, Sumatra Utara",Kabupaten Padang Lawas,Sumatera Utara,1.1223277,100.1311163,Bank Mandiri
-"Jalan Multatuli Komplek Multatuli Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5753891,98.6801919,Bank Mandiri
-"Bandar Pinang Kebon, Bintang Bayu, Serdang Bedagai Regency,",Kabupaten Deli Serdang,Sumatera Utara,3.3234989,98.9190152,Bank Mandiri
-"Jl. Stm, Suka Maju, Medan Johor, Kota Medan,, Sumatra Utara",Kota Medan,Sumatera Utara,3.5399128,98.691598,Bank Mandiri
-"Jln. Menteng Raya No. 7 (Dpn Perum. Menteng Indah) Kel. Medan Tenggara, Kec. Medan Denai",Kota Medan,Sumatera Utara,3.5815542,98.71856,Bank Mandiri
-"Jl. Danau Singkarak No.10J-K-L, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20114, Indonesia",Kota Medan,Sumatera Utara,3.6047522,98.6489249,Bank Mandiri
-"Jl. Marindal No.22, Mekar Sari, Kec. Deli Tua, Kabupaten Deli Serdang, Sumatera Utara 20148, Indonesia",Kota Medan,Sumatera Utara,3.5185886,98.6983781,Bank Mandiri
-"Jl. Gagak Hitam No.28, Ringroad Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5576535,98.6264683,Bank Mandiri
-"Jl.Merdeka Barat Km.2,5, Desa Aek Pining - Batang Toru",Kabupaten Tapanuli Selatan,Sumatera Utara,1.4976853,99.0524974,Bank Mandiri
-"Jl. Sisingamangaraja No.66 Pematangsiantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9723264,99.0742081,Bank Mandiri
-"Jl. Access Road Inalum No.Desa, Pakam Raya, Medang Deras, Kabupaten Batu Bara, Sumatera Utara 21258",Kabupaten Batu Bara,Sumatera Utara,3.3372456,99.3712627,Bank Mandiri
-"Jl.Raya Lintas Sumatera, Kampung Beringin, Desa Asam Jawa, Kota Pinang",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.8588165,100.1449446,Bank Mandiri
-"Jl. Di Panjaitan No. 49,Pematangsiantar, Kota. Siantar",Kota Pematang Siantar,Sumatera Utara,2.9386279,99.0483995,Bank Mandiri
-"Desa Pangarungan, Kec Torgamba, Cikampak, Labuhan Batu Selatan",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.9615827,100.1983431,Bank Mandiri
-"Jl. Kapten Muchtar Basri No.3, Glugur Darat II, Kec. Medan Tim., Kota Medan, Sumatera Utara 20238, Indonesia",Kota Medan,Sumatera Utara,3.6129843,98.6756699,Bank Mandiri
-"Bandara Internasional Silangit, Jalan Silangit, Silando Muara, Siborongborong",Kabupaten Tapanuli Utara,Sumatera Utara,2.2624187,98.9878588,Bank Mandiri
-"Jl. Veteran No.123, Lumban Tobing, Dolok sanggul, Kabupaten Humbang Hasundutan, Sumatera Utara 22457, Ind",Kabupaten Humbang Hasundut,Sumatera Utara,2.2557504,98.7528792,Bank Mandiri
-"Jl. Cut Mutia No.1, Madras Hulu, Medan Polonia, Sumatra Utara",Kota Medan,Sumatera Utara,3.5804027,98.676228,Bank Mandiri
-"Jl. Lintas Sumatera - Desa Sungai Raja, Aek Kota Baru, Rantau Prapat",Kabupaten Labuhanbatu,Sumatera Utara,2.2757864,99.7621272,Bank Mandiri
-"Jl. Lintas Sumatra, Perbaungan, Bilah Hulu, Kabupaten Labuhan Batu, Sumatera Utara 21451, Indonesia",Kota Labuhanbatu,Sumatera Utara,2.0580743,99.9706672,Bank Mandiri
-"Jl. Jend. Ahmad Yani No. 125 - 127, Kartini, Rantau Utara, Rantau Prapat",Kabupaten Labuhanbatu,Sumatera Utara,2.0968565,99.8331265,Bank Mandiri
-"Jl. Sm Raja No 40 Bandar Sono Tebingtinggi, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3199429,99.1531653,Bank Mandiri
-"Jl. KH. Zainul Arifin No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",Kota Medan,Sumatera Utara,3.5831635,98.6716723,Bank Mandiri
-"Jl. KH. Zainul Arifin No.7, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20152, Indonesia",Kota Medan,Sumatera Utara,3.5831635,98.6716723,Bank Mandiri
-"Jl. Lintas Simpang Kebun Kopi Dusun Iii, Empat Negeri Limapuluh Batubara",Kabupaten Batu Bara,Sumatera Utara,3.2105253,99.4241954,Bank Mandiri
-"Jl. Arief Rahman Hakim No.168, Sukaramai I, Kec. Medan Area, Kota Medan, Sumatera Utara 20227, Indonesia",Kota Medan,Sumatera Utara,3.5749332,98.7032544,Bank Mandiri
-"Jl. Kenanga Raya No.66, Tj. Sari, Kec. Medan Selayang",Kota Medan,Sumatera Utara,3.5618318,98.6313051,Bank Mandiri
-"Bandara Kualanamu, Beringin, Kec. Beringin, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.631202,98.875071,Bank Mandiri
-"Jl. Tahi Bonar Simatupang No.187, Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20127, Indonesia",Kota Medan,Sumatera Utara,3.5823298,98.6154876,Bank Mandiri
-"Desa Sei Silau Barat, Kec. Setia Janji, Kab. Asahan",Kota Kisaran,Sumatera Utara,2.9417667,99.4950555,Bank Mandiri
-"Jl. M. T. Haryono No.8, Pusat Ps., Kec. Medan Kota, Kota Medan, Sumatera Utara 20211, Indonesia",Kota Medan,Sumatera Utara,3.587683299999999,98.6868618,Bank Mandiri
-"Jl. M. T. Haryono No.1, RT.02, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara 20212, Indonesia",Kota Medan,Sumatera Utara,3.5860842,98.6824913,Bank Mandiri
-"Jl. Iskandar Muda No.107, Babura, Kec. Medan Baru, Kota Medan,",Kota Medan,Sumatera Utara,3.5844032,98.6609825,Bank Mandiri
-"Jl. Kelambir 5, Tj. Gusta, Kec. Medan Helvetia, Kota Medan,",Kota Medan,Sumatera Utara,3.6124589,98.6057266,Bank Mandiri
-"Jl. Samanhudi No.20, J A T I, Kec. Medan Maimun, Sumatra Utara",Kota Medan,Sumatera Utara,3.5731094,98.681154,Bank Mandiri
-"Pulo Brayan Kota, Jl. Kol. Yos Sudarso No.338, Glugur Kota, Kec. Medan Bar., Kota Medan, Sumatera Utara 20238,",Kota Medan,Sumatera Utara,3.6432117,98.6628968,Bank Mandiri
-"Jl. Serdang No.57 Perbaungan Serdang Bedagai, Sumatra Utara",Kabupaten Serdang Bedagai,Sumatera Utara,3.5674695,98.9555185,Bank Mandiri
-"Kop.Karyawan Pertamina Jln.Samudera P.Susu, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,4.1136443,98.2164248,Bank Mandiri
-"Kop.Karyawan Pertamina Jln.Samudera P.Susu, Sumatra Utara",Kota Medan,Sumatera Utara,4.1136443,98.2164248,Bank Mandiri
-"Jl. Sunggal No.221, Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122",Kota Medan,Sumatera Utara,3.5787339,98.6295112,Bank Mandiri
-"Jl. Lintas Tengah Sumatera No 44 Tiga Raja, Girsang Sipangan Bolon,Prapat Kab Simalungun",Kabupaten Simalungun,Sumatera Utara,2.6671583,98.9414174,Bank Mandiri
-"Jl. Acces Road Desa Pakam No 169  Kab Batu Bara, Sumatra Utara",Kabupaten Batu Bara,Sumatera Utara,3.3729248,99.4049164,Bank Mandiri
-"Gedung Uniland Lt. 1, Jl. Mt Haryono A-1, Sumatra Utara",Kota Medan,Sumatera Utara,2.1153547,99.5450974,Bank Mandiri
-"Jl. Penerbangan No.85, Sempakata, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20131",Kota Medan,Sumatera Utara,3.5346618,98.6403716,Bank Mandiri
-"Jl.Tanjung Morawa. Km 12,8, Ujung Serdang, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.5304887,98.7503004,Bank Mandiri
-"Jl. Medan - Binjai No.km. 13.7, Medan Krio, Kec. Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20351, Indone",Kota Medan,Sumatera Utara,3.599280799999999,98.5877308,Bank Mandiri
-"Jl. Raya Tanjung Morawa Km 18.5 Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5316786,98.7458022,Bank Mandiri
-"Desa Kuala Tanjung,Sei Suka Kwala Tanjung Kec. Sei Suka Kabupaten Batubara",Kabupaten Batu Bara,Sumatera Utara,3.355912,99.4422664,Bank Mandiri
-"Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan",Kota Medan,Sumatera Utara,3.519782,98.6094178,Bank Mandiri
-"Jl. Bunga Lau No.17, Kemenangan Tani, Kec. Medan Tuntungan",Kota Medan,Sumatera Utara,3.519782,98.6094178,Bank Mandiri
-"Jl. Kuala Tj. No.63, Perdagangan I, Bandar, Kabupaten Simalungun, Sumatera Utara 21184, Indonesia",Kabupaten Simalungun,Sumatera Utara,3.1657347,99.3333873,Bank Mandiri
-"Gg. Dwikora Baru No.22, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",Kota Medan,Sumatera Utara,3.5775639,98.6413765,Bank Mandiri
-"Jl. Gaperta Ujung No.87c, Tj. Gusta, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20126, Indonesia",Kota Medan,Sumatera Utara,3.606069,98.6144905,Bank Mandiri
-"Jln. Iskandar Muda No. 7, Sei Sikambing D, Medan Petisah, Kota Medan",Kota Medan,Sumatera Utara,3.584972,98.6610561,Bank Mandiri
-"Desa Perkebunan Parlabian Kec. Kampung Rakyat, Kab. Labuhanbatu Selatan",Kabupaten Labuhanbatu Selata,Sumatera Utara,2.0828658,100.0919243,Bank Mandiri
-"Jln. Setiabudi No. 79-B Sei Serayu Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5767414,98.6432246,Bank Mandiri
-"Jl. Lintas Tiga Lingga Kab Dairy, Kabupaten Dairi, Sumatra Utara",Kabupaten Dairi,Sumatera Utara,2.8266678,98.2672527,Bank Mandiri
-"Jl. Mh. Thamrin No.126, Lubuk Pakam Pekan, Kec. Lubuk Pakam",Kabupaten Deli Serdang,Sumatera Utara,3.5586253,98.8673357,Bank Mandiri
-"Jl. Medan- Tebing Tinggi, Km. 69, Serdang Begadai, Penonggol, Tebing Tinggi, Kabupaten Serdang Bedagai, Sumat",Kabupaten Serdang Bedagai,Sumatera Utara,3.3843338,99.1667367,Bank Mandiri
-"Jalan Balaikota No.4, Kesawan, Medan Barat, Kesawan, Medan Bar., Kota Medan, Sumatera Utara 20236",Kota Medan,Sumatera Utara,3.5883625,98.67815,Bank Mandiri
-"Komplek Industri Tpl, Porsea, Kab. Toba Samosir, Sumatra Utara",Kabupaten Toba Samosir,Sumatera Utara,2.4454987,99.155117,Bank Mandiri
-"Jl. Jalinsum Lima Puluh Kel Lima Puluh Kota, Lima Puluh Kota Lima Puluh Batu Bara 21255",Kabupaten Batu Bara,Sumatera Utara,3.1702949,99.4172108,Bank Mandiri
-"Banjaran Raya, Padang Tualang, Kabupaten Langkat, Sumatera Utara 20852, Indonesia",Kota Medan,Sumatera Utara,3.7146862,98.2760021,Bank Mandiri
-"Mayang, Kec. Bosar Maligas, Kab. Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.0466799,99.3562094,Bank Mandiri
-"Jl.Razak Baru No.26 Petisah Tengah, Medan Petisah, Sumatra Utara",Kota Medan,Sumatera Utara,3.5915449,98.6682345,Bank Mandiri
-"Jl. Perintis Kemerdekaan, Desa Padang Sidempuan Selatan Kec. Padang Matinggi",Kota Padang Sidempuan,Sumatera Utara,1.3629382,99.2898094,Bank Mandiri
-"Jl. Lintas Sumatera, Bunut Kec. Kota Kisaran Barat, Kabupaten Asahan",Kabupaten Asahan,Sumatera Utara,3.011646,99.6046543,Bank Mandiri
-"Jl. Putri Merak Jingga No.3, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",Kota Medan,Sumatera Utara,3.5955999,98.6774107,Bank Mandiri
-"Jl. Imam Bonjol No.32, RT.00, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",Kota Medan,Sumatera Utara,3.5765465,98.677376,Bank Mandiri
-"Kenangan Baru, Percut Sei Tuan, Kabupaten Deli Serdang, Sumatera Utara 20371, Indonesia",Kota Medan,Sumatera Utara,3.602586799999999,98.7178353,Bank Mandiri
-"Dusun Pengkolan, Bosar Maligas, Simalungun Regency, North Sumatra 21183",Kabupaten Simalungun,Sumatera Utara,3.0711664,99.3839598,Bank Mandiri
-"Jalan Lintas Sumatera, Ujung Serdang, Tanjung Morawa, Kabupaten Deli Serdang",Kota Medan,Sumatera Utara,3.5293724,98.7533422,Bank Mandiri
-"Jl. M. Basir No.12a, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",Kota Medan,Sumatera Utara,3.5409155,98.6798269,Bank Mandiri
-"Jl. Marelan Raya No.207, Tanah Enam Ratus, Kec. Medan Marelan",Kota Medan,Sumatera Utara,3.6785988,98.6577596,Bank Mandiri
-"Komplek Tasbi 2 Blok V No. 5/6, Jl. Arteri Ring Road, Asam Kumbang, Medan Selayan, Asam Kumbang,",Kota Medan,Sumatera Utara,3.5612638,98.6261758,Bank Mandiri
-"Jl. Kapten Patimura No.348, Darat, Kec. Medan Baru, Kota Medan, Sumatera Utara 20222, Indonesia",Kota Medan,Sumatera Utara,3.5744869,98.6627444,Bank Mandiri
-"Jl. Gedung Arca No.55, RT.02, Teladan Bar., Kec. Medan Kota, Kota Medan, Sumatera Utara 20217, Indonesia",Kota Medan,Sumatera Utara,3.566698,98.6953889,Bank Mandiri
-"Jl. Bromo No.88, RT.02, Binjai, Kec. Medan Denai, Kota Medan, Sumatera Utara 20226, Indonesia",Kota Medan,Sumatera Utara,3.5749495,98.7095876,Bank Mandiri
-"Jl. Lintas Kotapinang-Langgapayung, Desa Sabungan, Kec. Sungai Kanan",Kabupaten Labuhanbatu Selata,Sumatera Utara,0.4976317,101.3943308,Bank Mandiri
-"Jl. Lintas Sumatera Ptpn Iv Kebun Air Batu, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.8695638,99.6713918,Bank Mandiri
-"Kebun Marjandi, Marjandi Panombean Panei, Kab. Simalungun",Kabupaten Simalungun,Sumatera Utara,2.9312474,98.954066,Bank Mandiri
-"Jl. Gelatik, Sei Sikambing B, Medan Sunggal, Deli Serdang Regency, North Sumatra 20123",Kota Medan,Sumatera Utara,3.5902737,98.6291803,Bank Mandiri
-"Jl. Raya Medan Tenggara No.306, Binjai, Kec. Medan Denai, Kota Medan, Sumatera Utara 20228, Indonesia",Kota Medan,Sumatera Utara,3.5681096,98.7167491,Bank Mandiri
-"Jl. Kapt. Muslim No. 8 Helvetia, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5993176,98.6447977,Bank Mandiri
-"Tj. Morawa, Kabupaten Deli Serdang, Sumatera Utara",Kota Medan,Sumatera Utara,3.5299767,98.8077847,Bank Mandiri
-"Jl. Slamet Riyadi No.6, J A T I, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20151, Indonesia",Kota Medan,Sumatera Utara,3.5751098,98.6756585,Bank Mandiri
-"Jl. Raya Tambunan, Pasar Laguboti  Kec. Lauboti Kab. Tobasamosir",Kabupaten Toba Samosir,Sumatera Utara,2.3530835,99.1255544,Bank Mandiri
-"Jl. Pintu Air IV No.226, Kwala Bekala, Kec. Medan Johor, Kota Medan, Sumatera Utara 20143, Indonesia",Kota Medan,Sumatera Utara,3.5328552,98.6519509,Bank Mandiri
-"Jl. Abdul Hakim No. 1 A Kel Tanjung Sari, Padang Bulan Selayang Ii, Medan Selayang",Kota Medan,Sumatera Utara,3.5592879,98.6384863,Bank Mandiri
-"Siantar-Marihat, Kab. Simalungun, Kabupaten Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.9445137,99.0696601,Bank Mandiri
-"Jl. Raya Lintas Sumatera - Ptpn Iii Kebun Baruhur, Cikampak",Kabupaten Labuhanbatu Selata,Sumatera Utara,0.4976317,101.3943308,Bank Mandiri
-"Jl. Sunggal No.60, Simpang Tj., Kec. Medan Sunggal",Kota Medan,Sumatera Utara,3.5900554,98.6437845,Bank Mandiri
-"Jln. Pasar Viii Batang Kuis, Kel. Buntu Badimbar, Kec. Tanjung Morawa",Kabupaten Deli Serdang,Sumatera Utara,3.5813638,98.7431393,Bank Mandiri
-"Jl. SM Amin No.129, Simpang Baru, Kec. Tampan, Kota Pekanbaru, Riau 28292, Indonesia",Kota Medan,Sumatera Utara,0.4869326,101.3939342,Bank Mandiri
-"Jl. J. Gatot Subroto, Petisah Tengah, Kec. Medan Petisah,",Kota Medan,Sumatera Utara,3.5925459,98.6698373,Bank Mandiri
-"Jalan Jendral Sudirman No 14Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.5767019,98.6750973,Bank Mandiri
-"Jl. Tuasan No.74o, Sidorejo Hilir, Kec. Medan Tembung, Kota Medan, Sumatera Utara 20222, Indonesia",Kota Medan,Sumatera Utara,3.6157449,98.6985555,Bank Mandiri
-"Jl. Lingkar Tuktuk, Siadong Kec. Simanindo 22395, Sumatra Utara",Kabupaten Samosir,Sumatera Utara,2.6650895,98.8486809,Bank Mandiri
-"Jl. Lintas Sumatera, Blok Songo, Desa Sisumut, Kota Pinang",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.9501167,100.0991724,Bank Mandiri
-"Jl. Cemara, Sampali, Percut Sei Tuan, Kabupaten Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.6664374,98.7483758,Bank Mandiri
-"Jl. Pematang Purba -Prapat Simantin, Pematang Sidamanik",Kabupaten Simalungun,Sumatera Utara,2.8369208,98.8602789,Bank Mandiri
-"Jl. Pertahanan No.102, Patumbak Kp., Kec. Patumbak, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.5279835,98.7185537,Bank Mandiri
-"Jl. Patuan Anggi No 56, Suka Dame Kec. Siantar Kota",Kota Pematang Siantar,Sumatera Utara,2.9675457,99.071189,Bank Mandiri
-"Jl.Sutomo,pusat pasar kec,Medan kota, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5882541,98.6853477,Bank Mandiri
-"Gg. Sumbadra No.265, Pulo Brayan Darat I, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",Kota Medan,Sumatera Utara,3.6230952,98.6839765,Bank Mandiri
-"Jl. Jend. Tb. Simatupang No.148 Sunggal, Sumatra Utara",Kota Medan,Sumatera Utara,3.5801244,98.6138449,Bank Mandiri
-"Jl. Willem Iskandar No.229, Dalan Lidang, Panyabungan",Kabupaten Mandailing Natal,Sumatera Utara,0.8152623,99.5680192,Bank Mandiri
-"Jalan Berdikari No.1A Desa Lao Bakeri, Sampe Cita, Kutalimbaru, Kabupaten Deli Serdang,",Kabupaten Deli Serdang,Sumatera Utara,3.4778853,98.5232998,Bank Mandiri
-"Jl. Lintas Sumatra No.12, Bakaran Batu, Rantau Sel., Kabupaten Labuhan Batu, Sumatera Utara 21411, Indonesia",Kabupaten Labuhanbatu,Sumatera Utara,2.0897467,99.8396764,Bank Mandiri
-"Komp  Pt. Inalum Tanjung Gading, Asah, Kabupaten Batu Bara, Sumatra Utara",Kabupaten Batu Bara,Sumatera Utara,3.3132643,99.3369293,Bank Mandiri
-"No.Km.7 Jl. Sisingamangaraja No.43, RT.02, Harjosari II, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20214",Kota Medan,Sumatera Utara,3.5504001,98.6984572,Bank Mandiri
-"Jl. Imam Bonjol, Madras Hulu, Kec. Medan Polonia, Sumatra Utara",Kota Medan,Sumatera Utara,3.5798434,98.6767432,Bank Mandiri
-"Jl. Negeri Lama Desa Pangkatan, Labuhan Batu , Sumatra Utara",Kota Rantauprapat,Sumatera Utara,2.1797277,100.0228021,Bank Mandiri
-Jl Yos Sudarso 78 Km 46 Kl. Lalang Kec. Rambutan Kota Tebing Tinggi Spbu 14.206.162,Kota Tebing Tinggi,Sumatera Utara,3.3603801,99.1666759,Bank Mandiri
-"Jl. Industri No. 60, Dsn 1 Tanjung Morawa, Deli Serdang",Kota Medan,Sumatera Utara,3.5291462,98.8072321,Bank Mandiri
-"Jln. Prof. H. M Yamin Sh No. 47, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.598175,98.6885999,Bank Mandiri
-"Jl. Putri Merak Jingga, Kesawan, Kec. Medan Bar., Kota Medan,",Kota Medan,Sumatera Utara,3.5975137,98.6766811,Bank Mandiri
-"Alfamidi Ringroad, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara, Indonesia",Kota Medan,Sumatera Utara,3.59918,98.627304,Bank Mandiri
-Jl Lintas Sumatera No 17 Sei Balai Kabupaten Batubara,Kabupaten Batu Bara,Sumatera Utara,3.1166617,99.5834598,Bank Mandiri
-"Jl. Besar Bahapal Desa Laras, Kec. Bandar Huluan, Kab. Simalungun",Kabupaten Simalungun,Sumatera Utara,3.1029318,99.1805293,Bank Mandiri
-"Tinjowan, Ujung Padang, Kab Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.0973118,99.5033938,Bank Mandiri
-"Jl. Lintas Sumatera, Sail, Tenayan Raya, Pekanbaru City, Riau 28131",Kabupaten Labuhanbatu,Sumatera Utara,0.4946109,101.4968386,Bank Mandiri
-"Jl. Mustang, Suka Damai, Kec. Medan Polonia, Sumatra Utara",Kota Medan,Sumatera Utara,3.56932,98.6768792,Bank Mandiri
-"Jl. Batang Kuis, Gang. Tambak Rejo / Psr.Ix, Buntu Bedimbar, Tanjung Morawa, Buntu Bedimbar, Tj. Morawa",Kabupaten Deli Serdang,Sumatera Utara,3.5347507,98.7850225,Bank Mandiri
-"Jl. Titi Pahlawan, Paya Pasir, Medan Marelan, Kota Medan, Sumatera Utara 20252",Kota Medan,Sumatera Utara,3.7156588,98.662957,Bank Mandiri
-"Jl. Prof. Hm. Yamin Sh No.56, Sei Kera Hilir Ii, Medan Perjuangan, Kota Medan, Sumatera Utara 20232",Kota Medan,Sumatera Utara,3.5987889,98.6955406,Bank Mandiri
-"Jl. Sei Mencirim, Desa Paya Geli Medan, Sumatera Utara",Kota Medan,Sumatera Utara,3.5956825,98.6030305,Bank Mandiri
-"Jalan Jamin Ginting, Kilo Meter 9, Simpang Simalingkar, Mangga, Kec. Medan Tuntungan, Kota Medan, Sumatera",Kota Medan,Sumatera Utara,3.5258784,98.6327342,Bank Mandiri
-"Jl. Menteng Raya, Binjai, Kec. Medan Denai, Kota Medan,",Kota Medan,Sumatera Utara,3.5682792,98.7147468,Bank Mandiri
-"Jl. Perjuangan No 37, Kel. Pekan, Dolok Masihul, Sumatra Utara",Kabupaten Serdang Bedagai,Sumatera Utara,3.3338005,99.0178779,Bank Mandiri
-"Jl.Raya Lintas Sumatera, Aek Batu, Desa Asam Jawa, Kec.Torgamba",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.8588165,100.1449446,Bank Mandiri
-"Pasar 7 Jl. Marindal, Mekar Sari, Kec. Medan Amplas, Kota Medan,",Kota Medan,Sumatera Utara,3.5279301,98.6982491,Bank Mandiri
-"Jl. Pasar Pusat Pasar No.1-A Lantai 2 Losd Ikan Basah, Pusat Ps., Pusat Ps., Medan Kota, Kota Medan, Sumatera U",Kota Medan,Sumatera Utara,3.5874935,98.6861429,Bank Mandiri
-"Jl. Sukarno Hatta Km.18,5 Binjai, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.606794,98.526243,Bank Mandiri
-"Jl. Marelan Raya No.21, Rengas Pulau, Kec. Medan Marelan, Kota Medan, Sumatera Utara 20254, Indonesia",Kota Medan,Sumatera Utara,3.6941646,98.6562756,Bank Mandiri
-"Ps. V Jl. Marelan Raya No.18, Tanah Enam Ratus, Medan Marelan, Kota Medan, Sumatera Utara 20255",Kota Medan,Sumatera Utara,3.6761173,98.6561328,Bank Mandiri
-"Jl. Kartini Ujung, Pematang Siantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9579247,99.0581233,Bank Mandiri
-"Desa Tanjung Mulia Kec. Kampung Rakyat, Kota Pinang",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.8906527,100.0900259,Bank Mandiri
-"Jl. Tembakau Raya No.74, Mangga, Kec. Medan Tuntungan, Kota Medan, Sumatera Utara 20141, Indonesia",Kota Medan,Sumatera Utara,3.5124801,98.6328637,Bank Mandiri
-"Jl. Marelan Raya, Rengas Pulau, Medan Marelan, Kota Medan, Sumatera Utara 20254",Kota Medan,Sumatera Utara,3.698085,98.657093,Bank Mandiri
-"Jl. Perhubungan No.7 Simp Veteran, Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.620252499999999,98.7355143,Bank Mandiri
-"Jl. Setia Budi No.141a, Tj. Sari, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20132, Indonesia",Kota Medan,Sumatera Utara,3.5560463,98.633636,Bank Mandiri
-"Jl. Williem Iskandar, Indra Kasih, Kec. Medan Tembung, Kota Medan,",Kabupaten Deli Serdang,Sumatera Utara,3.6227479,98.7075688,Bank Mandiri
-"Komplek Mmct, Jl. Williem Iskandar No.30, Kenangan Baru, Kec. Percut Sei Tuan, Kota Medan,",Kota Medan,Sumatera Utara,3.6020289,98.7066851,Bank Mandiri
-"Jl. Melati Raya No.16, Sempakata, Kec. Medan Selayang, Kota Medan,",Kota Medan,Sumatera Utara,3.5413803,98.625668,Bank Mandiri
-"Huta Lombang, Lubuk Barumun, Kabupaten Padang Lawas, Sumatera Utara 22763",Kabupaten Padang Lawas,Sumatera Utara,1.1639536,99.7204805,Bank Mandiri
-"Jl. Tahi Bonar Simatupang No.152, Sunggal, Medan Sunggal, Kota Medan, Sumatera Utara 20127",Kota Medan,Sumatera Utara,3.5779437,98.6127068,Bank Mandiri
-"Jl. Jamin Ginting Binjai Selatan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5794024,98.492408,Bank Mandiri
-"Jl. Besar Negeri Lama - Labuhanbatu, Kabupaten Labuhanbatu, Sumatra Utara",Kabupaten Labuhanbatu,Sumatera Utara,2.2956613,100.1367166,Bank Mandiri
-"Jl. Setia Budi No.283, Tj. Sari, Kec. Medan Selayang",Kota Medan,Sumatera Utara,3.5608955,98.6375873,Bank Mandiri
-"Jl. Raya Mandailing Km. 9,4, Desa Manunggang Julu, Sumatra Utara",Kota Padang Sidempuan,Sumatera Utara,1.3184614,99.3159879,Bank Mandiri
-"Jl. Sisingamangaraja, Sitoluama, Laguboti, Sitoluama, Lagu Boti, Kabupaten Toba Samosir, Sumatera Utara 22381",Kabupaten Toba Samosir,Sumatera Utara,2.3801888,99.1471733,Bank Mandiri
-"Jl. Sei Batang Hari No.2  Medan, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5850626,98.652824,Bank Mandiri
-"Jl. Gabion, Bagan Deli, Medan Kota Belawan, Kota Medan, Sumatera Utara",Kota Medan,Sumatera Utara,3.7798527,98.7073502,Bank Mandiri
-"Perkebunan Tanh Titam Ulu, Kec. Limapuluh Kabupaten Batubara",Kabupaten Batu Bara,Sumatera Utara,3.2216483,99.4533771,Bank Mandiri
-"Kompl Kek Sei Mangkei Jl Kelapa Sait No 1, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.1322576,99.3405564,Bank Mandiri
-"Jl. Gatot Subroto No.242, Sei Sikambing C. II, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20123, Indonesia",Kota Medan,Sumatera Utara,3.5915198,98.631098,Bank Mandiri
-"Gn. Bayu, Bosar Maligas, Kabupaten Simalungun, Sumatera Utara 21183, Indonesia",Kabupaten Simalungun,Sumatera Utara,3.1305697,99.3839598,Bank Mandiri
-"Jl. Raya Merek-Sidikalang No.137, Merek, Kabupaten Karo, Sumatera Utara 22173, Indonesia",Kabupaten Karo,Sumatera Utara,2.9454027,98.5210835,Bank Mandiri
-"Jln. Kapten Batu Sihombing, Medan Estate, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.6087863,98.7289487,Bank Mandiri
-Jln. Mangaan Iii Lk Xii No.105 A Kel. Mabar Kec. Medan Deli,Kota Medan,Sumatera Utara,3.6596303,98.6775013,Bank Mandiri
-"Jl.Soekarno Hatta No.53 Tanah Tinggi  Binjai, Sumatra Utara",Kota Medan,Sumatera Utara,3.6086111,98.49969,Bank Mandiri
-"Lingkungan Pasiran No.153 Kel, Simpang Tiga Pekan, Kec. Perbaungan, Kabupaten Serdang Bedagai, Sumatera Ut",Kabupaten Perbaungan,Sumatera Utara,3.5666496,98.9432975,Bank Mandiri
-"Jl. Sisingamangaraja No.67, Kisarn Tim., Kec. Kisaran Tim., Kabupaten Asahan, Sumatera Utara 21221, Indonesia",Kabupaten Karo,Sumatera Utara,2.9803891,99.63315,Bank Mandiri
-"Jl.Lintas Sumatera, Aek Ledong, Aek Kanopan, Sumatra Utara",Kabupaten Labuhanbatu Utara,Sumatera Utara,2.6151463,99.651576,Bank Mandiri
-"Jln. Jawa No. 2 Simpang Jl. Veteran Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5906069,98.6814556,Bank Mandiri
-Jl. Padangsidempuan Km7.5 Desa Sibuluan Tapanuli Tengah,Kabupaten Tapanuli Tengah,Sumatera Utara,1.7090886,98.8247164,Bank Mandiri
-"Jl. Kl Yos Sudarso Km.7,5, Tj. Mulia, Medan Deli, Kota Medan, Sumatera Utara 20241",Kota Medan,Sumatera Utara,3.633892,98.6691962,Bank Mandiri
-"Batam, Batam City, Riau Islands, Indonesia",Kabupaten Asahan,Sumatera Utara,1.0458378,103.98402,Bank Mandiri
-"Jl. Dr. Mansyur, Padang Bulan Selayang I, Kec. Medan Selayang,",Kota Medan,Sumatera Utara,3.5674913,98.6475626,Bank Mandiri
-"Jl. Letda Sujono No.138A, Tembung, Kec. Medan Tembung,",Kota Medan,Sumatera Utara,3.596611,98.7287594,Bank Mandiri
-"Jl. Kl Yos Sudarso No.338, Glugur Kota, Kec. Medan Bar.,",Kota Medan,Sumatera Utara,3.6176544,98.6715116,Bank Mandiri
-"JL.by Pass / Kapt Sumarsono 81, Medan Kota, Medan , Sumatera Utara, Kampung Lalang, Sunggal, Deli Serdang R",Kota Medan,Sumatera Utara,3.6153436,98.6484183,Bank Mandiri
-"JL. LINTAS GUNUNG TUA, KEC. SUNGAI KANAN - LANGGA PAYUNG, KAB. LABUHANBATU SELATAN, SUMATERA U",Kota Pinang,Sumatera Utara,0.4976317,101.3943308,Bank Mandiri
-"Jl. Jenderal Sudirman No.145, Bagan Batu, Kec. Bagan Sinembah, Kabupaten Rokan Hilir, Riau 28992, Indonesia",Kota Medan,Sumatera Utara,1.7108431,100.3961247,Bank Mandiri
-"Dolok Merangir Satu, Pos Serbelawan Dolok Merangir Batu Naggarkab. Simalungun",Kabupaten Simalungun,Sumatera Utara,3.117593,99.117048,Bank Mandiri
-"Jl. Platina Raya No.43, Rengas Pulau, Kec. Medan Marelan, Kota Medan, Sumatera Utara 20255, Indonesia",Kota Medan,Sumatera Utara,3.6878514,98.6637923,Bank Mandiri
-"Jl. Gagak Hitam No.118, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",Kota Medan,Sumatera Utara,3.585423,98.6267085,Bank Mandiri
-"Jln. Tritura No. 2, Suka Maju, Kec. Medan Johor, Kota Medan",Kota Medan,Sumatera Utara,3.538318,98.6909835,Bank Mandiri
-"Perkebunan Sei Kebara, Desa Aek Batu, Kec. Torgamba",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.7395586,100.2538554,Bank Mandiri
-"Jl. Kapten Purba No. 1, Simalingkar, Kabupaten Deli Serdang, Sumatra Utara",Kabupaten Deli Serdang,Sumatera Utara,3.5244855,98.6343432,Bank Mandiri
-"Balimbingan, Kec. Tanah Jawa, Kab. Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.895137,99.1732936,Bank Mandiri
-"Bukti Maradja,Gunung Malela Kab. Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,3.0330446,99.2175988,Bank Mandiri
-"Jl. Lintas Sumatera Ptpn Ivkebun Berangir, Labuhan Batu",Kabupaten Labuhanbatu,Sumatera Utara,2.0596297,99.9386788,Bank Mandiri
-"Jl. Brigjend Zein Hamid No.44a, Titi Kuning, Kec. Medan Johor, Kota Medan, Sumatera Utara 20219, Indonesia",Kota Medan,Sumatera Utara,3.5409054,98.6852862,Bank Mandiri
-"Jl. Hang Tuah, Batu Besar, Kecamatan Nongsa, Kota Batam, Kepulauan Riau 29465, Indonesia",Kota Medan,Sumatera Utara,1.1299794,104.1091043,Bank Mandiri
-"Jl. Gagak Hitam, Sunggal, Kec. Medan Sunggal, Sumatra Utara",Kota Medan,Sumatera Utara,3.5777195,98.6263901,Bank Mandiri
-"Mabar Jl. Kol. Yos Sudarso KM.8,8 No.88, M A B A R, Kec. Medan Deli, Kota Medan, Sumatera Utara 20242, Indon",Kota Medan,Sumatera Utara,3.6549303,98.6635862,Bank Mandiri
-"Jln. Mangkubumi No. 3-5 Kel. Aur, Kec. Medan Maimun",Kota Medan,Sumatera Utara,3.583771,98.6794004,Bank Mandiri
-"Jl. Kolonel Yos Sudarso, Pulo Brayan Kota, Medan, Kota Medan,",Kota Medan,Sumatera Utara,3.6264969,98.6691827,Bank Mandiri
-"Jl. Gatot Subroto No.395, Sei Sikambing D, Kec. Medan Petisah, Kota Medan,",Kota Medan,Sumatera Utara,3.5898502,98.6514,Bank Mandiri
-"Jl. Garu II A No.52, Harjosari I, Kec. Medan Amplas, Kota Medan, Sumatera Utara 20147, Indonesia",Kota Medan,Sumatera Utara,3.5454196,98.704647,Bank Mandiri
-"Tonduhan, Kec. Hatonduhan, Kab. Simalungun, Sumatra Utara",Kabupaten Simalungun,Sumatera Utara,2.8257926,99.2175988,Bank Mandiri
-"Jl. Soedirman Kel pardamean Kec Stabat Langkat, Sumatra Utara",Kota Stabat,Sumatera Utara,3.7504231,98.4691275,Bank Mandiri
-"Jl. Kapten Muslim No.139, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20123, Indonesia",Kota Medan,Sumatera Utara,3.6018836,98.6451163,Bank Mandiri
-"Jl. Pasar V Kebun Kelapa, Kualanamu, Penara Kebun, Tj. Morawa, Kabupaten Deli Serdang, Sumatera Utara 20552",Kabupaten Deli Serdang,Sumatera Utara,3.589008,98.864229,Bank Mandiri
-Jln. Setia Budi No.159 Kel Tanjung Rejo Kec. Medan Sunggal,Kota Medan,Sumatera Utara,3.572911,98.6432367,Bank Mandiri
-"Dolok Sinumbah,Kec. Huta Bayu Raja, Kab. Simalungun",Kabupaten Simalungun,Sumatera Utara,3.1014511,99.3173746,Bank Mandiri
-"Jl. Gatot Subroto No.288, Sei Putih Tengah, Kec. Medan Petisah",Kota Medan,Sumatera Utara,3.5911592,98.6547761,Bank Mandiri
-Jl. Raya Lubuk Pakam Desa Firdaus(Spbu 14.205.1139),Kota Lubuk Pakam,Sumatera Utara,3.5011565,99.1179465,Bank Mandiri
-Jl. Sutomo No 5Bb-5Cc  Proklamasi Siantar Barat Proklamasi,Kota Pematang Siantar,Sumatera Utara,2.955475,99.0620221,Bank Mandiri
-"Jl. Tol Medan - Kuala Namu - Tebing Tinggi, Penara Kebun, Tj. Morawa",Kabupaten Deli Serdang,Sumatera Utara,3.5870783,98.8451063,Bank Mandiri
-"Jl. Di Panjaitan Depan Terminal Madya Tarutung, Sumatra Utara",Kabupaten Tapanuli Utara,Sumatera Utara,2.0252749,98.9728469,Bank Mandiri
-"Jl. Suka Mulia No.17A, A U R, Kec. Medan Maimun,, Sumatra Utara",Kota Medan,Sumatera Utara,3.582852,98.6780232,Bank Mandiri
-"Jl. Pulau Sicanang, Belawan Pulau Sicanang Medan Kota Belawan",Kota Medan,Sumatera Utara,3.7592492,98.6686148,Bank Mandiri
-"L. Sisingamangaraja, Bukit Sofa, Siantar Sitalasari, Kota Pematang Siantar, Sumatera Utara 21139",Kota Pematang Siantar,Sumatera Utara,2.9636681,99.0491377,Bank Mandiri
-"Jl. Brigjend Katamso, Kp. Baru, Kec. Medan Maimun, Kota Medan,",Kota Medan,Sumatera Utara,3.5537778,98.6885375,Bank Mandiri
-"Jl. Gagak Hitam No.70c, Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20122, Indonesia",Kota Medan,Sumatera Utara,3.5687332,98.6257527,Bank Mandiri
-"Jl. Amal Luhur No.10, Dwi Kora, Kec. Medan Helvetia, Kota Medan, Sumatera Utara 20118, Indonesia",Kota Medan,Sumatera Utara,3.59765,98.6438038,Bank Mandiri
-"Harjosari I, Medan Amplas, Medan City,, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5426058,98.7068269,Bank Mandiri
-"Sei Sikambing B, Medan Sunggal, Kota Medan, Sumatera Utara 20123",Kota Medan,Sumatera Utara,3.5958865,98.6325611,Bank Mandiri
-"Kompleks Ruko Jip, Jl. Karya Wisata, Gedung Johor, Kec. Medan Johor, Kota Medan,",Kota Medan,Sumatera Utara,3.5263239,98.663169,Bank Mandiri
-"Jl. Sumarsono No.65, Kp. Lalang, Kec. Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20117, Indonesia",Kota Medan,Sumatera Utara,3.615548,98.6523052,Bank Mandiri
-"Jl. Gajah Mada No.50, Sei Sikambing D, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20114, Indonesia",Kota Medan,Sumatera Utara,3.584885,98.6581023,Bank Mandiri
-"Jl. Dr. Mansyur, Merdeka, Medan Baru, Kota Medan, Sumatera Utara 20153",Kota Medan,Sumatera Utara,3.5674726,98.6567696,Bank Mandiri
-"Jl. Karya Wisata, Pangkalan Masyhur, Kec. Medan Johor, Kota Medan,",Kota Medan,Sumatera Utara,3.5336846,98.6630027,Bank Mandiri
-"Jl. Imam Bonjol No. 7, Petisah Tengah, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5872798,98.6743573,Bank Mandiri
-"Jl. Dahlan Tj., Limau Manis, Tj. Morawa, Kabupaten Deli Serdang, Sumatera Utara 20362",Kabupaten Deli Serdang,Sumatera Utara,3.5184097,98.7893965,Bank Mandiri
-"Jl.Jend.Gatot Subroto No.99 Sunggal, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5909043,98.6372524,Bank Mandiri
-"Jl. Jawa No.8, Gg. Buntu, Kec. Medan Tim., Kota Medan, Sumatera Utara 20236, Indonesia",Kota Medan,Sumatera Utara,3.591674899999999,98.6810665,Bank Mandiri
-"Jl. Panca Marga, Tj. Uban Utara, Bintan Utara, Kabupaten Bintan, Kepulauan Riau 29152, Indonesia",Kota Medan,Sumatera Utara,1.1219202,104.2590864,Bank Mandiri
-"Jl. Setia Budi Setiabudi Square No.1, Tj. Sari, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20133, Indonesia",Kota Medan,Sumatera Utara,3.541309,98.6235065,Bank Mandiri
-"Wisam Kawasan Industri Medan Jl. Pulau Batam No.1, Sumatra Utara",Kota Medan,Sumatera Utara,3.6721096,98.6819777,Bank Mandiri
-"Jl. Dr Mansyur No.58 Pintu Ii Gallery Atm, Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.567489,98.6591239,Bank Mandiri
-"Jl. Denai, Tegal Sari Mandala Ii, Medan Denai, Kota Medan, Sumatera Utara 20227",Kota Medan,Sumatera Utara,3.5814761,98.7203963,Bank Mandiri
-"Jl. Imam Bonjol No.6, Suka Damai, Kec. Medan Polonia, Kota Medan,",Kota Medan,Sumatera Utara,3.5858928,98.673576,Bank Mandiri
-"JL. SISINGAMANGARAJA NO.168 KEL. BAKARAN BATU, KEC. RANTAUPRAPAT",Kota Rantauprapat,Sumatera Utara,2.0808396,99.8528105,Bank Mandiri
-"Kenangan Baru, Percut Sei Tuan, Deli Serdang Regency, North Sumatra 20223",Kota Medan,Sumatera Utara,3.5976298,98.7123309,Bank Mandiri
-"Jl. Dagan No.1d, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.5931571,98.6642949,Bank Mandiri
-"Jl. Tritura Simpang Sisingamangaraja, Kota Medan, Sumatra Utara",Kota Medan,Sumatera Utara,3.5381911,98.6888829,Bank Mandiri
-"Jl. Brigjend Zein Hamid No.40, Titi Kuning, Kec. Medan Johor, Kota Medan,",Kota Medan,Sumatera Utara,3.5411335,98.6846858,Bank Mandiri
-"Komp.Pertamina Sumbagut Pb20857, Kabupaten Langkat, Sumatra Utara",Kabupaten Langkat,Sumatera Utara,3.8653916,98.3088441,Bank Mandiri
-"Desa Torganda, Kec. Torgamba, Cikampak - Labuhanbatu Selatan",Kabupaten Labuhanbatu Selata,Sumatera Utara,1.6455,100.29338,Bank Mandiri
-"Perkebunan Sei Silau, Kec.Buntu Pane Kisaran, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.9242936,99.5200727,Bank Mandiri
-"Sei Nadoras, Bandar Pasir Mandoge, Kisaran, Sumatra Utara",Kabupaten Asahan,Sumatera Utara,2.8883344,99.4006146,Bank Mandiri
-"Jl. Kol. Yos Sudarso No.410, Silalas, Kec. Medan Bar., Kota Medan, Sumatera Utara 20234, Indonesia",Kota Medan,Sumatera Utara,3.6026482,98.6747136,Bank Mandiri
-"Jl. Dagan No.1d, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20111, Indonesia",Kota Medan,Sumatera Utara,3.5931571,98.6642949,Bank Mandiri
-"Plaza medan fair, Jl. Gatot Subroto, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",Kota Medan,Sumatera Utara,3.5927582,98.6644363,Bank Mandiri
-"Plaza medan fair, Jl. Gatot Subroto, Sekip, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20113, Indonesia",Kota Medan,Sumatera Utara,3.5927582,98.6644363,Bank Mandiri
-"Jl. Merdeka No.329, Pematangsiantar, Kota Pematang Siantar, Sumatra Utara",Kota Pematang Siantar,Sumatera Utara,2.9613648,99.0715243,Bank Mandiri
-"Jl. Gatot Subroto, No. 170, Binjai Barat, Limau Mungkur, Binjai, Kota Binjai, Sumatera Utara 20741",Kota Medan,Sumatera Utara,3.606234299999999,98.467335,Bank Mandiri
-"Jln. Kolam Nomor 1 Medan Estate / Jalan Gedung Pbsi, Kenangan Baru, Percut Sei Tuan, Medan",Kabupaten Deli Serdang,Sumatera Utara,3.6017235,98.7180617,Bank Mandiri
-"Jl. Medan - Binjai, Sei Semayang, Sunggal, Kabupaten Deli Serdang, Sumatera Utara 20351",Kota Binjai,Sumatera Utara,3.6014416,98.5429846,Bank Mandiri
-Jln. Tanjung Pura Ds Palu Manis Kec Gebang Langkat,Kota Langkat,Sumatera Utara,4.0087851,98.2951205,Bank Mandiri
-"Desa Siring Giting, Dolok Masihul, Serdang Bedagai, Sumatra Utara",Kota Tebing Tinggi,Sumatera Utara,3.3453789,98.9769851,Bank Mandiri
-"Hotel grandhika, Jl. Setia Budi, Tj. Rejo, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20154, Indonesia",Kota Medan,Sumatera Utara,3.5673368,98.6428476,Bank Mandiri
+Jl. Veteran No.1 Dauh Puri Kaja Kec. Denpasar Utara Kota Denpasar Bali 80232,Kota Denpasar,Bali,-8.6554425,115.2165659,Bank Mandiri
+Jl. Veteran No.1 Dauh Puri Kaja Kec. Denpasar Utara Kota Denpasar Bali 80232,Kota Denpasar,Bali,-8.6554425,115.2165659,Bank Mandiri
+Jl. Veteran No.1 Dauh Puri Kaja Kec. Denpasar Utara Kota Denpasar Bali 80232,Kota Denpasar,Bali,-8.6554425,115.2165659,Bank Mandiri
+"Jl. Raya Ubud No.14, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80561",Kabupaten Gianyar,Bali,-8.507477699999999,115.264195,Bank Mandiri
+"Jl. Raya Ubud No.14, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80561",Kabupaten Gianyar,Bali,-8.507477699999999,115.264195,Bank Mandiri
+"Jl. Raya Ubud No.14, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80561",Kabupaten Gianyar,Bali,-8.507477699999999,115.264195,Bank Mandiri
+"Jl. Jend. Ahmad Yani No.60, Kaliuntu, Kec. Buleleng, Kabupaten Buleleng, Bali 81116",Kabupaten Buleleng,Bali,-8.1113792,115.0863559,Bank Mandiri
+"Jl. Jend. Ahmad Yani No. 60, Singaraja, Kota Singaraja, Bali",Kota Singaraja,Bali,-8.1113792,115.0863559,Bank Mandiri
+"Jl. Jend. Ahmad Yani No.60, Kaliuntu, Kec. Buleleng, Kabupaten Buleleng, Bali 81116",Kabupaten Buleleng,Bali,-8.1113792,115.0863559,Bank Mandiri
+"Jl. Jend. Ahmad Yani No.60, Kaliuntu, Kec. Buleleng, Kabupaten Buleleng, Bali 81116",Kabupaten Buleleng,Bali,-8.1113792,115.0863559,Bank Mandiri
+"Jl. Raya Pelabuhan Benoa No.2, Pedungan, Kec. Denpasar Sel., Kota Denpasar, Bali 80222",Kota Denpasar,Bali,-8.717379300000001,115.2152958,Bank Mandiri
+"Jl. Raya Puputan No.98, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6731403,115.2290875,Bank Mandiri
+"Jl. Cok Gede Rai No.85-83, Peliatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kabupaten Gianyar,Bali,-8.5182934,115.2690982,Bank Mandiri
+"Jl. Raya Puputan No.98, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6731403,115.2290875,Bank Mandiri
+"Jl. Raya Puputan No.98, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6731403,115.2290875,Bank Mandiri
+"Jl. Gajah Mada No.105, Pemecutan, Kec. Denpasar Bar., Kota Denpasar, Bali 80118",Kota Denpasar,Bali,-8.655388,115.2118392,Bank Mandiri
+"Jl. Gajah Mada No.105, Pemecutan, Kec. Denpasar Bar., Kota Denpasar, Bali 80118",Kota Denpasar,Bali,-8.655388,115.2118392,Bank Mandiri
+"Jl. Gajah Mada Desa Dauh Puri Kangin No.3, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80112",Kota Denpasar,Bali,-8.6560108,115.2157586,Bank Mandiri
+"Jl. Ngurah Rai-Gianyar No.75, Gianyar, Kec. Gianyar, Kabupaten Gianyar, Bali 80511",Kabupaten Gianyar,Bali,-8.5414481,115.3287036,Bank Mandiri
+"Jl. Ngurah Rai-Gianyar No.75, Gianyar, Kec. Gianyar, Kabupaten Gianyar, Bali 80511",Kabupaten Gianyar,Bali,-8.5414481,115.3287036,Bank Mandiri
+"Jl. Bypass Ngurah Rai No.62 A, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80228, Indonesia",Kota Denpasar,Bali,-8.692751699999999,115.2587317,Bank Mandiri
+"Jl. By Pass Ngurah Rai No.35, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80227",Kota Denpasar,Bali,-8.6918655,115.2583372,Bank Mandiri
+"Jl. Jenderal Sudirman No. 64-66, Seririt, Singaraj",Kota Singaraja,Bali,-8.1926149,114.9378216,Bank Mandiri
+"Jl Jenderal Sudirman, No. 64 - 66, Singaraja, Seririt, Kec. Buleleng, Kabupaten Buleleng, Bali 81153",Kabupaten Buleleng,Bali,-8.1174883,115.0818733,Bank Mandiri
+"Jl Jenderal Sudirman, No. 64 - 66, Singaraja, Seririt, Kec. Buleleng, Kabupaten Buleleng, Bali 81153",Kabupaten Buleleng,Bali,-8.1174883,115.0818733,Bank Mandiri
+"Jl. Imam Bonjol No.443, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.6889604,115.1920423,Bank Mandiri
+"Jl. Imam Bonjol No.443, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.6889604,115.1920423,Bank Mandiri
+"Jl. Sudirman No. 104, Amlapura, Subagan, Karangasem, Subagan, Kec. Karangasem, Bali, 80813",Kabupaten Karangasem,Bali,-8.4539809,115.6019907,Bank Mandiri
+"Jl. Sudirman No. 104, Amlapura, Subagan, Karangasem, Subagan, Kec. Karangasem, Bali, 80813",Kabupaten Karangasem,Bali,-8.4539809,115.6019907,Bank Mandiri
+"Jalan Padang Udayana No.11 Denpasar 80112, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80118",Kota Denpasar,Bali,-8.651941299999999,115.190097,Bank Mandiri
+"Jl. Udayana No.11, Dauh Puri Kangin, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",Kabupaten Gianyar,Bali,-8.6589124,115.2168466,Bank Mandiri
+Jl. Udayana No.11 Dauh Puri Kangin Kec. Denpasar Bar. Kota Denpasar Bali 80232,Kota Denpasar,Bali,-8.6589124,115.2168466,Bank Mandiri
+"Jl. Diponegoro, No. 49, Semarapura Kangin, Klungkung, Semarapura Kelod Kangin, Kec. Klungkung, Kabupaten Klungkung, Bali 80716",Kabupaten Klungkung,Bali,-8.5354192,115.4051799,Bank Mandiri
+"Jl. Diponegoro, No. 49, Semarapura Kangin, Klungkung, Semarapura Kelod Kangin, Kec. Klungkung, Kabupaten Klungkung, Bali 80716",Kabupaten Klungkung,Bali,-8.5354192,115.4051799,Bank Mandiri
+"Jl. Celuk Sukawati No.57A, Batubulan, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.6034779,115.25923,Bank Mandiri
+"Jl. Raya Sukawati, Sukawati, Gianyar, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.5918423,115.282606,Bank Mandiri
+"Jl. Celuk Sukawati No.57a, Batubulan, Kec. Sukawati, Kabupaten Gianyar, Bali 80582, Indonesia",Kabupaten Gianyar,Bali,-8.6034779,115.25923,Bank Mandiri
+"Jl. Gatot Subroto Ii B, Dangin Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6371241,115.2202495,Bank Mandiri
+"Jl. Gatot Subroto Barat, Ubung, Kec. Denpasar Utara, Kota Denpasar, Bali 80118, Indonesia",Kota Denpasar,Bali,-8.6376218,115.1989767,Bank Mandiri
+"Jl. Gatot Subroto Ii B, Dangin Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6371241,115.2202495,Bank Mandiri
+"Jl. Gatot Subroto, No. 45, Putri Kaja, Denpasar Barat, Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.639352200000001,115.2065158,Bank Mandiri
+"Gg. Taman Sari II B No.5b, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223, Indonesia",Kota Denpasar,Bali,-8.6911573,115.2155676,Bank Mandiri
+"Jl. Raya Sesetan No.142, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223",Kota Denpasar,Bali,-8.691951699999999,115.2173076,Bank Mandiri
+"Jl. Wr Supratman No.289, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6398733,115.2525051,Bank Mandiri
+"Jl. Wr Supratman No.289, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6398733,115.2525051,Bank Mandiri
+"Jl. Wr Supratman No.289, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6398733,115.2525051,Bank Mandiri
+"Jl. Mahendradatta No.18, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.679038499999999,115.1904374,Bank Mandiri
+"Jl. Mahendradatta No.18, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.679038499999999,115.1904374,Bank Mandiri
+"Jl. Mahendradatta No.18, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.679038499999999,115.1904374,Bank Mandiri
+"Kantor Cabang Pembantu, Jl. Teuku Umar No.85, Dauh Puri Kauh, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6730406,115.2082504,Bank Mandiri
+"Kantor Cabang Pembantu, Jl. Teuku Umar No.85, Dauh Puri Kauh, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6730406,115.2082504,Bank Mandiri
+"Kantor Cabang Pembantu, Jl. Teuku Umar No.85, Dauh Puri Kauh, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6730406,115.2082504,Bank Mandiri
+"Jl. Padma No.32, Penatih, Kec. Denpasar Tim., Kota Denpasar, Bali 80115",Kota Denpasar,Bali,-8.6233916,115.2323064,Bank Mandiri
+"Jl. Brigjen Ngurah Rai No.68, Bebalang, Kec. Bangli, Kabupaten Bangli, Bali 80614",Kabupaten Bangli,Bali,-8.4660438,115.3523027,Bank Mandiri
+"Jl. Raya Sukawati, Sukawati, Gianyar, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.5918423,115.282606,Bank Mandiri
+"Jl. Gatot Subroto Ii B, Dangin Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6371241,115.2202495,Bank Mandiri
+"Jl. Gatot Subroto Ii B, Dangin Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6371241,115.2202495,Bank Mandiri
+"Jl. Gatot Subroto Ii B, Dangin Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6371241,115.2202495,Bank Mandiri
+"Jl. Raya Kuta No.888x, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7344584,115.1779281,Bank Mandiri
+"Jl Raya Kuta No 456 Tuban 80361, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7331828,115.1771049,Bank Mandiri
+"Jl. Raya Kuta No. 456 Kuta Badung Bali, Bali",Kabupaten Badung,Bali,-8.732976899999999,115.1774986,Bank Mandiri
+"Jl. Gajah Mada No.135, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113, Indonesia",Kabupaten Badung,Bali,-8.5388153,115.1226065,Bank Mandiri
+"Jl Raya Kuta No.456 Tuban 80361, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7331828,115.1771049,Bank Mandiri
+"Jl. Raya Kuta No.888x, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7344584,115.1779281,Bank Mandiri
+"Jl. Raya Kuta No.99, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7136364,115.1812241,Bank Mandiri
+"Wisti Sabha Building Lantai 1 / 6, Tuban, Kuta, Tuban, Badung, Kabupaten Badung, Bali 80031",Kabupaten Badung,Bali,-8.7428142,115.1629668,Bank Mandiri
+"Jl Jend. Ahmad Yani No.99 X Kediri Tabanan, Bali",Kabupaten Badung,Bali,-8.5591796,115.1491238,Bank Mandiri
+"Jl Soekarno No 77 X Banjar Anyar Kediri Tabanan, Bali",Kabupaten Tabanan,Bali,-8.536186100000002,115.1444487,Bank Mandiri
+"Jl. Ir. Soekarno No. 77A Banjar Anyar, Kediri, Bali",Kabupaten Badung,Bali,-8.553045299999999,115.1350915,Bank Mandiri
+"Banjar Anyar, Kediri, Tabanan Regency, Bali 82121, Bali",Kabupaten Tabanan,Bali,-8.536186100000002,115.1444487,Bank Mandiri
+"Banjar Anyar, Kec. Kediri, Kabupaten Tabanan, Bali 82121",Kabupaten Tabanan,Bali,-8.536186100000002,115.1444487,Bank Mandiri
+"Jl. Gajah Mada No.135, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113, Indonesia",Kabupaten Badung,Bali,-8.5388153,115.1226065,Bank Mandiri
+"Jl. Gajah Mada No.135, Dauh Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113, Indonesia",Kabupaten Tabanan,Bali,-8.5388153,115.1226065,Bank Mandiri
+"Jl. Ngurah Rai No.32 - 34, Loloan Tim., Kec. Jembrana, Kabupaten Jembrana, Bali 82200",Kabupaten Jembrana,Bali,-8.360905899999999,114.627908,Bank Mandiri
+"Jl. Ngurah Rai No.119, Pendem, Kec. Jembrana, Kabupaten Jembrana, Bali 82218, Indonesia",Kabupaten Jembrana,Bali,-8.360647199999999,114.6277867,Bank Mandiri
+"Jl. Ngurah Rai No.32 - 34, Loloan Tim., Kec. Jembrana, Kabupaten Jembrana, Bali 82200",Kota Negara,Bali,-8.360905899999999,114.627908,Bank Mandiri
+"Jl. Raya Sempidi No.39, Sempidi, Kec. Mengwi, Kabupaten Badung, Bali 80631, Indonesia",Kabupaten Badung,Bali,-8.5995824,115.1863917,Bank Mandiri
+"Jl. Raya Sempidi No.40, Sempidi, Kec. Mengwi, Kabupaten Badung, Bali 80351",Kabupaten Badung,Bali,-8.599659899999999,115.1865512,Bank Mandiri
+"Jl. Raya Legian No.494 E, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.697482200000001,115.1690099,Bank Mandiri
+"Pertokoan Canggu Square Unit 5 & 6, Jl. Subak Sari No.11 Canggu",Kabupaten Badung,Bali,-8.6636302,115.1455752,Bank Mandiri
+"Jl. Dewi Sri No.20, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.707284,115.1781224,Bank Mandiri
+"Jl. Dewi Sri No.20, Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.707284,115.1781224,Bank Mandiri
+"Jl. Dewi Sri No.20, Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.707284,115.1781224,Bank Mandiri
+"Jl. Dewi Sri No.20, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.707284,115.1781224,Bank Mandiri
+"Jl. Raya Legian No.500, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.697486999999999,115.1689831,Bank Mandiri
+"Jl. Raya Legian No.494 E, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.697482200000001,115.1690099,Bank Mandiri
+"Jl Raya Legian No. 494 E, Legian, Kuta, Badung, Bali",Kabupaten Badung,Bali,-8.697482200000001,115.1690099,Bank Mandiri
+"Jl. Subak Sari No.11, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.665811399999999,115.1475229,Bank Mandiri
+"Jl. Gatot Subroto Barat No.1, Kerobokan Kaja, Kec. Kuta Utara, Kabupaten Badung, Bali 80117",Kabupaten Badung,Bali,-8.6369676,115.1749181,Bank Mandiri
+"Jl. Gatot Subroto Barat No.1, Kerobokan Kaja,, Bali",Kota Denpasar,Bali,-8.6369676,115.1749181,Bank Mandiri
+"Jl. Gatot Subroto Barat No.1, Kerobokan Kaja, Kec. Kuta Utara, Kabupaten Badung, Bali 80117",Kota Denpasar,Bali,-8.6369676,115.1749181,Bank Mandiri
+"Jl. Raya Uluwatu No.71, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.8166072,115.1553243,Bank Mandiri
+"Jl. Raya Uluwatu No.73, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.8161582,115.1553793,Bank Mandiri
+"Jl. Raya Canggu No.57, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6464927,115.1661909,Bank Mandiri
+"Jl. Raya Sempidi No.39, Sempidi, Kec. Mengwi, Kabupaten Badung, Bali 80631, Indonesia",Kabupaten Badung,Bali,-8.5995824,115.1863917,Bank Mandiri
+"Jl. Raya Sempidi No.39, Sempidi, Kec. Mengwi, Kabupaten Badung, Bali 80631, Indonesia",Kabupaten Badung,Bali,-8.5995824,115.1863917,Bank Mandiri
+"Jl. Ngurah Rai, Bajera, Kec. Selemadeg, Kabupaten Tabanan, Bali 82162",Kabupaten Tabanan,Bali,-8.5033709,115.0279205,Bank Mandiri
+"Jl. Raya Mambal No.17, Mekar Bhuwana, Kec. Abiansemal, Kabupaten Badung, Bali 80352, Indonesia",Kabupaten Badung,Bali,-8.5506554,115.2272588,Bank Mandiri
+"Jalan Raya Baturiti-Mekarsari, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191",Kabupaten Tabanan,Bali,-8.3194061,115.183895,Bank Mandiri
+"Jl. Uluwatu Ii No. 112X Jimbaran, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7860329,115.1675604,Bank Mandiri
+"Jl Uluwatu Ii No.112 X Jimbaran, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7860329,115.1675604,Bank Mandiri
+"Jl. Raya Krobokan No. 104 Kuta Utara 80361, Bali",Kabupaten Badung,Bali,-8.6798843,115.1643266,Bank Mandiri
+"Jl. Raya Krobokan No. 104 Kuta Utara 80361, Bali",Kabupaten Badung,Bali,-8.6798843,115.1643266,Bank Mandiri
+"Jalan Raya Kerobokan No. 104, Kerobokan Kaja, Bali",Kabupaten Badung,Bali,-8.655824299999999,115.166969,Bank Mandiri
+"Jalan Raya Kerobokan No. 104, Kerobokan Kaja, Kuta Utara, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.655824299999999,115.166969,Bank Mandiri
+"Jl. Sunset Road No.77B, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7162604,115.1850005,Bank Mandiri
+"Jl. Sunset Road No.77B, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7162604,115.1850005,Bank Mandiri
+"Discovery Shopping Mall A-3A, Hotel Bintang Kuta, Jl. Kartika Plaza, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7291495,115.1681585,Bank Mandiri
+"Discovery Shopping Mall A-3A, Hotel Bintang Kuta, Jl. Kartika Plaza, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7291495,115.1681585,Bank Mandiri
+"Jl. Pantai Kuta, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7165085,115.1685333,Bank Mandiri
+"Jl. Pahlawan No.14, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82121, Indonesia",Kabupaten Tabanan,Bali,-8.539284,115.132231,Bank Mandiri
+"Jalan Raya Kerobokan, Kuta, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6695749,115.164608,Bank Mandiri
+"Jl. Gunung Rinjani Monang-Maning, Tegal Kertha, Kec. Denpasar Bar., Kota Denpasar, Bali 80112",Kota Denpasar,Bali,-8.6623941,115.1987172,Bank Mandiri
+"Jl. By Pass Ngurah Rai No.89X, Tuban, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7346402,115.1798601,Bank Mandiri
+"Jl. Mekarsari Raya Luwus, No. 16 Tabanan, Bali",Kabupaten Tabanan,Bali,-8.3914015,115.1952072,Bank Mandiri
+"Kawasan Pariwisata Itdc Nusa Dua, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.8034419,115.2282787,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Tuban, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+Jl. Labuhan Sait Pantai Suluban Uluwatu Pecatu Kuta Kab Badung 80361,Kabupaten Badung,Bali,-8.816453,115.1124677,Bank Mandiri
+"Jl. Kartika Plaza No.12, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7305557,115.170875,Bank Mandiri
+"Jl. Raya Seminyak No. 17, Kuta, Badung, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.695322599999999,115.1681544,Bank Mandiri
+"Jl. Pantai Balangan No.1, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.8142205,115.1545702,Bank Mandiri
+"Jl. Dukuh Indah No.56, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.665377399999999,115.1624448,Bank Mandiri
+"Jl. Raya Uluwatu Pecatu No.78x, Pecatu, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.8292092,115.1365968,Bank Mandiri
+"Jl. Raya Kampus Unud, Kampus Bukit Jimbaran, Kuta Selatan, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 803611",Kabupaten Badung,Bali,-8.7884836,115.1771158,Bank Mandiri
+"Jl. Benesari No.35, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7135081,115.1718898,Bank Mandiri
+"Jl. Gatot Subroto Barat, Padangsambian Kaja, Kec. Denpasar Bar., Kota Denpasar, Bali 80117",Kota Denpasar,Bali,-8.6365781,115.1872628,Bank Mandiri
+"Jl. Imam Bonjol No.440, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.6836038,115.1951502,Bank Mandiri
+"Jl. Batur Rayano. 33 Taman Griya Jimbaran, Bali",Kabupaten Badung,Bali,-8.784870399999999,115.1876305,Bank Mandiri
+"Jl. Pelabuhan Padang Bai, Padangbai, Kec. Manggis, Kabupaten Karangasem, Bali 80871",Kabupaten Karangasem,Bali,-8.5270514,115.5042591,Bank Mandiri
+"Jl. Padma No.1, Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7056142,115.1707245,Bank Mandiri
+"Jl. Raya Kampus Unud No.8, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7836879,115.1780691,Bank Mandiri
+"Jl. Danau Tamblingan No.226, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali, Indonesia",Kota Denpasar,Bali,-8.7047391,115.2607569,Bank Mandiri
+"Jl. Sidakarya No.155, Sidakarya, Kec. Denpasar Sel., Kota Denpasar, Bali 80224",Kota Denpasar,Bali,-8.7017131,115.2324109,Bank Mandiri
+"Jl. Majapahit No.18 B, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Karangasem,Bali,-8.7186296,115.1789777,Bank Mandiri
+"Jl. Canggu Permai Iv Blok B1 No 2 Tibubeneng, Bali",Kabupaten Badung,Bali,-8.649948499999999,115.1456436,Bank Mandiri
+"Jl. Batuyang No.28, Batubulan, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.6269122,115.2649821,Bank Mandiri
+"Jl. Gn. Soputan No.102, Padangsambian Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80117",Kota Denpasar,Bali,-8.680528899999999,115.1819105,Bank Mandiri
+"Jl. Raya Sibang Kaja, Banjar Saren, Sibang Kaja, Kec. Abiansemal, Kabupaten Badung, Bali 80352",Kabupaten Badung,Bali,-8.565458699999999,115.2204021,Bank Mandiri
+"Jl. Pantai Batu Bolong, Canggu, Kuta Utara, Bali",Kabupaten Badung,Bali,-8.6590409,115.1305573,Bank Mandiri
+"Jl. Raya Canggu No.30, Kuta Utara, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.6408383,115.1530299,Bank Mandiri
+"Jl. Tangkuban Perahu No.94A, Padangsambian Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80117",Kota Denpasar,Bali,-8.663794099999999,115.180322,Bank Mandiri
+"Jl. Tukad Pakerisan, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80225",Kota Denpasar,Bali,-8.6861282,115.2261462,Bank Mandiri
+"Jl. Diponegoro, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6720394,115.2154934,Bank Mandiri
+"Jl. Tantular No.4, Renon, Kec. Denpasar Tim., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6680549,115.2279059,Bank Mandiri
+"Kemenuh, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.5515901,115.2867219,Bank Mandiri
+"Jl. Raya Tegallalang, Tegallalang, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561",Kabupaten Gianyar,Bali,-8.4557077,115.2789398,Bank Mandiri
+"Kawasan Wisata Nusa Dua Lot S-3, Benoa, Kuta Selatan, Benoa, Kuta Sel., Kabupaten Badung, Bali 80363",Kabupaten Badung,Bali,-8.8034419,115.2282787,Bank Mandiri
+"Jalan Mayjen Sutoyo No.55, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",Kota Denpasar,Bali,-8.662462999999999,115.217058,Bank Mandiri
+"Jl. Kebo Iwa No.40, Belega, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581",Kabupaten Gianyar,Bali,-8.5660559,115.3060896,Bank Mandiri
+"Jl. Dewi Sartika, Tuban, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7392349,115.1679328,Bank Mandiri
+"Jl. Ahmad Yani Utara No.277-301, Peguyangan, Kec. Denpasar Utara, Kota Denpasar, Bali 80115",Kota Denpasar,Bali,-8.6252221,115.2082493,Bank Mandiri
+"Jl. Raya Sesetan No.232, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223",Kota Denpasar,Bali,-8.6999396,115.2190552,Bank Mandiri
+"Jl. Raya Pemogan No.8, Pemogan, Kec. Denpasar Sel., Kota Denpasar, Bali 80221",Kota Denpasar,Bali,-8.691732199999999,115.1981428,Bank Mandiri
+"Tukadmungga, Kec. Buleleng, Kabupaten Buleleng, Bali 81119",Kabupaten Buleleng,Bali,-8.1441403,115.0554957,Bank Mandiri
+"Jl. Pulau Serangan No.7, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80114, Indonesia",Kabupaten Karangasem,Bali,-8.6782773,115.2127219,Bank Mandiri
+"No.05, Jl. Raya Sakah, Batuan Kaler, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.567314900000001,115.2702957,Bank Mandiri
+"Jl. Prof. Dr. Ida Bagus Mantra No.99f, Ketewel, Kec. Sukawati, Kabupaten Gianyar, Bali 80237, Indonesia",Kabupaten Gianyar,Bali,-8.638003,115.2795231,Bank Mandiri
+"Jl. Melati No.65, Dangin Puri Kangin, Kec. Denpasar Utara, Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6504246,115.2222623,Bank Mandiri
+"Jalan Raya Pengosekan Ubud, Mas, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kabupaten Gianyar,Bali,-8.5225914,115.2630022,Bank Mandiri
+"Jl. Pantai Berawa, Tibubeneng, Kuta Utara, Canggu, Bali 80351",Kabupaten Badung,Bali,-8.6475118,115.1502224,Bank Mandiri
+Jjl. Veteran No.1 Dauh Puri Kaja Kec. Denpasar Utara Kota Denpasar Bali 80232,Kota Denpasar,Bali,-8.6554425,115.2165659,Bank Mandiri
+"Jl. Raya Kuta No.456, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.732976899999999,115.1774986,Bank Mandiri
+"Labuan Sait, Padang-Padang, Kuta Selatan, Bali",Kabupaten Badung,Bali,-8.8111377,115.1037658,Bank Mandiri
+"Tangguwisia, Seririt, Buleleng Regency, Bali 81153",Kabupaten Buleleng,Bali,-8.1925343,114.9502037,Bank Mandiri
+"Pedungan, Denpasar Selatan, Denpasar City, Bali 80222",Kota Denpasar,Bali,-8.7072479,115.2111472,Bank Mandiri
+"Jl By Pass Ngurah Rai Indomart Ngr Rai 3 , Bali",Kabupaten Badung,Bali,-8.7172015,115.2177586,Bank Mandiri
+"Jl. Dewi Sri No.18 Xx B, Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7022079,115.1760403,Bank Mandiri
+"Jl Airport Ngurah Rai Kuta Bali, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7439023,115.1746069,Bank Mandiri
+"Jl. Nangka Utara, Tonja, Kec. Denpasar Utara, Kota Denpasar, Bali 80239",Kota Denpasar,Bali,-8.6302668,115.2238101,Bank Mandiri
+"Jl. Trengguli No.108, Penatih, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.625382,115.2411339,Bank Mandiri
+"Jl. Mertasari No.166, Sidakarya, Kec. Denpasar Sel., Kota Denpasar, Bali 80224",Kota Denpasar,Bali,-8.7060612,115.2377996,Bank Mandiri
+"Jl. Teuku Umar Barat, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80114",Kota Denpasar,Bali,-8.6760531,115.1853389,Bank Mandiri
+"Jl. Cok Agung Tresna, Panjer, Kec. Denpasar Sel., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.6671797,115.2326059,Bank Mandiri
+"Jl. Wr Supratman No.289, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6398733,115.2525051,Bank Mandiri
+"Jl. Raya Sukawati, Sukawati, Gianyar, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.5918423,115.282606,Bank Mandiri
+"Jl Labuansait Padang Padang Badung Bali, Bali",Kabupaten Badung,Bali,-8.8111377,115.1037658,Bank Mandiri
+"Jl. Raya Uluwatu No.138A, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7964464,115.161402,Bank Mandiri
+"Jl. Raya Kuta No.80-74, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.711140100000001,115.1810073,Bank Mandiri
+"Jl. Pantai Batu Bolong No.55, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",Kota Canggu,Bali,-8.649879499999999,115.1365852,Bank Mandiri
+"Head Office :, Jl. Raya Batubulan No.88X, Batubulan, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kabupaten Gianyar,Bali,-8.6309613,115.2599159,Bank Mandiri
+"Jl. WR Supratman No.275, Kesiman Kertalangu, Kec. Denpasar Tim., Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6409989,115.2515995,Bank Mandiri
+"Jl. By Pass Ngurah Rai No.385, Sanur Kauh, Kec. Denpasar Sel., Kota Denpasar, Bali",Kota Denpasar,Bali,-8.7046285,115.2522247,Bank Mandiri
+"Jl. Untung Suropati No.36 Semara Pura Tengah, Bali",Kabupaten Klungkung,Bali,-8.5344701,115.3993778,Bank Mandiri
+"Kutampi Kaler, Nusapenida, Klungkung Regency, Bali 80771",Kabupaten Klungkung,Bali,-8.6759101,115.5441451,Bank Mandiri
+"Jl. By Pass Tanah Lot, Cemagi, Kec. Mengwi, Kabupaten Badung, Bali 80351",Kabupaten Badung,Bali,-8.6202203,115.1177507,Bank Mandiri
+"Batununggul, Nusapenida, Kabupaten Klungkung, Bali 80771",Kabupaten Klungkung,Bali,-8.6810925,115.5621872,Bank Mandiri
+"Lembongan Nusa Lembongan, Jungutbatu, Nusapenida, Kabupaten Klungkung, Bali 80771",Kabupaten Klungkung,Bali,-8.675487799999999,115.447159,Bank Mandiri
+"Jl. Teuku Umar, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80114",Kota Denpasar,Bali,-8.6770288,115.2061142,Bank Mandiri
+"Jl Raya Mengwi-Bedugul, Desa Denkayu, Mengwi, Badung",Kabupaten Tabanan,Bali,-8.2820064,115.1652541,Bank Mandiri
+"Jl. Tukad Badung No.88, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80226",Kota Denpasar,Bali,-8.681945599999999,115.2378062,Bank Mandiri
+"Jl. Pantai - Pandawa, Kutuh Ï¿½ South Kuta Kab. Badung Bali",Kabupaten Badung,Bali,-8.840793,115.1840368,Bank Mandiri
+"Jl. Raya Buduk Lingk, Cepaka, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6063824,115.16505,Bank Mandiri
+"Jl. Danau Poso No.102, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80228",Kota Denpasar,Bali,-8.7049568,115.259055,Bank Mandiri
+"Jl. Raya Mas No.88X, Mas, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kota Denpasar,Bali,-8.5505819,115.2725839,Bank Mandiri
+"Jl. Ngurah Rai No.58, Karangasem, Kec. Karangasem, Kabupaten Karangasem, Bali 80811",Kabupaten Karangasem,Bali,-8.4356762,115.6121191,Bank Mandiri
+"Jl. Raya Andong No.11, Peliatan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kabupaten Gianyar,Bali,-8.5033829,115.2723376,Bank Mandiri
+"Jl. Petitenget No.19X, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.6771427,115.1550565,Bank Mandiri
+"Jl. Kuruksetra No.88, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.8008161,115.2142387,Bank Mandiri
+"Jl. Raya Sesetan No.331, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223",Kota Denpasar,Bali,-8.7117706,115.2208857,Bank Mandiri
+"Jl. Subak Sari, Canggu, Kuta Utara, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.6485594,115.1419766,Bank Mandiri
+"Jl. Pulau Galang No.45, Pemogan, Kec. Denpasar Sel., Kota Denpasar, Bali 80225",Kota Denpasar,Bali,-8.6932608,115.1927371,Bank Mandiri
+"Jl. Bypass Ngurah Rai No.58, Kedonganan, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7632961,115.1784771,Bank Mandiri
+"Jl. Pratama No 34 A Benoa, Kuta Selatan 80361, Bali",Kabupaten Badung,Bali,-8.7876808,115.2259441,Bank Mandiri
+"Jl. Pulau Bungin, Pedungan, Kec. Denpasar Sel., Kota Denpasar, Bali 80114",Kota Denpasar,Bali,-8.6904953,115.2028059,Bank Mandiri
+"Jl. Tegal Utu, Gg. Lumia, Banjar Kelingkung - Desa Lod Tunduh, Lodtunduh, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",Kabupaten Gianyar,Bali,-8.545717,115.2597497,Bank Mandiri
+"Jl. Raya Kuta No.105, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.71391,115.181263,Bank Mandiri
+"Jl. Pejeng Kaja-Tampak Siring No.551, Tampaksiring, Kabupaten Gianyar, Bali 80552",Kabupaten Gianyar,Bali,-8.4325004,115.3073493,Bank Mandiri
+"Jl. By Pass Ngurah Rai No.401, Sanur, Kec. Denpasar Sel., Kota Denpasar, Bali 80228",Kota Denpasar,Bali,-8.6953833,115.2588929,Bank Mandiri
+"Jl. Suwung Batan Kendal, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80223",Kota Denpasar,Bali,-8.7105927,115.2242349,Bank Mandiri
+"Jl. Pratama, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7771293,115.2235207,Bank Mandiri
+"Jl. WR Supratman No.1, Dangin Puri Kangin, Kec. Denpasar Utara, Kota Denpasar, Bali 80237",Kota Denpasar,Bali,-8.6488433,115.223333,Bank Mandiri
+"Jl. Umalas No.8a, Kerobokan, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6679724,115.1644055,Bank Mandiri
+"Jl. Uluwatu, Pecatu, Kuta Selatan, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.8364053,115.1144227,Bank Mandiri
+"Jl. Raya Canggu No.666, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6438381,115.1569196,Bank Mandiri
+"Jl. Seririt- Singaraja, Temukus, Kec. Banjar, Kabupaten Buleleng, Bali 81152",Kabupaten Buleleng,Bali,-8.1776943,114.9964727,Bank Mandiri
+"Jl By Pass Ngurah Rai No. 548 Sanur, Kota Denpasar, Bali",Kota Denpasar,Bali,-8.7035841,115.2488442,Bank Mandiri
+"Jl. Pantai Batu Mejan No.5x, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351, Indonesia",Kabupaten Badung,Bali,-8.6533407,115.1272044,Bank Mandiri
+"Jl Raya Abianbase Dalung, Mengwi - Badung, Bali",Kabupaten Badung,Bali,-8.6033454,115.1717302,Bank Mandiri
+"Jl By Pass Ngurah Rai No.22, Badung, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7263671,115.1806585,Bank Mandiri
+"Jl Pantai Balangan No I Ungasan, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.8130185,115.1448444,Bank Mandiri
+"Jl. Raya Padang Luwih, Dalung, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.6239879,115.1744524,Bank Mandiri
+"Jl. Glogor Carik, Pemogan, Kec. Denpasar Sel., Kota Denpasar, Bali 80221",Kota Denpasar,Bali,-8.7073081,115.1894941,Bank Mandiri
+"Jl. Raya Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.717395,115.1744144,Bank Mandiri
+"Jl. Petitenget Kerobokan , Kuta, Denpasar, Bali",Kabupaten Badung,Bali,-8.6764349,115.1565926,Bank Mandiri
+"Jl. Sunset Road No.139, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.708158599999999,115.1841295,Bank Mandiri
+"Jl. Raya Denpasar - Gilimanuk No.425-433, Ubung Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali 80116",Kota Denpasar,Bali,-8.616838,115.194798,Bank Mandiri
+"Jl. Bypas Ngurah Rai Mumbul Nusa Dua, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.785122099999999,115.1964043,Bank Mandiri
+"Jl. Toyaning No.8, Kedonganan, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.761241199999999,115.1775293,Bank Mandiri
+"Jalan Raya Uluwatu,, Kawasan Pecatu Indah Resort Pecatu, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.8219494,115.1430114,Bank Mandiri
+"Jl. Tegal Wangi Ii No.34, Sesetan, Kec. Denpasar Sel., Kota Denpasar, Bali 80225",Kota Denpasar,Bali,-8.6956218,115.2237581,Bank Mandiri
+"Jl. Pantai Berawa, Tibubeneng, Kuta Utara, Canggu, Bali 80351",Kabupaten Badung,Bali,-8.6475118,115.1502224,Bank Mandiri
+"Jalan Darma Wangsa, Kutuh, Kuta Selatan, Kutuh, Kec. Kuta Sel., Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.8200062,115.1891423,Bank Mandiri
+"Jl. Raya Sanggingan Jl. Raya Campuan No.45, Sayan, Kecamatan Ubud, Kabupaten Gianyar, Bali 80515",Kabupaten Gianyar,Bali,-8.4998329,115.2526067,Bank Mandiri
+"Jalan Raya Candidasa, Sengkidu, Candidasa, Sengkidu, Kec. Manggis, Kabupaten Karangasem, Bali 80851",Kabupaten Karangasem,Bali,-8.5083666,115.5662281,Bank Mandiri
+"Jl. Kayu Aya No.1, Banjar Taman, Seminyak, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.682679799999999,115.1644891,Bank Mandiri
+"Jl. By Pass Dharma Giri No.99X, Buruan, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581",Kabupaten Gianyar,Bali,-8.548612799999999,115.3072844,Bank Mandiri
+"Simpang Siur, Jl. By Pass Ngr Rai, Kuta, Bali",Kabupaten Badung,Bali,-8.7245289,115.180935,Bank Mandiri
+"Jl Waturenggong No.164 Panjer, Denpasar, Bali",Kota Denpasar,Bali,-8.6785827,115.2249715,Bank Mandiri
+"Jl Raya Kapal Manggupura Mengwi, Kabupaten Tabanan, Bali",Kabupaten Tabanan,Bali,-8.5774652,115.1811977,Bank Mandiri
+"JL KUBUANYAR, kuta, Jl. Kubu Anyar, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Gianyar,Bali,-8.7304176,115.1725471,Bank Mandiri
+"Jl. Uluwatu No. 45, Kedonganan, Jimbaran, Bali",Kabupaten Badung,Bali,-8.7792952,115.1668755,Bank Mandiri
+"Jl. Raya Canggu No.88, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.645436,115.1683402,Bank Mandiri
+"Jl. Pengubengan Kauh No.2, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.6665724,115.1699891,Bank Mandiri
+"Jl. Raya Kuta Jl. Sunset Road No.Br, Abian Base, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7084209,115.1811536,Bank Mandiri
+"Jl Subak Sari No 84 Tibubeneng Canggu, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.6695479,115.1461535,Bank Mandiri
+"Jl. Raya Guwang, Ketewel, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",Kota Sukawati,Bali,-8.6197654,115.2840247,Bank Mandiri
+"Jl. Kayu Aya No.42C, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.683551999999999,115.1630101,Bank Mandiri
+"Jl. Raya Kuta No.10X, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7207853,115.1700835,Bank Mandiri
+"Jl. Benesari, Legian, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.712307599999999,115.1715444,Bank Mandiri
+"Komplek Itdc Nusa Dua, Benoa, Kuta Selatan, Benoa, Kuta Sel., Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7974028,115.2253573,Bank Mandiri
+"Jl. Raya Seminyak, Seminyak, Kuta, Seminyak, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.6929799,115.1680309,Bank Mandiri
+"Jalan Hang Tuah No.45, Sanur Kaja, Denpasar Selatan, Sanur Kaja, Kec. Denpasar Sel., Kota Denpasar, Bali 80227",Kota Denpasar,Bali,-8.673840799999999,115.2620649,Bank Mandiri
+"Jl Buana Raya, Padangsambian, Denpasar Barat, Padangsambian, Kec. Denpasar Bar., Kota Denpasar, Bali 80118",Kota Denpasar,Bali,-8.6628906,115.1877063,Bank Mandiri
+"Jalan Raya Pengosekan, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kabupaten Gianyar,Bali,-8.5219729,115.2630857,Bank Mandiri
+"Kelurahan Banyuasri Singaraja Buleleng Bali, Banyuasri, Kec. Buleleng, Kabupaten Buleleng, Bali 81116",Kabupaten Buleleng,Bali,-8.1124456,115.0792189,Bank Mandiri
+"Jl. Seririt- Singaraja, Kaliasem, Kec. Banjar, Kabupaten Buleleng, Bali 81152",Kabupaten Buleleng,Bali,-8.1653275,115.0191728,Bank Mandiri
+"Kawasan Wisata Tanah Lot, Tabanan, Kabupaten Tabanan, Bali",Kabupaten Tabanan,Bali,-8.621213,115.086807,Bank Mandiri
+"Jl. Raya Dalung Permai Kec Kuta Utara 80361, Bali",Kabupaten Badung,Bali,-8.6284048,115.1716568,Bank Mandiri
+"Spbu 54, Jl. Hang Tuah No.801.43, Sanur, Denpasar Selatan, Denpasar City, Bali 81112",Kota Denpasar,Bali,-8.6747964,115.2576079,Bank Mandiri
+"Jl. Teuku Umar Brt., Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80117",Kota Denpasar,Bali,-8.6733711,115.1760386,Bank Mandiri
+"Jl. Dewi Sri No.21, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7077257,115.1782397,Bank Mandiri
+"Jl. P.B. Sudirman, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80234, Indonesia",Kota Denpasar,Bali,-8.6720347,115.2180231,Bank Mandiri
+"Jl. Hayam Wuruk 98 Denpasar Bali, Kota Denpasar, Bali",Kota Denpasar,Bali,-8.659075099999999,115.2391184,Bank Mandiri
+"Jl. Kresna, Pemuteran, Gerokgak, Kabupaten Buleleng, Bali 81155, Indonesia",Kota Singaraja,Bali,-8.1490097,114.6555036,Bank Mandiri
+"Jl. Trenggana No.55, Penatih, Kec. Denpasar Tim., Kota Denpasar, Bali 80237, Indonesia",Kota Denpasar,Bali,-8.618188400000001,115.2406708,Bank Mandiri
+"Jl. Raya Sempidi, Sempidi, Kec. Mengwi, Kabupaten Badung, Bali 80351",Kabupaten Badung,Bali,-8.6085365,115.1900549,Bank Mandiri
+"Jl. Ahmad Yani No.6, Abian Tuwung, Kec. Kediri, Kabupaten Tabanan, Bali 82121",Kota Tabanan,Bali,-8.5592262,115.1500325,Bank Mandiri
+"Jl. Kamboja No.32, Sumerta Kauh, Kec. Denpasar Tim., Kota Denpasar, Bali 80236, Indonesia",Kota Denpasar,Bali,-8.656554999999999,115.2252632,Bank Mandiri
+"Kompleks Inna Grand Bali Beach Hotel, Jl. Hang Tuah No.58, Sanur Kaja, Kec. Denpasar Sel., Kota Denpasar, Bali 80226",Kota Denpasar,Bali,-8.6747625,115.2583583,Bank Mandiri
+"Jl. Pulau Moyo, Pedungan, Denpasar, Kota Denpasar, Bali",Kota Denpasar,Bali,-8.7022287,115.2131278,Bank Mandiri
+"Jl. Yos Sudarso No.4, Dauh Puri, Kec. Denpasar Bar., Kota Denpasar, Bali 80232",Kota Denpasar,Bali,-8.6676903,115.2163112,Bank Mandiri
+"Jl. Tukad Yeh Aya No.170, Renon, Kec. Denpasar Sel., Kota Denpasar, Bali 80239",Kota Denpasar,Bali,-8.6771991,115.2419971,Bank Mandiri
+"Jl. Denpasar-Singaraja No.29, Werdi Bhuwana, Mengwi, Kabupaten Badung, Bali 80351",Kabupaten Tabanan,Bali,-8.4915646,115.1854855,Bank Mandiri
+"Jl. Gatot Subroto Tim., Kesiman Petilan, Denpasar, Kota Denpasar, Bali 80112",Kota Denpasar,Bali,-8.6358036,115.2427322,Bank Mandiri
+"Jl. Tukad Punggawa Pantai Melasti Serangan, Serangan, Kec. Denpasar Sel., Kota Denpasar, Bali 80229",Kota Denpasar,Bali,-8.7246962,115.2336033,Bank Mandiri
+"Jl. Teuku Umar Barat No.148, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.6814213,115.1927139,Bank Mandiri
+"Jalan Gunung Jayawijaya 494 Kerobokan, Kerobokan Kelod, North Kuta, Badung Regency, Bali 80361",Kota Denpasar,Bali,-8.6554929,115.1873609,Bank Mandiri
+"Jl. By Pass Ngurah Rai Kuta Bali, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.7462563,115.183038,Bank Mandiri
+"Jl. Raya Toya Pakeh - Ped, Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",Kabupaten Klungkung,Bali,-8.6857952,115.4891462,Bank Mandiri
+"Sunset Point Lembongan, Jalan Raya Lembongan, Jungutbatu, Nusapenida, Kabupaten Klungkung, Bali 80771",Kabupaten Klungkung,Bali,-8.6902836,115.4521075,Bank Mandiri
+"Jl. Gunung agung. Padangsambian, Kec. Denpasar Barat, Kota Denpasar, Bali 80118",Kota Denpasar,Bali,-8.6511692,115.1908593,Bank Mandiri
+"Jl. Sunset Road, Seminyak, Kuta, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.6895537,115.1722775,Bank Mandiri
+"Jl. ITDC Nusa Dua Lot BC, Benoa, Kec. Kuta Sel., Kabupaten Badung, Bali, Indonesia",Kabupaten Badung,Bali,-8.8009349,115.2320668,Bank Mandiri
+"Jl. Sunset Road, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.7005438,115.1786548,Bank Mandiri
+"Jl. Letda Tantular No.4, Dangin Puri Klod, Kec. Denpasar Tim., Kota Denpasar, Bali 80234",Kota Denpasar,Bali,-8.666474,115.2237906,Bank Mandiri
+"Jl. Teuku Umar No.1, Dauh Puri Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.669866899999999,115.2142966,Bank Mandiri
+"Jalan Airport Ngurah Rai, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.7439023,115.1746069,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Tuban, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jl. Kartika Plaza No.5, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.735280999999999,115.1666087,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Tuban, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jl Raya I Gst Ngurah Rai Tuban Kuta 80362, Bali",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jl. Raya Kuta, Kuta, Kabupaten Badung, Bali 80361, Bali",Kabupaten Badung,Bali,-8.7223377,115.1767393,Bank Mandiri
+"Jl. Raya Kuta, Kuta, Kabupaten Badung, Bali 80361, Bali",Kabupaten Badung,Bali,-8.7223377,115.1767393,Bank Mandiri
+"Jl. Raya Kuta, Kuta, Kabupaten Badung, Bali 80361, Bali",Kabupaten Badung,Bali,-8.7223377,115.1767393,Bank Mandiri
+"Discovery Shopping Mall LG 1 Blok AMG-7, JL. Kartika Plaza, Kuta, Kabupaten Badung, Bali 80361, Indonesia",Kabupaten Badung,Bali,-8.7346378,115.1665681,Bank Mandiri
+"Jl. Subur No.10X, Tegal Harum, Kec. Denpasar Bar., Kota Denpasar, Bali 80119",Kota Denpasar,Bali,-8.667930799999999,115.1994526,Bank Mandiri
+"Jl. Drupadi No.29, Seminyak, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.6881641,115.165085,Bank Mandiri
+"Jalan Raya Gusti Ngurah Rai, Kuta, Kabupaten Badung, Bali 80362",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jl Raya I Gusti Ngurah Rai Tuban Kuta, Kabupaten Badung, Bali",Kabupaten Badung,Bali,-8.746717199999999,115.166787,Bank Mandiri
+"Jl. Raya Semer, Kerobokan Kelod, Badung, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.6597345,115.1633101,Bank Mandiri
+"Itdc Complex, Jl. Pantai Mengiat, Nusa Dua, Benoa, Kuta Sel., Kabupaten Badung, Bali 80363",Kabupaten Badung,Bali,-8.8038301,115.2289213,Bank Mandiri
+"Jl. Cokroaminoto No.185, Ubung, Kec. Denpasar Utara, Kota Denpasar, Bali 80115",Kota Denpasar,Bali,-8.6322735,115.2035629,Bank Mandiri
+"Jl. Raya Puputan No.210, Panjer, Kec. Denpasar Sel., Kota Denpasar, Bali 80239",Kota Denpasar,Bali,-8.6739073,115.2439819,Bank Mandiri
+"Jl. Imam Bonjol No.180, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6961765,115.186907,Bank Mandiri
+"Jl Puri Gading Blok E1 No.16 Jimbaran, Badung, Bali",Kabupaten Badung,Bali,-8.8020444,115.1497527,Bank Mandiri
+"Jl. Nusa Kambangan No.160A, Dauh Puri Kauh, Kec. Denpasar Bar., Kota Denpasar, Bali 80113",Kota Denpasar,Bali,-8.6700421,115.2077126,Bank Mandiri
+"Jl. Raya Pengosekan, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",Kabupaten Gianyar,Bali,-8.5219729,115.2630857,Bank Mandiri
+"Jl. Gn. Agung Besakih, Rendang, Kabupaten Karangasem, Bali 80863",Kabupaten Karangasem,Bali,-8.3995184,115.4204591,Bank Mandiri
+"Jl. Pantai Kuta No.32, Legian, Kuta, Kabupaten Badung, Bali, Indonesia",Kabupaten Badung,Bali,-8.7103395,115.1667773,Bank Mandiri
+"Pererenan, Mengwi, Badung Regency, Bali 80351, Bali",Kabupaten Badung,Bali,-8.638112,115.1325897,Bank Mandiri
+"Jl By Pass Kediri Banjar Anyar Kediri Tabanan, Bali",Kabupaten Tabanan,Bali,-8.552291,115.135039,Bank Mandiri
+"Jalan Mertanadi No. 62 Kerobokan Seminyak, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.677802999999999,115.1677832,Bank Mandiri
+"Jl. Kayu Aya, Pantai Seminyak, Kuta, Seminyak, Kuta, Kabupaten Badung, Bali 80361",Kabupaten Badung,Bali,-8.692012300000002,115.1578837,Bank Mandiri
+"Jl Gatot Subroto Vi No. 19 Denpasar, Kota Denpasar, Bali",Kota Denpasar,Bali,-8.6405537,115.2163459,Bank Mandiri
 "Jl. Cirendeu Raya, Pertokoan Prima Indah No. 10, Banten",Kota Tangerang Selatan,Banten,-6.3135232,106.7704071,Bank Mandiri
 "Ruko Itc Bsd No.17, Jl. Pahlawan Seribu, Serpong 15322",Kota Tangerang Selatan,Banten,-6.2860989,106.6641322,Bank Mandiri
 "Ruko Itc Bsd No.17, Jl. Pahlawan Seribu, Serpong, Banten",Kota Tangerang Selatan,Banten,-6.2860989,106.6641322,Bank Mandiri
